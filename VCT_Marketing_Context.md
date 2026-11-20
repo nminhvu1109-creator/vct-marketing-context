@@ -89,8 +89,9 @@ Cập nhật 20/11/2026. Tài liệu nội bộ: có dữ liệu đối tác, kh
 - **Trụ cột nội dung** (Brand Strategy 4.8): 01 Văn hóa và con người (hiểu) · 02 Hành trình và trải nghiệm (muốn) · 03 Cách Viet Cone chuẩn bị trải nghiệm (tin) · 04 Câu chuyện của khách (xác nhận). Chủ đề trong mỗi trụ cột là định hướng mở, bổ sung khi bối cảnh thay đổi.
 - **Kiến trúc thương hiệu:** một thương hiệu chủ đạo Viet Cone Travel. Immersion và Partenze là tên sản phẩm, viết đi cùng tên Viet Cone. MET (thương hiệu B2C riêng) đang cân nhắc, chưa quyết.
 - **Nhận diện:** theo Brand Guideline.
-  - Terracotta #B0412F là màu chủ đạo; vàng đậm #815E00 là màu phụ; vàng đất #C99A2E là màu nhấn; kem nhạt #FDFBF5 là nền. Xanh rêu #183C27 chỉ điểm xuyết.
-  - Tỷ lệ tham chiếu: 60% trung tính, 30% nhóm terracotta, 7% vàng đậm, 3% vàng đất.
+  - Terracotta #B0412F là màu chủ đạo; xanh rêu #183C27 là màu phụ; vàng đất #C99A2E là màu nhấn; kem nhạt #FDFBF5 là nền. Vàng nón chỉ dùng trong logo và trên đồng phục.
+  - Tỷ lệ tham chiếu: 60% trung tính, 25% nhóm terracotta, 7% xanh rêu, 8% vàng đất.
+  - Vàng đất ưu tiên đi với chữ mực, hoặc làm chữ trên nền xanh rêu; hạn chế dùng làm chữ trên nền sáng.
   - Font Source Sans 3, dự phòng Arial.
   - Ảnh kiểu phóng sự, có người thật.
   - Bản đồ Việt Nam luôn có Hoàng Sa, Trường Sa.
