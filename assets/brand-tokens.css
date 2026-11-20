@@ -1,6 +1,6 @@
 /* Viet Cone Travel · brand tokens (Brand Guideline mục 3, 4, 6)
    Font: Source Sans 3 tự host WOFF2; không tải từ Google Fonts trên production.
-   Trang bán cho khách (B2C, Evaneos, Partenze): thêm class "vc-b2c" vào <body> để dùng thân bài 18 px. */
+   Trang bán cho khách (B2C, Evaneos, Partenze): thêm class "vc-b2c" vào <body> để dùng thân bài 18px/1.5. */
 @import url("./fonts/source-sans-3/source-sans-3.css");
 
 :root {
@@ -24,9 +24,9 @@
   --vc-moss-50: #EFFAF2; --vc-moss-100: #E0EDE4; --vc-moss-200: #C7D7CC; --vc-moss-300: #A8BCAE; --vc-moss-400: #869D8E;
   --vc-moss-500: #698372; --vc-moss-600: #506D5A; --vc-moss-700: #375743; --vc-moss-800: #183C27; --vc-moss-900: #0B2E1B;
   --vc-ochre-50: #FFF6E5; --vc-ochre-100: #FFE7B8; --vc-ochre-200: #F5CD7C; --vc-ochre-300: #DBAF51; --vc-ochre-400: #C99A2E;
-  --vc-ochre-500: #9C7512; --vc-ochre-600: #815E00; --vc-ochre-700: #644A07; --vc-ochre-800: #4C3600; --vc-ochre-900: #332401;
+  --vc-ochre-500: #9C7512; --vc-ochre-600: #815E00; /* bậc trong thang, không dùng làm màu phụ */ --vc-ochre-700: #644A07; --vc-ochre-800: #4C3600; --vc-ochre-900: #332401;
 
-  /* Chữ (web): độ đậm cỡ/line-height */
+  /* Chữ (web): độ đậm, cỡ, line-height */
   --vc-font: "Source Sans 3", Arial, sans-serif;
   --vc-display: 900 40px/1.05 var(--vc-font);   /* tiêu đề lớn, in hoa, tối đa 6 từ */
   --vc-h2: 700 28px/1.2 var(--vc-font);          /* tiêu đề mục */

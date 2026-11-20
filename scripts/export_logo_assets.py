@@ -1,6 +1,7 @@
 """Xuất logo SVG trong assets/logo sang PNG nền trong suốt (cạnh dài 2000 px) và PDF vector (rộng 200 mm).
 
-Chạy: python scripts/export_logo_assets.py  (cần Python Playwright + Chromium)
+Chạy: python scripts/export_logo_assets.py
+Cần: pip install playwright, rồi playwright install chromium.
 Kết quả: assets/logo/png/, assets/logo/pdf/ (sinh lại được, không commit).
 PDF ở hệ RGB; bản CMYK để in cần designer hoặc nhà in chuyển đổi.
 """
@@ -29,13 +30,14 @@ def main():
             w, h = view_box(svg)
             pw, ph = WIDTH_PX, round(WIDTH_PX * h / w)
             page.set_viewport_size({"width": pw, "height": ph})
-            page.set_content(f'<html><body style="margin:0;background:transparent">'
-                             f'{svg.replace("<svg ", f"<svg width=\"{pw}\" height=\"{ph}\" ", 1)}</body></html>')
+            sized = svg.replace("<svg ", '<svg width="%d" height="%d" ' % (pw, ph), 1)
+            page.set_content('<html><body style="margin:0;background:transparent">' + sized + '</body></html>')
             page.screenshot(path=str(PNG / f"{f.stem}.png"), omit_background=True,
                             clip={"x": 0, "y": 0, "width": pw, "height": ph})
             mh = round(WIDTH_MM * h / w, 2)
-            page.set_content(f'<html><head><style>@page{{size:{WIDTH_MM}mm {mh}mm;margin:0}}html,body{{margin:0}}</style></head>'
-                             f'<body>{svg.replace("<svg ", f"<svg style=\"display:block;width:{WIDTH_MM}mm;height:{mh}mm\" ", 1)}</body></html>')
+            boxed = svg.replace("<svg ", '<svg style="display:block;width:%smm;height:%smm" ' % (WIDTH_MM, mh), 1)
+            page.set_content('<html><head><style>@page{size:%smm %smm;margin:0}html,body{margin:0}</style></head><body>%s</body></html>'
+                             % (WIDTH_MM, mh, boxed))
             page.pdf(path=str(PDF / f"{f.stem}.pdf"), width=f"{WIDTH_MM}mm", height=f"{mh}mm",
                      print_background=True, page_ranges="1")
             print(f.stem)
