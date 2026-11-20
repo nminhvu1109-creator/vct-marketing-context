@@ -1,0 +1,74 @@
+/* Viet Cone Travel · brand tokens (Brand Guideline mục 3, 4, 6)
+   Font: Source Sans 3 tự host WOFF2; không tải từ Google Fonts trên production.
+   Trang bán cho khách (B2C, Evaneos, Partenze): thêm class "vc-b2c" vào <body> để dùng thân bài 18 px. */
+@import url("./fonts/source-sans-3/source-sans-3.css");
+
+:root {
+  /* Màu chính */
+  --vc-terracotta: #B0412F;       /* tiêu đề, link, nút chính, khối nhấn */
+  --vc-terracotta-dark: #8F3023;  /* trang mở phần, nền bản âm trắng, trạng thái lỗi */
+  --vc-moss: #183C27;             /* footer, khối phụ */
+  --vc-ochre: #C99A2E;            /* số liệu trên nền đậm */
+
+  /* Trung tính */
+  --vc-cream: #FDFBF5;            /* nền trang */
+  --vc-palm: #F3EEE2;             /* nền thẻ, khối phụ */
+  --vc-line: #DDD9CC;             /* đường kẻ trang trí (1,4:1, không dùng cho viền ô nhập) */
+  --vc-ink: #20251F;              /* chữ thân bài (15,1:1 trên kem) */
+  --vc-ink-soft: #53574C;         /* chữ phụ, viền ô nhập (7,2:1 trên kem) */
+
+  /* Thang sắc độ 50–900 */
+  --vc-terracotta-50: #FFF4F2; --vc-terracotta-100: #FFE2DC; --vc-terracotta-200: #FEC2B6;
+  --vc-terracotta-300: #F39C8B; --vc-terracotta-400: #D87866; --vc-terracotta-500: #C05745;
+  --vc-terracotta-600: #B0412F; --vc-terracotta-700: #8F3023; --vc-terracotta-800: #6F291F; --vc-terracotta-900: #531C13;
+  --vc-moss-50: #EFFAF2; --vc-moss-100: #E0EDE4; --vc-moss-200: #C7D7CC; --vc-moss-300: #A8BCAE; --vc-moss-400: #869D8E;
+  --vc-moss-500: #698372; --vc-moss-600: #506D5A; --vc-moss-700: #375743; --vc-moss-800: #183C27; --vc-moss-900: #0B2E1B;
+  --vc-ochre-50: #FFF6E5; --vc-ochre-100: #FFE7B8; --vc-ochre-200: #F5CD7C; --vc-ochre-300: #DBAF51; --vc-ochre-400: #C99A2E;
+  --vc-ochre-500: #9C7512; --vc-ochre-600: #815E00; --vc-ochre-700: #644A07; --vc-ochre-800: #4C3600; --vc-ochre-900: #332401;
+
+  /* Chữ (web): độ đậm cỡ/line-height */
+  --vc-font: "Source Sans 3", Arial, sans-serif;
+  --vc-display: 900 40px/1.05 var(--vc-font);   /* tiêu đề lớn, in hoa, tối đa 6 từ */
+  --vc-h2: 700 28px/1.2 var(--vc-font);          /* tiêu đề mục */
+  --vc-lead: 400 21px/1.4 var(--vc-font);        /* câu dẫn */
+  --vc-body: 400 18px/1.45 var(--vc-font);       /* thân bài (Guideline 4.2) */
+  --vc-body-b2c: 400 18px/1.5 var(--vc-font);    /* thân bài trang bán cho khách */
+  --vc-caption: 400 16px/1.4 var(--vc-font);     /* chú thích, màu mực nhạt */
+  --vc-label: 700 14px/1.2 var(--vc-font);       /* nhãn in hoa, giãn chữ 8%, tối đa 4 từ */
+  --vc-stat: 900 44px/1 var(--vc-font);          /* số liệu lớn */
+
+  /* Thành phần */
+  --vc-radius: 12px;
+  --vc-card-shadow: 0 2px 6px rgba(0, 0, 0, .05);
+  --vc-card-padding: 16px;
+  --vc-target: 48px;                             /* chiều cao tối thiểu của nút và ô nhập */
+}
+
+body { background: var(--vc-cream); color: var(--vc-ink); font: var(--vc-body); }
+body.vc-b2c { font: var(--vc-body-b2c); }
+a { color: var(--vc-terracotta); text-decoration: underline; text-underline-offset: .15em; }
+
+.vc-label { font: var(--vc-label); text-transform: uppercase; letter-spacing: .08em; color: var(--vc-terracotta); }
+.vc-caption { font: var(--vc-caption); color: var(--vc-ink-soft); }
+.vc-card { background: #fff; border: 1px solid var(--vc-line); border-radius: var(--vc-radius); box-shadow: var(--vc-card-shadow); padding: var(--vc-card-padding); }
+.vc-card--soft { background: var(--vc-palm); border: 0; box-shadow: none; }
+
+.vc-btn { display: inline-flex; align-items: center; justify-content: center; min-height: var(--vc-target); border-radius: 999px; padding: 12px 24px; font: 600 16px/1.2 var(--vc-font); text-decoration: none; }
+.vc-btn--primary { background: var(--vc-terracotta); color: #fff; }   /* một nút chính mỗi màn hình */
+.vc-btn--primary:hover { background: var(--vc-terracotta-dark); }
+.vc-btn--secondary { border: 1.5px solid var(--vc-terracotta); color: var(--vc-terracotta); }
+
+.vc-field { min-height: var(--vc-target); border: 1.5px solid var(--vc-ink-soft); border-radius: 8px; padding: 10px 14px; font: inherit; color: var(--vc-ink); background: #fff; }
+.vc-field-error { color: var(--vc-terracotta-dark); font: 600 16px/1.4 var(--vc-font); }
+.vc-field-error::before { content: "⚠ "; }
+
+/* Focus: xanh rêu trên nền sáng, kem trên nền đậm (WCAG 1.4.11, ≥ 3:1) */
+:where(a, button, input, select, textarea, .vc-btn):focus-visible { outline: 3px solid var(--vc-moss); outline-offset: 2px; }
+:where(.vc-footer, .vc-on-dark) :focus-visible { outline-color: var(--vc-cream); }
+
+.vc-footer { background: var(--vc-moss); color: #fff; }
+.vc-footer a { color: #fff; }
+
+/* Ritmo (mục 6.7): chấm luôn đi kèm chữ */
+.vc-ritmo { display: inline-flex; align-items: center; gap: 8px; font: 600 16px/1.3 var(--vc-font); color: var(--vc-ink); }
+.vc-ritmo__dots { letter-spacing: .1em; color: var(--vc-terracotta); }
