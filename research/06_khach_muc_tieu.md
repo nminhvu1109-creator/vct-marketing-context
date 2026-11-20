@@ -6,7 +6,6 @@ Kết luận và phân khúc mục tiêu ở bối cảnh mục 3; file này gi�
 ## 1. Tóm tắt kiểm định
 
 - Khách 50+, đi theo văn hóa: đúng với B2B (trung vị 62 tuổi); chỉ đúng một nửa với B2C (trung vị 47).
-- Mức chi: hiện tầm trung đến tầm trung khá; định hướng nâng dần một phần khách lên cận cao cấp. Ưu tiên "chiều sâu, chăm sóc kín đáo" hơn "luxury".
 - Tiếng Ý: gần 100% B2B; khoảng 98% số điện thoại B2C là +39.
 - Khách nói tiếng Anh: vài khách lẻ (qua giới thiệu) và một số lead ngoài Ý từ TTG; chưa có đối tác B2B nói tiếng Anh gửi khách. Đã có chương trình B2B tiếng Anh 2027.
 
@@ -65,13 +64,13 @@ Evaneos:
 - B2B 2 khách: gần như toàn cặp đôi, nhiều đôi trăng mật.
 - Cỡ đoàn B2B hai cực (2025): 28% đoàn chỉ 2 khách, 36% từ 10 khách. Booking 2027 trung vị 14 khách.
 - Độ dài lead B2C: trung vị 14 ngày; 48% đi 14–16 ngày. Đoàn B2B 11–16 ngày.
-- HDV lead B2C: tiếng Ý 60%, tiếng Anh 25% (vì rẻ hơn, khách vẫn là người Ý), không HDV 15%.
+- HDV lead B2C: tiếng Ý 60%, tiếng Anh 25% (thường vì rẻ hơn; khách vẫn là người Ý), không HDV 15%.
 - Khách sạn (lead B2C, n = 377): 3* 62%; 3*sup–4* 15%; 4* 15%; 4*sup–5* 5%; 5* 1,6%.
 - Khách 56+ chọn từ 3*sup trở lên 45%; dưới 46 tuổi 34%.
 
 ## 6. Chi tiêu
 
-| Phân khúc | Land tour €/khách | €/khách/ngày (ước tính, 14 ngày) |
+| Phân khúc | Land tour €/khách | €/khách/ngày (ước tính, giả định 14 ngày) |
 |---|---|---|
 | B2B đoàn ≥6 | 1.383 | ≈ 99 |
 | B2B 1–5 khách | 1.836 | ≈ 130 |
@@ -85,7 +84,8 @@ Evaneos:
 - Mốc tham chiếu land tour/khách/ngày: DMC giá rẻ US$80–120; tour ghép TO Ý €125–165; Quality Group €180–210.
 - Viet Cone nằm giữa nhóm DMC giá rẻ và tour ghép TO Ý; B2B 1–5 khách và Evaneos chạm mức thấp của tour ghép TO Ý.
 - Khách Ý đi đường dài qua TO: khoảng €3.300/khách 10–11 ngày gồm vé bay; Viet Cone land tour + vé khoảng €2.300–2.800 cho 14 ngày.
-- Đoàn B2B cho khối lượng ổn định và lấp mùa thấp điểm (T10–T11, T2–T3).
+- €/ngày giả định 14 ngày; đoàn B2B đi 11–16 ngày nên mức thực có thể lệch, cao hơn tới khoảng 25% với đoàn ngắn ngày.
+- Đoàn B2B cho khối lượng ổn định ngoài lịch nghỉ của người Ý (T10–T11, T2–T3).
 
 ## 7. Nguồn lead và chuyển đổi (CRM 2026)
 
@@ -93,15 +93,16 @@ Evaneos:
 - Agency B2B: 41 lead, chốt 14,6%.
 - Giới thiệu (khách cũ, bạn bè, HDV): 16 lead, chốt 31%; 2,6% lead nhưng 10% số đoàn chốt.
 - Evaneos 5★ chốt 18,3%; 1★ chốt 3,4%; lead 1★ chiếm 39%.
-- Evaneos: request từ trang hành trình/agency đáng €568–807, từ trang điểm đến €335.
+- Evaneos: request từ trang hành trình/agency có giá trị khoảng €568–807, từ trang điểm đến khoảng €335 (cần ghi rõ đây là giá trị gì trong dashboard).
 - Chốt theo loại khách: nhóm bạn 15,7%; cặp đôi 8,3%; gia đình 6,2%; đi một mình 2,7%.
 
 ## 8. Mùa vụ
 
+- Số dưới đây tính theo doanh thu 2025; báo cáo thị trường mục Mùa vụ tính theo số khách 2023–2025 nên tỷ trọng tháng khác.
 - B2C 2025 theo doanh thu: T8 24%, T4 17%, T2 14%, T12 10%.
 - B2B 2025: T11 22%, T8 14%, T4 13%, T12 13%, T10 10%.
 - Evaneos: 50+ chiếm đa số T1–T3 và T11 (55–79%); dưới 50 chiếm đa số T4, T8, T12.
-- T5–T6 và T9 gần như trống ở cả hai kênh.
+- T5–T6 và T9 gần như trống ở cả hai kênh. Thị trường: cao điểm tháng 8 và 11; mùa chính tháng 12–4; thấp điểm tháng 5–7; tháng 9–10 khá thấp.
 
 ## 9. Dữ liệu cần bổ sung
 
@@ -120,4 +121,4 @@ Evaneos:
 - [202610 – Management Brief](https://drive.google.com/file/d/1l-lfnJExMi1Azg-KSeeoyRXVZ2RRgEaH/view)
 - [Agency Dashboard Evaneos 2026-09](https://drive.google.com/file/d/1Ia_IXOzYE1ZSid0-j2EHWMWZeFcEB_de/view) · [bản xlsx](https://drive.google.com/file/d/1CR8GZF3k4SPV47vxpiwhhhxNQPZ29ua4/view)
 - [BEST SELLERS AND TEMPLATES](https://docs.google.com/spreadsheets/d/1TdoHVLpuCFEvycKmCFOVFf8Lc1IgYOYv34V6QvJy-lg)
-- Mốc giá thị trường: bối cảnh mục 2 và 5; `research/01_brand_docs.md`
+- Mốc giá thị trường: bối cảnh mục 2 và 5; báo cáo thị trường mục 5

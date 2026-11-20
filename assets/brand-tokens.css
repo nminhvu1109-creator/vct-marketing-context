@@ -23,18 +23,19 @@
   --vc-terracotta-600: #B0412F; --vc-terracotta-700: #8F3023; --vc-terracotta-800: #6F291F; --vc-terracotta-900: #531C13;
   --vc-moss-50: #EFFAF2; --vc-moss-100: #E0EDE4; --vc-moss-200: #C7D7CC; --vc-moss-300: #A8BCAE; --vc-moss-400: #869D8E;
   --vc-moss-500: #698372; --vc-moss-600: #506D5A; --vc-moss-700: #375743; --vc-moss-800: #183C27; --vc-moss-900: #0B2E1B;
+  /* vàng đất 600 (#815E00) là bậc trong thang, không dùng làm màu phụ */
   --vc-ochre-50: #FFF6E5; --vc-ochre-100: #FFE7B8; --vc-ochre-200: #F5CD7C; --vc-ochre-300: #DBAF51; --vc-ochre-400: #C99A2E;
-  --vc-ochre-500: #9C7512; --vc-ochre-600: #815E00; /* bậc trong thang, không dùng làm màu phụ */ --vc-ochre-700: #644A07; --vc-ochre-800: #4C3600; --vc-ochre-900: #332401;
+  --vc-ochre-500: #9C7512; --vc-ochre-600: #815E00; --vc-ochre-700: #644A07; --vc-ochre-800: #4C3600; --vc-ochre-900: #332401;
 
   /* Chữ (web): độ đậm, cỡ, line-height */
   --vc-font: "Source Sans 3", Arial, sans-serif;
   --vc-display: 900 40px/1.05 var(--vc-font);   /* tiêu đề lớn, in hoa, tối đa 6 từ */
   --vc-h2: 700 28px/1.2 var(--vc-font);          /* tiêu đề mục */
-  --vc-lead: 400 21px/1.4 var(--vc-font);        /* câu dẫn */
+  --vc-lead: 400 19px/1.4 var(--vc-font);        /* câu dẫn */
   --vc-body: 400 18px/1.45 var(--vc-font);       /* thân bài (Guideline 4.2) */
   --vc-body-b2c: 400 18px/1.5 var(--vc-font);    /* thân bài trang bán cho khách */
-  --vc-caption: 400 16px/1.4 var(--vc-font);     /* chú thích, màu mực nhạt */
-  --vc-label: 700 14px/1.2 var(--vc-font);       /* nhãn in hoa, giãn chữ 8%, tối đa 4 từ */
+  --vc-caption: 400 14px/1.4 var(--vc-font);     /* chú thích, màu mực nhạt */
+  --vc-label: 700 12px/1.2 var(--vc-font);       /* nhãn in hoa, giãn chữ 16%, tối đa 4 từ */
   --vc-stat: 900 44px/1 var(--vc-font);          /* số liệu lớn */
 
   /* Thành phần */
@@ -48,7 +49,7 @@ body { background: var(--vc-cream); color: var(--vc-ink); font: var(--vc-body); 
 body.vc-b2c { font: var(--vc-body-b2c); }
 a { color: var(--vc-terracotta); text-decoration: underline; text-underline-offset: .15em; }
 
-.vc-label { font: var(--vc-label); text-transform: uppercase; letter-spacing: .08em; color: var(--vc-terracotta); }
+.vc-label { font: var(--vc-label); text-transform: uppercase; letter-spacing: .16em; color: var(--vc-terracotta); }
 .vc-caption { font: var(--vc-caption); color: var(--vc-ink-soft); }
 .vc-card { background: #fff; border: 1px solid var(--vc-line); border-radius: var(--vc-radius); box-shadow: var(--vc-card-shadow); padding: var(--vc-card-padding); }
 .vc-card--soft { background: var(--vc-palm); border: 0; box-shadow: none; }

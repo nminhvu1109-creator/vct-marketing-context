@@ -2,7 +2,7 @@
 
 Thư mục gốc: https://drive.google.com/drive/folders/1oMa1jTZl3CWOCAe6E4PT4d9_vwD0levE
 Rà soát 20/11/2026, chỉ đọc. Không ghi tên khách lẻ, số điện thoại, email cá nhân.
-Số liệu doanh thu, biên lợi nhuận, mục tiêu: xem trực tiếp file trên Drive (link ở mục 2), không chép vào đây.
+Số liệu doanh thu, biên lợi nhuận, mục tiêu: xem trực tiếp file trên Drive (link ở mục Nguồn), không chép vào đây.
 
 ## 1. Cây thư mục (nhánh chính)
 
@@ -50,7 +50,7 @@ Số liệu doanh thu, biên lợi nhuận, mục tiêu: xem trực tiếp file 
 ### 2.1 Doanh thu, biên, mục tiêu (chỉ ghi nhận định)
 - 2026 giảm so với 2025; sheet "TOUR HỦY" tháng 3/2026 ghi "DO CHIẾN TRANH".
 - Booking 2027 đặt trước chủ yếu là B2B; B2C 2027 gần như trống.
-- Mùa: cao điểm Q4 và tháng 8; tháng 5–6 rất thấp.
+- Mùa: dồn vào tháng 8, tháng 11–12 và tháng 2–3; tháng 5–6 và tháng 9 rất thấp (chi tiết: báo cáo thị trường, mục Mùa vụ).
 - B2B tập trung vài hãng lớn; hãng mới chủ yếu từ TTG và HDV giới thiệu.
 - Biên: Evaneos cao nhất, khách trực tiếp ở giữa, B2B thấp nhất. Khách trực tiếp chốt tốt hơn Evaneos nhưng ít, chi tiêu thấp hơn.
 - Nhận định nội bộ: request Evaneos chững; request gia đình tăng; "cần đẩy mạnh mkt/branding thu hút khách lẻ trực tiếp"; nên làm package theo module (ESG/ISG/no guide).
@@ -80,12 +80,12 @@ Số liệu doanh thu, biên lợi nhuận, mục tiêu: xem trực tiếp file 
 - Bản đã đọc chưa thấy mục Classici; đối chiếu với sáu dòng sản phẩm chuẩn trước khi in.
 - Có thêm "2026 NEW BROCHURE VCT (Programs w B2B price)".
 
-### 2.7 Company Profile bản tiếng Ý (14/08/2026)
+### 2.7 Company Profile bản tiếng Ý (Google Doc 14/08/2026)
 Cần sửa theo context trước khi gửi:
 - "8 phụ nữ Việt sáng lập" (chưa xác minh) → "đội ngũ chủ yếu là phụ nữ".
 - "1 trong 13 DMC" → "1 trong 10 Partner tại Việt Nam (28/10/2026)".
 - "CAPITAL TOUR DMCs CLUB" → "CAPTOUR DMCs Club".
-- Dòng Multi-country có Thái Lan → Combinati (VN + Lào/Campuchia); Thái Lan chỉ bán khi khách hỏi.
+- Dòng Multi-country có Thái Lan → Combinati (VN + Lào/Campuchia). Thái Lan có bán qua một số đối tác B2B và khi khách hỏi; truyền thông ưu tiên Việt Nam, Lào, Campuchia.
 - Tên dòng cũ (Experience, Classic, Responsible, Multi-country) → sáu dòng chuẩn.
 - Có hai bản "có Thái Lan" và "không có Thái Lan": ưu tiên bản không có Thái Lan cho truyền thông.
 
@@ -100,9 +100,25 @@ Cần sửa theo context trước khi gửi:
 - Folder đối tác có Myanmar, Sri Lanka & Maldives (ngoài phạm vi truyền thông).
 - Mỗi tuyến có 3 mức dịch vụ (ESG / ISG / no guide, khách sạn 3–5*); có tour ảnh.
 - Đội ngũ: founder kiêm sales B2B; sales B2C (làm Evaneos), điều hành, kế toán, marketing/content, thực tập sinh; mạng lưới HDV tiếng Ý.
-- TTG Rimini: Viet Cone dự nhiều kỳ từ 2017; là nguồn hãng B2B mới chính.
+- TTG Rimini: đội ngũ dự nhiều kỳ từ 2017 (khi còn là Betel Tours); là nguồn hãng B2B mới chính.
 
-### Nguồn
+## 3. Insight cho marketing
+
+1. Kênh trực tiếp là khoảng trống lớn nhất, và kinh tế kênh ủng hộ nó: biên tốt hơn B2B, chốt tốt hơn Evaneos, không phí nền tảng.
+2. B2C 2027 gần như trống: ưu tiên chạy marketing B2C sớm cho tháng 8 và lễ cuối năm 2027.
+3. MET đang cân nhắc, chưa quyết. Trong lúc chờ, ưu tiên một bộ thông điệp Viet Cone cho cả B2B và B2C.
+4. TTG đã đem về hãng mới (Perla Nera, Preparate le valigie). Magnum đang là lead nóng ở context mục 11: cần xác nhận đã chốt hay chưa. Đo lead → booking: xem research/05.
+5. Để đặt KPI theo nguồn, ưu tiên đọc tiếp: CRM Sales_Database_v2, MONTHLY REPORTS 2026, Compass analytics, EVANEOS DASHBOARD.
+6. Nội dung tái dùng cho blog SEO tiếng Ý: KEY PRODUCT HANDBOOK, ATTRACTION/EXPERIENCE DESCRIPTION, brochure 2026–2027, MÙA NÀO ĐI ĐÂU.
+7. Đối thủ sao chép được điểm đến; lợi thế khó sao chép là quan hệ cộng đồng và câu chuyện thương hiệu.
+
+## 4. Chưa đọc, bỏ qua
+
+- Dữ liệu cá nhân (0.TOURS, nội dung 3.B2C, 1.B2B, RAW CONTACT INFO): chỉ xem tên folder.
+- 1.KẾ TOÁN, 5.HÀNH CHÍNH & NHÂN SỰ: nhạy cảm, không mở.
+- Chưa đọc: chốt sales theo tháng, CRM, MONTHLY REPORTS, Compass, EVANEOS DASHBOARD, CLIENTS DATABASE, PARTNERS LIST, brochure PDF, SOP, Tour Chain Project, ITB 2027, Travelab, 2026 TO DO LIST.
+
+## Nguồn
 
 | Tài liệu | Link |
 |---|---|
@@ -121,19 +137,3 @@ Cần sửa theo context trước khi gửi:
 | BEST SELLERS AND TEMPLATES | https://docs.google.com/spreadsheets/d/1TdoHVLpuCFEvycKmCFOVFf8Lc1IgYOYv34V6QvJy-lg |
 | RAI 1 – PROGETTO 4.2025 (folder) | https://drive.google.com/drive/folders/1P07BOCU67KwSR7br8Yv0pVQmIk7paLe7 |
 | KEY PRODUCT HANDBOOK (folder) | https://drive.google.com/drive/folders/1FkLUPc-Y14LrQ0kGwRcn9cSUiRNQoQQw |
-
-## 3. Insight cho marketing
-
-1. Kênh trực tiếp là khoảng trống lớn nhất, và kinh tế kênh ủng hộ nó: biên tốt hơn B2B, chốt tốt hơn Evaneos, không phí nền tảng.
-2. B2C 2027 gần như trống: ưu tiên chạy marketing B2C sớm cho tháng 8 và tháng 10–12/2027.
-3. MET đang cân nhắc, chưa quyết. Trong lúc chờ, ưu tiên một bộ thông điệp Viet Cone cho cả B2B và B2C.
-4. TTG đã đem về hãng mới (Magnum, Perla Nera, Preparate le valigie). Đo lead → booking: xem research/05.
-5. Để đặt KPI theo nguồn, ưu tiên đọc tiếp: CRM Sales_Database_v2, MONTHLY REPORTS 2026, Compass analytics, EVANEOS DASHBOARD.
-6. Nội dung tái dùng cho blog SEO tiếng Ý: KEY PRODUCT HANDBOOK, ATTRACTION/EXPERIENCE DESCRIPTION, brochure 2026–2027, MÙA NÀO ĐI ĐÂU.
-7. Đối thủ sao chép được điểm đến; lợi thế khó sao chép là quan hệ cộng đồng và câu chuyện thương hiệu.
-
-## 4. Chưa đọc, bỏ qua
-
-- Dữ liệu cá nhân (0.TOURS, nội dung 3.B2C, 1.B2B, RAW CONTACT INFO): chỉ xem tên folder.
-- 1.KẾ TOÁN, 5.HÀNH CHÍNH & NHÂN SỰ: nhạy cảm, không mở.
-- Chưa đọc: chốt sales theo tháng, CRM, MONTHLY REPORTS, Compass, EVANEOS DASHBOARD, CLIENTS DATABASE, PARTNERS LIST, brochure PDF, SOP, Tour Chain Project, ITB 2027, Travelab, 2026 TO DO LIST.

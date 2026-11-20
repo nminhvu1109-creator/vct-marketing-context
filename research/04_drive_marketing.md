@@ -14,7 +14,7 @@ Theo `MARKETING MAP.pptx` và sheet `[MKT] - BẢNG CHỈ DẪN THÔNG TIN` (m�
 │   ├── 0. BRAND FOUNDATION (trống)
 │   ├── 1. BRAND NARRATIVE: * 260331 VCT-BRAND FINAL.pdf (Brand Strategy 03/2026); archive: framework từng thành viên, Review VCT Brand, brochure 2020
 │   ├── 2. JTBD / INSIGHT CUSTOMER (trống)
-│   ├── 3. MARKET RESEARCH: * ITALIAN TOURISM STRATEGY 2025.pdf; thống kê Tổng cục DL (châu Âu 2008–2025)
+│   ├── 3. MARKET RESEARCH: * ITALIAN TOURISM STRATEGY 2025.pdf; thống kê Cục Du lịch Quốc gia (châu Âu 2008–2025)
 │   ├── 4. MARKETING PLAN
 │   │   ├── 4.1 MASTER PLAN 2026: * TO-DO LIST & MASTER PLAN 2026; archive: 260205 MKT VIET CONE TRAVEL.xlsx, VCT BRANDING ANALYSIS.pdf, VIET CONE STORYTELLER.pdf
 │   │   └── ARCHIVE 2018–2021: campaign FB+IG 2020–21, Beteltours FB 2018–19, content plan, MÙA NÀO ĐI ĐÂU, Content Team guideline
@@ -45,14 +45,14 @@ Theo `MARKETING MAP.pptx` và sheet `[MKT] - BẢNG CHỈ DẪN THÔNG TIN` (m�
 
 - Khung bài bản nhưng khoảng 20/40 folder cấp 3 còn trống (toàn bộ 7.4, Sales Material, Positioning, JTBD, SOP, Report).
 - Tài liệu thực chất nằm ở Brand Narrative, Website, Social, Mailchimp cũ, hội chợ.
-- Tên folder sai chính tả: MARTERIAL, ANALYSTIC, NARATIVE. Brochure 2023 có nhiều bản trùng.
+- Tên folder sai chính tả: MARTERIAL, ANALYSTIC. Brochure 2023 có nhiều bản trùng.
 - MET (folder 3.2): thương hiệu B2C riêng đang cân nhắc, chưa quyết.
 
 ## 2. Tài liệu chính
 
 ### 2.1 Chiến lược
 Brand Strategy 03/2026 (260331 VCT-BRAND FINAL.pdf):
-- Phân khúc (Classic/Discovery/Cultural) và 4 pillar cũ đã được thay bằng Brand Strategy 4.8 (20/11/2026) trong `foundation/`. Bản này chỉ để tham khảo.
+- Phân khúc (Classic/Discovery/Cultural) và 4 pillar cũ đã được thay bằng Brand Strategy bản 20/11/2026 (mục 4.8) trong `foundation/`. Bản này chỉ để tham khảo.
 - Còn dùng được: narrative 5 lớp (Market tension → Customer truth → Belief → Role → Transformation); hành trình Tourist → Traveler → Cultural Explorer; tuyên ngôn Việt–Anh–Ý.
 - Ưu tiên nói về giá trị hơn giá; nội dung chiều sâu hơn "đi đâu ăn gì"; ảnh thật hơn ảnh stock.
 
@@ -76,7 +76,7 @@ VCT BRANDING ANALYSIS.pdf (audit 30/11/2025):
 - Website: mạnh ở bản sắc, Travelife, testimonial người Ý thật; yếu ở UX cũ, thiếu CTA, video, keyword.
 
 ### 2.2 Content và social
-- Content Guideline FB, IG (04/2026): 4 bài nối tiếp về một trải nghiệm (Hiểu → Tin → Muốn → Chứng minh), ví dụ series KymViet. Đối chiếu lại với trụ cột Brand Strategy 4.8.
+- Content Guideline FB, IG (04/2026): 4 bài nối tiếp về một trải nghiệm (Hiểu → Tin → Muốn → Chứng minh), ví dụ series KymViet. Đối chiếu lại với trụ cột Brand Strategy (bản 20/11/2026, mục 4.8).
 - Guideline: Series Brief và Post Brief trước khi viết; chấm điểm 100 (≥90 đăng ngay, 75–89 đạt, <60 viết lại); hashtag #VietConeTravel #ImmerseNotJustObserve.
 - CONTENT PLAN 2025: 12 tuyến nội dung (bền vững, cẩm nang, điểm đến, ẩm thực, Human of Viet Cone, hậu trường…).
 - Campaign FB+IG 2020–2021: tiếng Ý 2–3 bài/tuần, khoảng 40 chủ đề, so sánh với Ý.
@@ -92,13 +92,13 @@ NGHIÊN CỨU KÊNH SOCIAL.docx (phần fanpage bị cắt khi đọc):
 - Website: trang zombie, `/es/` hiển thị tiếng Anh, trang Book Online mẫu Wix. GA4 và GSC đã có.
 - Khuyến nghị: video RAI làm hero; dải bảo chứng RAI (dạng chữ, logo chỉ khi có văn bản cho phép), Travelife, Evaneos; bộ lọc "Per chi?"; brochure B2B đổi email; widget review; 80% ảnh có người.
 - Traffic đối thủ/tháng: Asia Viva ~14.947 (dựa Google Ads), Amica ~13.495 (direct mạnh, 51 giây/visit), Asiatica ~11.562 (SEO mạnh, 11 giây/visit), Cocco ~2.383.
-- Tripadvisor: 90 review 5 sao, 1 review 4 sao; hạng #196/2.767 tour operator Hà Nội (top 7%); review đều 7–11/2025.
+- Tripadvisor (số trong tài liệu, khoảng 11/2025): 90 review 5 sao, 1 review 4 sao; hạng #196/2.767 tour operator Hà Nội (top 7%); review đều 7–11/2025. Số hiện tại: khoảng 90 đánh giá, 5.0 (tra 11/2026, context mục 9).
 - Đề xuất Tripadvisor: viết lại bio, album RAI, phản hồi mọi review, thẻ QR cho khách, email xin review sau 3–5 ngày.
 
 UPDATE TRIPADVISOR (Doc):
 - Bio Anh/Ý ghi "15+ năm". Việc cần làm: sửa thành "fondata nel 2019".
 - Trả lời review trong 48 giờ; 8 FAQ mẫu.
-- Cảnh báo: doc hướng dẫn tạo tài khoản giả + VPN để "seed" Q&A. Vi phạm chính sách Tripadvisor, có thể bị phạt hoặc mất hạng, trái định vị chân thực. Ưu tiên chỉ dùng câu hỏi thật của khách thật.
+- Cảnh báo: doc hướng dẫn tạo tài khoản giả + VPN để "seed" Q&A. Vi phạm chính sách Tripadvisor, có thể bị phạt hoặc mất hạng, trái định vị chân thực. Không seed Q&A bằng tài khoản giả; chỉ dùng câu hỏi thật của khách thật.
 
 SEO CONTENT MARKETING - THỊ TRƯỜNG Ý.docx:
 - 90% khách Ý tìm bằng tiếng Ý.
@@ -134,13 +134,7 @@ Lịch sử, ngoài phạm vi (chỉ tham khảo):
 ### 2.6 Nghiên cứu thị trường (7.8, 10–11/2026)
 - Hà Lan: khách đến VN 81.092 (2019), 68.057 (2023); 72% tìm nơi ít đông, 51% muốn hoạt động ý nghĩa; 55 hãng Hà Lan đang bán tour VN, nhiều hãng có Travelife.
 - Canada: 162.860 khách 1–10/2026 (+20,7%); đặt VN qua Flight Centre +42%; Air Canada dự kiến bay TP.HCM 2027; Québec cần catalogue tiếng Pháp.
-- Khách Ý đến VN (Tổng cục DL): 2020: 17.774 · 2022: 20.308 · 2023: 57.054 · 2025: 107.358 (file Drive ghi 73.009 là số chưa đủ năm).
-
-### Nguồn
-- Brand Strategy 03/2026: https://drive.google.com/file/d/131KJvWYi25K4GmcPotYLvkAtnRZ4XTkE/view
-- TO-DO LIST & MASTER PLAN 2026: https://docs.google.com/spreadsheets/d/1yEOrlGsTe6r7zJnGPvRKeUFN7PrDvk7G8eQeKe4sqcQ/edit
-- WEEKLY OVERVIEW 2026: https://docs.google.com/spreadsheets/d/1au06TnxPYCc1aU2LZZtxp9GhC4rqqYjHnt8OcV5Cpy0/edit
-- Website GD1 Action Plan: https://docs.google.com/spreadsheets/d/1tsdf_YF4LJp1v9znod1D8qs-5JiZ3GhEtU7r3-q9dYo/edit
+- Khách Ý đến VN (Cục Du lịch Quốc gia): 2020: 17.774 · 2022: 15.051 · 2023: 57.054 · 2025: 107.358. File Drive ghi khác cho 2022 (20.308) và 2025 (73.009, là số lũy kế đến tháng 8); ưu tiên số trong báo cáo thị trường.
 
 ## 3. Kênh
 
@@ -154,7 +148,7 @@ Lịch sử, ngoài phạm vi (chỉ tham khảo):
 | Website (Wix) | Nhiều lỗi kỹ thuật và thương hiệu; GĐ1 chưa bắt đầu; có GA4, GSC | Action Plan, SEO Ý |
 | Website MET | Nội dung 2023, invoice 11/2026–2027; thương hiệu đang cân nhắc, chưa quyết | folder 3.2 |
 | Email | Mạnh nhất 2020–2021; sau đó chỉ dịp hội chợ | báo cáo Mailchimp |
-| Tripadvisor, Viator | #196/2.767; Travelers' Choice 2025 và 2026; trả lời review qua Viator | UPDATE TRIPADVISOR |
+| Tripadvisor, Viator | Khoảng 90 đánh giá, 5.0 (tra 11/2026); #196/2.767 (khoảng 11/2025); Travelers' Choice 2025 và 2026; trả lời review qua Viator | UPDATE TRIPADVISOR |
 | Evaneos | Kênh bán; khách cũ liên hệ qua WhatsApp | TTG 2024 Planning |
 | Hội chợ | TTG Rimini gần như hằng năm; ITB Berlin 2027 cùng Travelife | 7.7, 7.8 |
 | PR | RAI là tài sản lớn nhất, chưa khai thác trên web | – |
@@ -177,7 +171,7 @@ Lịch sử, ngoài phạm vi (chỉ tham khảo):
 
 ## 5. Social 2026 (Weekly Overview, 20/3–13/7/2026)
 
-- 14 tuần, 30 chủ đề × 3 nền tảng: reach ≈ 11.383, engagement ≈ 839, ER ≈ 7,4%.
+- 14 tuần có báo cáo, 30 chủ đề × 3 nền tảng: reach ≈ 11.383, engagement ≈ 839, ER ≈ 7,4%.
 - Saves = 0 mọi tuần; shares 0–4/tuần; on-plan 75–100%.
 - Reach tuần 142 → 1.999. ER giảm từ ~19% (tháng 3–4) xuống 4–8% (tháng 5–6) khi reach tăng.
 - Reach TB/bài: FB ITA 108–569; FB ENG 26–68; IG 52–162.
@@ -216,9 +210,15 @@ Khoảng trống:
 Insight:
 1. Bảo chứng là nội dung mạnh nhất: bài Travelers' Choice reach gấp 2–5 lần trung bình.
 2. Hội chợ + email là lõi B2B: partner mới từ TTG mở newsletter 25–60%.
-3. Travelife chưa là lợi thế độc quyền: 6 trong 16 doanh nghiệp VN đã Certified, gồm Lux Travel DMC và Realistic Asia (có web tiếng Ý).
+3. Travelife chưa là lợi thế độc quyền: 6 trong 16 doanh nghiệp VN đã Certified, gồm Threeland, Easia và Realistic Asia (có web tiếng Ý). Lux Travel DMC: chưa rõ cấp Travelife.
 4. Thứ tự đã quyết: khách nói tiếng Anh, rồi tiếng Pháp. Nghiên cứu Hà Lan hợp bước tiếng Anh; Québec để cho bước tiếng Pháp.
 5. Năng lực thực thi là nút thắt (intern + advisor): ưu tiên ít việc, có đo lường, hơn thêm tài liệu.
 6. Social organic không ads khó chạm người Ý; quảng cáo nhỏ nhắm Ý trái nguyên tắc 2026, cần Founder quyết.
 
 Chưa đọc: TTG 2026 (research/05), tài khoản quảng cáo, ảnh/video thô, Buyers TTG 2026, phần fanpage của Nghiên cứu kênh Social, ITALIAN TOURISM STRATEGY 2025.pdf, VIET CONE STORYTELLER.pdf.
+
+## Nguồn
+- Brand Strategy 03/2026: https://drive.google.com/file/d/131KJvWYi25K4GmcPotYLvkAtnRZ4XTkE/view
+- TO-DO LIST & MASTER PLAN 2026: https://docs.google.com/spreadsheets/d/1yEOrlGsTe6r7zJnGPvRKeUFN7PrDvk7G8eQeKe4sqcQ/edit
+- WEEKLY OVERVIEW 2026: https://docs.google.com/spreadsheets/d/1au06TnxPYCc1aU2LZZtxp9GhC4rqqYjHnt8OcV5Cpy0/edit
+- Website GD1 Action Plan: https://docs.google.com/spreadsheets/d/1tsdf_YF4LJp1v9znod1D8qs-5JiZ3GhEtU7r3-q9dYo/edit

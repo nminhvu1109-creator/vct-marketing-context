@@ -15,7 +15,9 @@ WIDTH_PX, WIDTH_MM = 2000, 200
 
 
 def view_box(svg):
-    m = re.search(r'viewBox="([-\d.]+) ([-\d.]+) ([\d.]+) ([\d.]+)"', svg)
+    m = re.search(r'viewBox="([-\d.]+)[ ,]+([-\d.]+)[ ,]+([\d.]+)[ ,]+([\d.]+)"', svg)
+    if not m:
+        raise ValueError("SVG thiếu viewBox")
     return float(m.group(3)), float(m.group(4))
 
 

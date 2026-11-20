@@ -1,6 +1,6 @@
 # Khách Ý tăng, Viet Cone cần giành lại thị phần
 
-Ngày tổng hợp: 20/11/2026 (số liệu đến hết 10/2026). Mục đích: tư liệu thị trường cho marketing của Viet Cone Travel (VCT).
+Ngày tổng hợp: 20/11/2026 (số liệu đến hết 10/2026). Mục đích: tư liệu thị trường cho marketing của Viet Cone Travel.
 
 Quy ước: **[XM]** = đã xác minh qua nguồn; **[SL]** = suy luận hoặc tự tính; **[THIẾU]** = khoảng trống dữ liệu.
 
@@ -8,17 +8,17 @@ Quy ước: **[XM]** = đã xác minh qua nguồn; **[SL]** = suy luận hoặc 
 
 - [XM] Khách Ý đến Việt Nam đạt kỷ lục 107.358 lượt năm 2025 (+20,7%), cao hơn 2019 khoảng 52%.
 - [XM] 10 tháng 2026: 90.210 lượt, +5,8%. Chậm lại rõ so với 2025 và so với châu Âu (+51,5%, chủ yếu do khách Nga).
-- [XM] Xung đột Mỹ–Iran từ 28/2/2026 làm đứt các hub vùng Vịnh. Khách Ý đi Thái Lan giảm 9,6% nửa đầu năm; Việt Nam vẫn tăng.
-- [SL] VCT 2026 giảm khoảng 25–28% số khách trong khi thị trường vẫn tăng 5,8%, nhiều khả năng VCT đang mất thị phần; nguyên nhân có xu hướng nằm ở phía cung hơn là ở cầu thị trường.
-- [XM] Mùa vụ khách Ý ổn định: đỉnh tháng 8 (khoảng 15% năm) và tháng 11 (khoảng 11%), tháng 12–4 đều 8–10% mỗi tháng, tháng 5–7 thấp nhất (khoảng 15% cả ba tháng).
-- [SL] VCT dồn mùa hơn thị trường: tháng 1, 5–7 và 9 chiếm khoảng 31% khách Ý nhưng chỉ khoảng 14% khách VCT.
+- [XM] Xung đột Mỹ–Iran từ 28/2/2026 làm gián đoạn các hub vùng Vịnh. Khách Ý đi Thái Lan giảm 9,6% nửa đầu năm; Việt Nam vẫn tăng.
+- [SL] Năm 2026 lượng khách của Viet Cone giảm rõ trong khi thị trường vẫn tăng 5,8%: nhiều khả năng Viet Cone đang mất thị phần; nguyên nhân có xu hướng nằm ở phía cung hơn là ở cầu thị trường.
+- [XM] Mùa vụ khách Ý ổn định: cao điểm tháng 8 (khoảng 15% năm) và tháng 11 (khoảng 11%); mùa chính tháng 12–4 (khoảng 8–10% mỗi tháng, tháng 2 thấp hơn); thấp điểm tháng 5–7 (khoảng 15% cả ba tháng); tháng 9–10 khá thấp (khoảng 13%).
+- [SL] Viet Cone dồn mùa hơn thị trường: tháng 1, 5–7 và 9 chiếm khoảng 31% khách Ý nhưng chỉ khoảng 14% khách Viet Cone.
 - [XM] Năm 2025, khách Ý đi châu Á tăng 11% lên 3,2 triệu lượt, ở 9,8 đêm, chi 141 €/đêm. Văn hóa là động cơ chi tiêu lớn nhất.
 - [XM] ASTOI thu đông 2026/27: doanh thu tour operator −4,1%, giá +8%, Viễn Đông đi ngang. Booking phân cực: rất sớm hoặc sát ngày.
 - [XM] Khách 55+ chủ yếu đi theo cặp, quen tour nhóm, nhưng là nhóm muốn tự chủ nhiều nhất (42%).
-- [SL] Tour riêng nhịp chậm, có hướng dẫn viên tiếng Ý giỏi, có thể là khoảng trống phù hợp với VCT.
+- [SL] Tour riêng nhịp chậm, có hướng dẫn viên (HDV) tiếng Ý giỏi, có thể là khoảng trống phù hợp với Viet Cone.
 - [XM] Câu "su misura / guida italiana / autentico / assistenza 24/7" đã bão hòa: ít nhất 9 DMC Việt Nam dùng gần như cùng câu chữ.
 - [XM] Từ 27/9/2026, Ý cấm claim môi trường chung chung ("green", "sostenibile", "eco") nếu không có chứng nhận hay bằng chứng.
-- [SL] Mở rộng nên cân nhắc thứ tự: khách mua bằng tiếng Anh (UK, Úc, Benelux/Bắc Âu) trước, tiếng Pháp sau khi có Travelife Certified và hướng dẫn viên tiếng Pháp.
+- [SL] Mở rộng nên cân nhắc thứ tự: khách mua bằng tiếng Anh (UK, Úc, Benelux/Bắc Âu) trước, tiếng Pháp sau khi có HDV tiếng Pháp và Travelife Certified hoặc ATR.
 
 ## 1. Thị trường Ý → Việt Nam: tăng 52% so với 2019, nhưng 2026 chậm lại
 
@@ -52,7 +52,7 @@ Quy ước: **[XM]** = đã xác minh qua nguồn; **[SL]** = suy luận hoặc 
 
 - [SL] Cả năm 2026 ước khoảng 113.000 lượt nếu giữ mức +5,8%.
 - [SL] Tỷ lệ khách Ý Việt Nam/Thái Lan tăng từ ~25% (2019) lên ~34% (2025). Việt Nam có xu hướng thu hẹp khoảng cách.
-- [SL] Ghế bay thẳng chỉ khoảng 94.000/năm (2 chiều), tần suất thấp. Phần lớn khách Ý, kể cả khách VCT, thường bay nối chuyến qua hub.
+- [SL] Ghế bay thẳng chỉ khoảng 94.000/năm (2 chiều), tần suất thấp. Phần lớn khách Ý, kể cả khách Viet Cone, thường bay nối chuyến qua hub.
 - [SL] Trung Quốc miễn thị thực có thể trở thành đối thủ mới trong ngân sách "châu Á văn hóa" của khách Ý.
 - [SL] Xúc tiến tập trung ở Lombardia/Milano. Trung–Nam Ý (Roma, Napoli) có vẻ còn ít được khai thác.
 - [SL] Mốc 14/3/2028 hết hiệu lực miễn thị thực là điểm nên theo dõi.
@@ -107,7 +107,7 @@ Quy ước: **[XM]** = đã xác minh qua nguồn; **[SL]** = suy luận hoặc 
 
 | | Lớn tuổi, cận cao cấp, văn hóa sâu | Classici phổ thông |
 |---|---|---|
-| Chân dung [SL] | Cặp đôi 55–70, có học vấn, nữ thường quyết định | Cặp đôi 45–65 lần đầu đi Việt Nam; gia đình, honeymoon tháng 8 |
+| Chân dung [SL] | Cặp đôi từ khoảng 50 tuổi, có học vấn, nữ thường quyết định | Cặp đôi 45–65 lần đầu đi Việt Nam; gia đình, honeymoon tháng 8 |
 | Sản phẩm | Tour riêng, nhịp chậm, khách sạn boutique 4–5*, HDV chuyên môn | Tuyến Bắc–Nam 10–13 ngày, thường kèm Campuchia |
 | Ngân sách [SL] | 4.000–5.500 €/người gồm vé bay | 2.500–3.800 €/người gồm vé bay |
 | Kênh | Agency/tour operator, tư vấn trực tiếp | Tour ghép khởi hành đảm bảo, agency, Evaneos, online |
@@ -133,7 +133,7 @@ Quy ước: **[XM]** = đã xác minh qua nguồn; **[SL]** = suy luận hoặc 
 
 ### Khách Ý theo tháng (Cục Du lịch Quốc gia) so với Viet Cone
 
-| Tháng | Khách Ý 2025 (lượt) | % năm, TB 2023–2025 | % khách VCT, 2023–2025 | Ghi chú |
+| Tháng | Khách Ý 2025 (lượt) | % năm, TB 2023–2025 | % khách Viet Cone, 2023–2025 | Ghi chú |
 |---|---|---|---|---|
 | 1 | 11.490 | 9,8 | 5,4 | Sau Epifania; 2026 đạt 16.461 (+43%) |
 | 2 | 9.699 | 7,9 | 11,8 | Tết 17/2/2026, 6/2/2027 |
@@ -149,27 +149,32 @@ Quy ước: **[XM]** = đã xác minh qua nguồn; **[SL]** = suy luận hoặc 
 | 12 | 9.490 | 9,4 | 14,5 | Natale–Capodanno |
 | Năm | 107.358 | 100 | 100 | |
 
+### Đã xác minh
+
 - [XM] Tỷ trọng tháng ổn định qua các năm: tháng 8 cao nhất (13,5% năm 2019; 14,5–16,2% năm 2023–2025), tháng 6 thấp nhất (3,6–4,8%).
-- [XM] Tháng 11 là đỉnh thứ hai (10,2–12,1%). Tháng 12 đến tháng 4 đều khoảng 7–11% mỗi tháng.
-- [XM] Tháng 5–7 chỉ chiếm khoảng 15% năm; tháng 9–10 khoảng 13%.
+- [XM] Tháng 11 là đỉnh thứ hai (10,2–12,1%). Mùa chính tháng 12–4: khoảng 7–11% mỗi tháng.
+- [XM] Thấp điểm tháng 5–7: khoảng 15% năm. Tháng 9–10 khá thấp: khoảng 13%.
 - [XM] Khách Ý lệch về tháng 8 hơn châu Âu khác: năm 2025, tháng 8 chiếm 15,1% ở Ý, 16,3% ở Tây Ban Nha, nhưng chỉ 7,6–8,4% ở Anh, Pháp, Đức. Ba thị trường này đỉnh vào tháng 2–4 và tháng 11.
 - [XM] 2026 so với cùng kỳ: tháng 1 +43%, tháng 4 −24%, tháng 7–8 −10% đến −16%, tháng 9 +54%, tháng 10 −6%.
-- [SL] Biến động 2026 có thể do xung đột vùng Vịnh từ 28/2 và Pasqua sớm (5/4), một phần khách hè có vẻ dời sang tháng 9.
 - [XM] Người Ý chi cho du lịch nước ngoài năm 2026 (mọi điểm đến): 2,3–2,7 tỷ € mỗi tháng từ tháng 1 đến 5, 3,0 tỷ tháng 6, 3,6 tỷ tháng 7, 4,5 tỷ tháng 8.
 - [XM] Lịch học 2025/26: nghỉ Natale từ 22–24/12 đến 6–7/1, nghỉ Pasqua 2–7/4/2026, kết thúc năm học 6–16/6, khai giảng 8–16/9.
 - [XM] Avventure nel Mondo tính giá cao điểm vào hè, Natale–Capodanno–Epifania và từ Pasqua đến các "ponti" mùa xuân; 9 lần khởi hành Việt Nam dồn vào 19–26/12/2026. OVET khởi hành hằng tuần cả năm 2027, bỏ đầu tháng 2 (trùng Tết) và nửa cuối tháng 12.
 - [XM] Khí hậu: miền Bắc dễ chịu nhất khoảng tháng 10–4 (tháng 12–2 lạnh), miền Trung đẹp khoảng tháng 2–8 và mưa bão khoảng tháng 9–12, miền Nam khô tháng 12–4. Năm 2025, Huế mưa lũ 23 ngày (15/10–6/11).
 - [XM] Lúa chín Mù Cang Chải khoảng giữa tháng 9 đến đầu tháng 10; tam giác mạch Hà Giang khoảng tháng 10–11.
-- [XM] Khách VCT (theo tháng khởi hành, 2023–2025) dồn hơn thị trường: tháng 8 khoảng 20%, tháng 12 khoảng 15%; tháng 5, 6 và 9 cộng lại khoảng 4%.
-- [XM] VCT 2024–2025: B2B dồn vào tháng 2–3 (khoảng 29%), tháng 8 và 11 (khoảng 16% mỗi tháng), tháng 1 rất thấp. B2C dồn vào tháng 1–2, tháng 4, tháng 8 (khoảng 22%) và tháng 12; tháng 11 thấp.
+- [XM] Khách Viet Cone (theo tháng khởi hành, 2023–2025) dồn hơn thị trường: tháng 8 khoảng 20%, tháng 12 khoảng 15%; tháng 5, 6 và 9 cộng lại khoảng 4%.
+- [XM] Viet Cone 2024–2025: B2B dồn vào tháng 2–3 (khoảng 29%), tháng 8 và 11 (khoảng 16% mỗi tháng), tháng 1 rất thấp. B2C dồn vào tháng 1–2, tháng 4, tháng 8 (khoảng 22%) và tháng 12; tháng 11 thấp. Số này tính theo khách; research/06 tính theo doanh thu 2025 nên tỷ trọng tháng khác.
+
+### Suy luận
+
+- [SL] Biến động 2026 có thể do xung đột vùng Vịnh từ 28/2 và Pasqua sớm (5/4), một phần khách hè có vẻ dời sang tháng 9.
 - [SL] Tháng 8, Natale và Pasqua gắn với lịch nghỉ cố định của người đi làm và gia đình (thường qua B2C). Tháng 2–3 và 11 nhiều khả năng là khách hưu trí và tour nhóm đi ngoài lịch học (thường qua B2B).
-- [SL] Tháng 1, 5–7 và 9 chiếm khoảng 31% khách Ý nhưng chỉ khoảng 14% khách VCT: đây có vẻ là phần thị trường VCT đang bỏ ngỏ.
+- [SL] Tháng 1, 5–7 và 9 chiếm khoảng 31% khách Ý nhưng chỉ khoảng 14% khách Viet Cone: đây có vẻ là phần thị trường Viet Cone đang bỏ ngỏ.
 
 ### Khoảng trống
 
 - [THIẾU] Số tháng của Cục Du lịch là số ước tính; số từng tháng được tính bằng hiệu số lũy kế. Bảng tháng 1 trên trang lặp số tháng 12 năm trước nên đã dùng số lũy kế.
 - [THIẾU] Số lượt đến tính theo tháng nhập cảnh, gồm cả khách công vụ và thăm thân.
-- [THIẾU] Số VCT tính theo tháng khởi hành của mã tour; năm 2023 chưa tách B2C; số B2B/B2C một vài tháng chưa khớp hẳn với tổng.
+- [THIẾU] Số Viet Cone tính theo tháng khởi hành của mã tour; năm 2023 chưa tách B2C; số B2B/B2C một vài tháng chưa khớp hẳn với tổng.
 - [THIẾU] Chưa có số liệu tháng của khách Ý đi châu Á (Banca d'Italia, ISTAT) và chưa có thời gian đặt trước theo từng mùa.
 
 ## 4. Kênh mua và quy định: agency vẫn là cửa chính, luật claim siết từ 27/9/2026
@@ -181,12 +186,12 @@ Quy ước: **[XM]** = đã xác minh qua nguồn; **[SL]** = suy luận hoặc 
 - [XM] Tour operator Ý là "organizzatore", chịu trách nhiệm toàn bộ gói và phải có bảo đảm khi mất khả năng thanh toán.
 - [XM] Điều 47 khoản 8 Codice del Turismo: đơn vị ngoài EU bán gói tại Ý hoặc nhắm hoạt động bán hàng vào Ý phải có bảo đảm tương đương.
 - [XM] Hè 2026, doanh thu tour operator giảm khoảng 5%; giảm mạnh tháng 3–5, hồi lại từ tháng 6. ASTOI nêu "percezione di insicurezza" và last minute.
-- [XM] Tiêu chí agency thường dùng khi chọn DMC (nguồn DMC tự viết, cần kiểm chứng): ≥5 năm hoạt động, đội vận hành tại chỗ, giá minh bạch, phản hồi trong 24h, 3–5 agency tham chiếu, chứng nhận bên thứ ba, hỗ trợ 24/7.
+- [SL] Tiêu chí agency thường dùng khi chọn DMC (theo bài một DMC tự viết, chưa kiểm chứng): ≥5 năm hoạt động, đội vận hành tại chỗ, giá minh bạch, phản hồi trong 24h, 3–5 agency tham chiếu, chứng nhận bên thứ ba, hỗ trợ 24/7.
 - [XM] AITR đã chuyển thành Fondazione (7/2025). Quy mô công khai chỉ có số cũ: ~90 tổ chức, ~20 tour operator.
-- [SL] Bán white label cho tour operator Ý thường giúp VCT tránh phải tự lo bảo đảm theo điều 47.
+- [SL] Bán white label cho tour operator Ý thường giúp Viet Cone tránh phải tự lo bảo đảm theo điều 47.
 - [SL] Bán gói B2C trực tiếp cho khách Ý (site tiếng Ý, giá euro, quảng cáo nhắm Ý) có thể bị coi là "nhắm vào Ý". Cần hỏi luật sư Ý.
 - [SL] Các mạng agency lớn ưu tiên tour operator Ý. DMC nước ngoài thường vào qua tour operator Ý hoặc agency tự làm su misura.
-- [SL] Mạng AITR nhỏ nhưng khách thiên về giá trị; có thể hợp với VCT khi có bằng chứng bên thứ ba như Travelife Partner.
+- [SL] Mạng AITR nhỏ nhưng khách thiên về giá trị; có thể hợp với Viet Cone khi có bằng chứng bên thứ ba như Travelife Partner.
 
 ### Evaneos
 
@@ -234,11 +239,11 @@ Quy ước: **[XM]** = đã xác minh qua nguồn; **[SL]** = suy luận hoặc 
 | Travel Sense Asia | B2B + B2C | Hơn 50 nhân viên, đa số nói tiếng Ý; sales manager người Ý | ~US$80/ngày |
 | Kampa Tour | B2C | Lựa chọn HDV tiếng Ý | ~US$99/ngày |
 | Lux Travel DMC | Cao cấp | Site tiếng Ý; logo "Travel Life" (chưa rõ cấp) | Theo yêu cầu |
-| Cocco Travel | B2C | Travellers' Choice 2024–2026 | Không công bố |
+| Cocco Travel | B2C | Travelers' Choice 2024–2026 | Không công bố |
 | Vietnam On The Road | B2C | Văn phòng tại Hà Nội và Milano | – |
 
 - [XM] Gian hàng VNCT tại TTG 2026 có Authentic Asia, Bellasia, Mekong Image, Seasia.
-- [XM] Sổ đăng ký Travelife tại Việt Nam (28/10/2026): 10 Partner, 6 Certified. VCT là Partner.
+- [XM] Sổ đăng ký Travelife tại Việt Nam (28/10/2026): 10 Partner, 6 Certified. Viet Cone là Partner.
 - [XM] Partner khác đã công bố: Vivu Journeys, Asian Trails Vietnam, Panorama Destination (từ 4/2020, có thể đã cũ).
 - [XM] Easia Travel có Travelife Certified và nhãn ATR của Pháp.
 
@@ -263,14 +268,14 @@ Quy ước: **[XM]** = đã xác minh qua nguồn; **[SL]** = suy luận hoặc 
 
 ### Suy luận
 
-- [SL] VCT khó cạnh tranh với Asiatica về quy mô và với các DMC giá rẻ (US$80–120/ngày) về giá.
+- [SL] Viet Cone khó cạnh tranh với Asiatica về quy mô và với các DMC giá rẻ (US$80–120/ngày) về giá.
 - [SL] Travelife Partner không còn là điểm khác biệt duy nhất, vì Threeland và Easia đã lên Certified.
 - [SL] Trải nghiệm tại nhà dân đã có trong tour ghép đại trà (OVET, WeRoad). "Immersion" thường chỉ tạo khác biệt khi có chiều sâu: tên host thật, số gia đình đối tác, đóng góp minh bạch.
 - [SL] Chỉ Viaggi Solidali và GTV định vị rõ du lịch cộng đồng cho khách Ý: vừa là đối tác tiềm năng, vừa là đối thủ của Immersion.
 - [SL] Trong các trang đã xem, chưa đối thủ nào nói thẳng "senior" hay "slow travel". Đây có thể là khoảng trống định vị.
 - [SL] HDV tiếng Ý được bảo đảm và đoàn riêng là điểm dễ so sánh trực tiếp với tour ghép.
 - [SL] Seasia (B2B, gắn Vietnam Airlines) có thể là đối thủ trực tiếp nhất ở kênh tour operator Ý.
-- [SL] Thông báo "chưa có ngày khởi hành" của Viaggi Solidali là tín hiệu nên theo dõi, vì agency này chiếm khoảng 17% doanh thu VCT.
+- [SL] Thông báo "chưa có ngày khởi hành" của Viaggi Solidali là tín hiệu nên theo dõi, vì đây là đối tác B2B chính của Viet Cone.
 - [SL] Mức giá nên cân nhắc neo theo Quality Group (~€180–210/ngày) hơn theo DMC giá rẻ.
 
 ### Khoảng trống
@@ -318,10 +323,10 @@ Quy ước: **[XM]** = đã xác minh qua nguồn; **[SL]** = suy luận hoặc 
 
 - [SL] Khối tiếng Anh (Anh, Mỹ, Canada, Úc, NZ) khoảng 2,0 triệu lượt năm 2025, gấp 4,8 lần khối tiếng Pháp (Pháp, Bỉ, Thụy Sĩ) khoảng 415 nghìn.
 - [SL] Tỷ lệ Việt kiều thăm thân cao ở Mỹ, Úc, Canada, nên tệp khách văn hóa thực tế thường nhỏ hơn con số tổng.
-- [SL] Úc có vẻ khớp nhiều với chân dung khách VCT và ít phụ thuộc hub vùng Vịnh. Mùa đi lệch với châu Âu, có thể bù tháng 5–6 vốn rất thấp của VCT.
+- [SL] Úc có vẻ khớp nhiều với chân dung khách Viet Cone và ít phụ thuộc hub vùng Vịnh. Mùa đi lệch với châu Âu, có thể bù tháng 5–6 vốn rất thấp của Viet Cone.
 - [SL] Tour operator Hà Lan và Bắc Âu có thể mua bằng tiếng Anh. Đường bay Amsterdam có thể có lợi cho DMC ở Hà Nội.
 - [SL] Pháp thường đòi HDV tiếng Pháp và Travelife Certified/ATR. Cạnh tranh dày, nên cân nhắc vào khi đã đủ điều kiện.
-- [SL] Mỹ tăng chậm nhất (+8,8% năm 2025), phải xin e-visa, và có thể nhạy cảm với chủ đề chiến tranh.
+- [SL] Mỹ tăng chậm (+13,7% so với 2019), phải xin e-visa, và có thể nhạy cảm với chủ đề chiến tranh.
 
 ### Khoảng trống
 
@@ -331,7 +336,7 @@ Quy ước: **[XM]** = đã xác minh qua nguồn; **[SL]** = suy luận hoặc 
 - [THIẾU] Chưa kiểm chứng việc tour operator Hà Lan và Bắc Âu có chấp nhận HDV tiếng Anh hay không.
 - [THIẾU] Chưa có dữ liệu tuổi và độ dài chuyến cho khách Anh, Pháp, Mỹ.
 
-## 7. Xung đột Mỹ–Iran 2026: hub vùng Vịnh đứt, đường bay Ý–châu Á đổi hướng
+## 7. Xung đột Mỹ–Iran 2026: hub vùng Vịnh gián đoạn, đường bay Ý–châu Á đổi hướng
 
 - [XM] 28/2/2026 Mỹ và Israel tấn công Iran; Iran đáp trả vào Israel và các nước vùng Vịnh. Ít nhất 8 nước đóng không phận, gồm UAE, Qatar.
 - [XM] Ngừng bắn 8/4, ký bản ghi nhớ Islamabad 17/6, đổ vỡ 8/7. Giao tranh tái diễn từ tháng 9. Đến 11/2026 xung đột vẫn chưa kết thúc.
@@ -353,37 +358,38 @@ Quy ước: **[XM]** = đã xác minh qua nguồn; **[SL]** = suy luận hoặc 
 ### Định vị
 
 - Giữ "Immerse. Not just observe." và nên làm rõ: tour riêng su misura, nhịp chậm, HDV tiếng Ý chuyên môn có tên và hồ sơ, gặp gỡ có host thật.
-- Nên đưa các câu đã bão hòa ("agenzia locale", "autentico", "assistenza 24/7") xuống sau, ưu tiên thông điệp riêng.
-- Ưu tiên bằng chứng cụ thể hơn tính từ: số host, tên cộng đồng, 91 review 5.0 trên Tripadvisor, Viet Cone đồng hành cùng RAI (Speciale TG1), Travelife Partner.
+- Các câu đã bão hòa ("su misura", "autentico", "guida italiana", "assistenza 24/7") vẫn dùng được, nhưng ưu tiên chứng minh bằng người, nơi, việc cụ thể hơn đặt chúng làm thông điệp chính.
+- Ưu tiên bằng chứng cụ thể hơn tính từ: số host, tên cộng đồng, khoảng 90 đánh giá điểm 5.0 trên Tripadvisor (tra 11/2026), Viet Cone đồng hành cùng RAI (Speciale TG1), Travelife Partner.
 - Về bay: nêu các phương án nối chuyến dưới dạng dữ kiện; bay thẳng Milano–Hà Nội chỉ là một lựa chọn, không phải thông điệp chính.
 
 ### Phân khúc mục tiêu
 
-- Nên cân nhắc thu hẹp persona chính từ "cặp đôi 35–65" xuống cặp đôi Ý 55–70 ưa văn hóa (bối cảnh đã chốt: từ khoảng 50 tuổi); viết nội dung cho người phụ nữ ra quyết định (suy luận, cần kiểm bằng dữ liệu CRM).
-- Có thể giữ classic phổ thông làm sản phẩm đầu phễu: Vietnam Essenziale, khách lần đầu, gia đình và honeymoon tháng 8.
-- Nên kiểm tra lại brand guideline để ảnh, nhịp chữ và cỡ chữ phù hợp người đọc 55+.
+- Persona chính theo bối cảnh mục 3: người Ý từ khoảng 50 tuổi, đi để hiểu văn hóa.
+- Có thể thử viết nội dung cho người phụ nữ ra quyết định (suy luận, cần kiểm bằng dữ liệu CRM).
+- Có thể giữ Classici và Partenze Vietnam Essenziale làm sản phẩm đầu phễu cho khách lần đầu, gia đình và honeymoon tháng 8.
+- Nên kiểm tra ảnh, nhịp chữ và cỡ chữ có hợp người đọc từ 50 tuổi.
 
-### Khung giá (land, mỗi người mỗi ngày, cần kiểm định với đối tác)
+### Khung giá (land, mỗi người mỗi ngày; định hướng, cần kiểm định với đối tác)
 
-- Classic: €130–165, ngang OVET và "Appassionatamente Vietnam".
-- Cận cao cấp văn hóa: €180–250, neo theo Quality Group.
+- Classici: khoảng €130–165, ngang OVET và "Appassionatamente Vietnam".
+- Cận cao cấp văn hóa: khoảng €180–210, neo theo Quality Group.
 - Niêm yết bằng EUR, ưu tiên hơn USD (Partenze đang để USD).
 - Ưu tiên ngôn ngữ giá trị hơn ngôn ngữ giảm giá ("Sconti/Sale") với phân khúc cận cao cấp.
 
 ### Kênh
 
-- B2B agency/tour operator Ý có xu hướng vẫn là kênh chính cho khách 55+ cận cao cấp, vì 59% khách Ý dùng agency và chuyến trên 2.500 € thường đi qua agency.
+- B2B agency/tour operator Ý có xu hướng vẫn là kênh chính cho khách từ 50 tuổi, vì 59% khách Ý dùng agency và chuyến trên 2.500 € thường đi qua agency.
 - Nên giảm dần phụ thuộc Viaggi Solidali, ví dụ dùng TTG Rimini 2027 (13–15/10) để tìm tour operator nhỏ và agency tự làm su misura.
 - Có thể chào land cho các chuỗi tour ghép kiểu "Appassionatamente Vietnam", cạnh tranh với Seasia bằng lớp sản phẩm văn hóa/cộng đồng.
 - Nên chuẩn bị hồ sơ đáp ứng tiêu chí chọn DMC của agency Ý (năm hoạt động, agency tham chiếu, thời gian phản hồi, chứng nhận).
-- Giữ Evaneos (biên 30–42%), đồng thời cân nhắc chuyển dần khách về quan hệ trực tiếp. Số review thường là đòn bẩy thứ hạng.
+- Giữ Evaneos, đồng thời cân nhắc chuyển dần khách về quan hệ trực tiếp. Số review thường là đòn bẩy thứ hạng.
 - B2C trực tiếp tại Ý: nên hỏi luật sư Ý về nghĩa vụ bảo đảm theo điều 47 khoản 8 trước khi đẩy mạnh.
 - Lịch B2B thường nên chạy trước mùa khởi hành khoảng 5–6 tháng.
 - Nên viết nội dung tiếng Ý có cấu trúc (lịch trình mẫu, FAQ) để được AI search trích dẫn.
 
 ### Mùa vụ
 
-- Có thể nhìn năm theo ba nhịp: cao điểm theo lịch nghỉ (tháng 8, Natale–Epifania, Pasqua), mùa khách hưu trí và tour nhóm (cuối đông, xuân, tháng 11), và mùa thấp (đầu hè, tháng 9).
+- Có thể nhìn năm theo ba nhịp: cao điểm theo lịch nghỉ (tháng 8, Natale–Epifania, Pasqua), mùa khách hưu trí và tour nhóm (cuối đông, xuân, tháng 11), và mùa thấp (tháng 5–7, tháng 9–10 khá thấp).
 - Truyền thông B2B thường hiệu quả khi đi trước lúc đối tác dựng catalogue và chốt series cho từng nhịp; TTG Rimini và ITB Berlin thường rơi đúng giai đoạn này.
 - B2C (Evaneos, khách trực tiếp) thường cần nội dung sớm cho tháng 8 và lễ cuối năm, vì khách bị khóa theo lịch nghỉ cố định.
 - Mùa thấp có thể là dư địa: nên cân nhắc sản phẩm hợp mùa (miền Trung đầu hè, Tây Bắc mùa lúa chín) và thị trường có mùa lệch châu Âu.
@@ -395,17 +401,17 @@ Quy ước: **[XM]** = đã xác minh qua nguồn; **[SL]** = suy luận hoặc 
 - Viết đúng "Travelife Partner", không viết "Certified". Gia hạn trước 23/06/2027.
 - Chương trình trồng cây chỉ nói là trồng cây; không gọi là bù hay trung hòa CO2.
 - Gỡ ô consent tích sẵn trên landing TTG. Tách consent marketing khỏi yêu cầu báo giá.
-- Dùng "Viet Cone đồng hành cùng RAI"; logo Rai 1 chỉ dùng khi có văn bản cho phép.
+- Dùng "Viet Cone đồng hành cùng RAI"; logo và footage RAI chỉ dùng khi RAI cho phép bằng văn bản.
 - Nên gửi tour operator Ý bộ claim có bằng chứng kèm theo, vì họ có xu hướng soát nội dung white label theo luật mới.
 
 ### Thứ tự mở rộng (gợi ý, điều chỉnh theo năng lực)
 
-- 2027, ưu tiên 1: giành lại thị phần Ý, vì thị trường còn tăng trong khi VCT có xu hướng giảm.
-- 2027, ưu tiên 2: khách mua bằng tiếng Anh (Benelux/Bắc Âu, Anh, Úc), tiếp cận qua gian Travelife tại ITB Berlin (16–18/3/2027).
-- 2027–2028: nâng từ Travelife Partner lên Certified, thường là điều kiện để vào danh sách nhà cung cấp ở Hà Lan và Pháp.
-- 2028: Mỹ và Canada tiếng Anh, tùy đường bay Air Canada và năng lực.
-- Khoảng 2029: Pháp, Bỉ, Thụy Sĩ, sau khi có HDV tiếng Pháp và Travelife Certified/ATR.
-- Nên sửa Company Profile tiếng Anh: ưu tiên chuyên môn văn hóa miền Bắc và chứng nhận hơn định vị "Indochina" chung chung.
+- Ưu tiên 1: giành lại thị phần Ý, vì thị trường còn tăng trong khi Viet Cone có xu hướng giảm.
+- Ưu tiên 2: khách mua bằng tiếng Anh (Benelux/Bắc Âu, Anh, Úc), có thể tiếp cận qua gian Travelife tại ITB Berlin. Chuyển bước khi thị trường Ý đã ổn định và có đối tác tiếng Anh đầu tiên gửi khách.
+- Cân nhắc nâng từ Travelife Partner lên Certified: thường được ưu tiên khi tour operator Hà Lan và Pháp chọn nhà cung cấp.
+- Mỹ và Canada: theo dõi, tùy đường bay và năng lực.
+- Khách nói tiếng Pháp (Pháp, Bỉ, Thụy Sĩ): khi đã có HDV tiếng Pháp và Travelife Certified hoặc ATR.
+- Nên sửa Company Profile tiếng Anh: ưu tiên "hiểu Việt Nam qua con người", Immersion và chứng nhận hơn định vị "Indochina" chung chung.
 
 ## Nguồn
 

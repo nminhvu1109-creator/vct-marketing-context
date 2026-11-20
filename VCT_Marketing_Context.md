@@ -5,7 +5,7 @@ Cập nhật 20/11/2026. Tài liệu nội bộ: có dữ liệu đối tác, kh
 ## 0. Cách dùng
 
 - File này là bản chuẩn cho mọi việc marketing. Mỗi dữ kiện ưu tiên ghi một lần; mục 13–14 là danh sách việc, trỏ về mục gốc.
-- Tài liệu nền tảng: 4 PDF trong `foundation/` (Brand Strategy, Brand Guideline, Company Profile EN và IT). Brand Strategy và Guideline đã chỉnh theo file này ngày 20/11/2026.
+- Tài liệu nền tảng: 4 PDF trong `foundation/` (Brand Strategy, Brand Guideline, Company Profile EN và IT). Brand Strategy và Guideline đã chỉnh ngày 20/11/2026.
 - Khi tài liệu lệch nhau, theo file này, rồi đến PDF, rồi đến `research/` và `reports/` (tư liệu và nguồn).
 - Quy tắc viết theo kiểu "ưu tiên": chọn cách được ưu tiên trước, dùng cách khác khi có lý do.
 - Viết tắt: TO = tour operator; HDV = hướng dẫn viên; DMC = đơn vị điều hành tour tại điểm đến.
@@ -34,15 +34,15 @@ Cập nhật 20/11/2026. Tài liệu nội bộ: có dữ liệu đối tác, kh
 | 10T/2026 | 90.210 (+5,8%) |
 
 - Ý đứng thứ 4–5 châu Âu. Việt Nam mới bằng khoảng 1/3 Thái Lan hoặc Nhật với khách Ý: dư địa còn lớn.
-- **Mùa vụ thị trường** (Cục Du lịch, trung bình 2023–2025): cao điểm tháng 8 và tháng 11; mùa chính từ tháng 12 đến tháng 4; thấp điểm từ tháng 5 đến tháng 7; tháng 9–10 ở mức vừa. Chi tiết: báo cáo thị trường, mục Mùa vụ.
+- **Mùa vụ thị trường** (Cục Du lịch, trung bình 2023–2025): cao điểm tháng 8 và tháng 11; mùa chính từ tháng 12 đến tháng 4; thấp điểm từ tháng 5 đến tháng 7; tháng 9–10 khá thấp. Chi tiết: báo cáo thị trường, mục Mùa vụ.
 - Miễn thị thực 45 ngày cho công dân Ý, đến 14/3/2028.
 - Vietnam Airlines bay thẳng Hà Nội–Milano từ 1/7/2025, 3 chuyến/tuần. Quá ít chuyến nên khách của Viet Cone thực tế ít dùng; ưu tiên không nêu đường bay này làm lợi thế trong ấn phẩm.
-- Khách Ý đi châu Á: trung bình 11 đêm, chi khoảng €134/đêm, văn hóa là động cơ chi tiêu số 1.
+- Khách Ý đi châu Á (2025): trung bình khoảng 10 đêm, chi khoảng €141/đêm; văn hóa là động cơ chi tiêu lớn nhất.
 - Tour đường dài qua tour operator: khoảng €3.300–3.800/khách, 10–11 ngày, gồm vé bay. Hơn 70% đặt trước 60–90 ngày.
 - 59% người Ý dùng agency; agency được ưa chuộng với chuyến trên €2.500.
 - Khách 55+: đi theo cặp nhiều nhất, quen tour nhóm, nhưng cũng là nhóm muốn tự chủ nhiều nhất. Tour riêng có HDV tiếng Ý đáp ứng cả hai nhu cầu.
 - Khoảng một nửa người Ý sẵn sàng trả thêm 5–10% cho dịch vụ bền vững có chứng nhận.
-- Năm 2026 thị trường vẫn tăng trong khi lượng khách của Viet Cone giảm, rõ nhất ở B2B, một phần do tour hủy đầu năm vì xung đột vùng Vịnh. Vấn đề chủ yếu nằm ở năng lực cạnh tranh hơn là ở cầu.
+- Năm 2026 thị trường vẫn tăng trong khi lượng khách của Viet Cone giảm, rõ nhất ở B2B, một phần do tour hủy đầu năm vì xung đột vùng Vịnh. Có dấu hiệu vấn đề nằm ở năng lực cạnh tranh nhiều hơn ở cầu.
 
 ## 3. Khách hàng
 
@@ -54,13 +54,13 @@ Cập nhật 20/11/2026. Tài liệu nội bộ: có dữ liệu đối tác, kh
 
 | Nhóm | Tỷ trọng khách | Hình thức | Tuổi trung vị |
 |---|---|---|---|
-| Đoàn qua agency/TO Ý | ~40% | Đoàn 10–20 khách, HDV tiếng Ý, khởi hành cố định | 63 |
+| Đoàn qua agency/TO Ý | ~40% | Đoàn từ 6 khách, thường 10–20, HDV tiếng Ý, khởi hành cố định | 63 |
 | Tour riêng white label qua agency | ~12% | 1–5 khách, chủ yếu cặp đôi | 50 |
 | Evaneos | ~34% | Tour riêng, trung vị 2 khách | 47 |
 | Khách trực tiếp | ~14% | Tour riêng | chưa có dữ liệu |
 
 - B2B và B2C mỗi bên khoảng một nửa số khách; B2B tập trung ở vài hãng lớn.
-- Cao điểm khoảng tháng 10 đến tháng 4 và tháng 8; khách 50+ đi nhiều từ tháng 10 đến tháng 3, khách dưới 50 và gia đình thường đi tháng 4, 8, 12.
+- Khách của Viet Cone thường đông vào tháng 8, 11–12 và 2–4; thưa vào tháng 5–6 và 9. Khách B2B dồn vào tháng 2–3, 8, 11; khách B2C vào tháng 1–2, 4, 8, 12.
 - Khách được giới thiệu (khách cũ, bạn bè, HDV) chốt tốt nhất; nhóm bạn người lớn chốt tốt hơn gia đình và người đi một mình.
 
 ### Phân khúc mục tiêu
@@ -83,14 +83,14 @@ Cập nhật 20/11/2026. Tài liệu nội bộ: có dữ liệu đối tác, kh
   - Quan hệ lâu năm với cộng đồng và đối tác có tên.
   - Bộ trải nghiệm Immersion có host thật, mô tả sẵn để đối tác ghép vào chương trình.
   - Nhịp chậm, ở lâu mỗi điểm, có thời gian trò chuyện.
-- **Câu chữ đã bão hòa** (hầu hết đối thủ đều dùng): "su misura", "autentico", "guida italiana", "assistenza 24/7". Có thể dùng, nhưng ưu tiên chứng minh bằng người, nơi, việc cụ thể hơn là đặt các từ này làm thông điệp chính.
+- **Câu chữ đã bão hòa** (nhiều đối thủ dùng): "su misura", "autentico", "guida italiana", "assistenza 24/7". Có thể dùng, nhưng ưu tiên chứng minh bằng người, nơi, việc cụ thể hơn là đặt các từ này làm thông điệp chính.
 - **Giá trị:** Creativity · Passion · Solidarity · Responsibility.
 - **Tính cách:** Sage (hiểu biết, rõ ràng) và Caregiver (ấm áp, quan tâm). Kênh đối tác nghiêng về Sage, mạng xã hội nghiêng về Caregiver.
 - **Giọng điệu:** câu ngắn, cụ thể (ai, ở đâu, làm gì, bao lâu), ấm áp qua chi tiết thật. Giữ từ tiếng Ý khi cần chính xác: su misura, sopralluogo, incontro.
 - **Trụ cột nội dung** (Brand Strategy 4.8): 01 Văn hóa và con người (hiểu) · 02 Hành trình và trải nghiệm (muốn) · 03 Cách Viet Cone chuẩn bị trải nghiệm (tin) · 04 Câu chuyện của khách (xác nhận). Chủ đề trong mỗi trụ cột là định hướng mở, bổ sung khi bối cảnh thay đổi.
 - **Kiến trúc thương hiệu:** một thương hiệu chủ đạo Viet Cone Travel. Immersion và Partenze là tên sản phẩm, viết đi cùng tên Viet Cone. MET (thương hiệu B2C riêng) đang cân nhắc, chưa quyết.
 - **Nhận diện:** theo Brand Guideline.
-  - Terracotta #B0412F là màu chủ đạo; xanh rêu #183C27 là màu phụ; vàng đất #C99A2E là màu nhấn; kem nhạt #FDFBF5 là nền. Vàng nón chỉ dùng trong logo và trên đồng phục.
+  - Terracotta #B0412F là màu chủ đạo; xanh rêu #183C27 là màu phụ; vàng đất #C99A2E là màu nhấn; kem nhạt #FDFBF5 là nền. Đỏ quai nón và vàng nón chỉ dùng trong logo và trên đồng phục.
   - Tỷ lệ tham chiếu: 60% trung tính, 25% nhóm terracotta, 7% xanh rêu, 8% vàng đất.
   - Vàng đất ưu tiên đi với chữ mực, hoặc làm chữ trên nền xanh rêu; hạn chế dùng làm chữ trên nền sáng.
   - Font Source Sans 3, dự phòng Arial.
@@ -101,7 +101,7 @@ Cập nhật 20/11/2026. Tài liệu nội bộ: có dữ liệu đối tác, kh
 
 - **Dòng sản phẩm** (Brand Strategy 3.9, website, brochure 2027): Esperienziali (chủ lực), Classici, Trekking, Responsabili, Combinati (VN + Lào/Campuchia), Viaggi di nozze.
 - **Hình thức:** tour riêng su misura là chính. Partenze là các ngày khởi hành cố định, nhóm nhỏ: Vietnam Essenziale 10 ngày, từ 2 khách, tối đa 12 khách, 3 ngày khởi hành năm 2027.
-- **Partenze với đối tác:** là sản phẩm cửa vào cho đại lý; đối tác mua giá net, giá công khai giống nhau ở mọi kênh; ưu tiên trao đổi với tour operator trước khi mở ngày trùng tuyến và tháng với tuyến đoàn của họ.
+- **Partenze:** sản phẩm cửa vào của dòng Classici và cửa vào cho đại lý; đối tác mua giá net, giá công khai giống nhau ở mọi kênh; ưu tiên trao đổi với tour operator trước khi mở ngày trùng tuyến và tháng với tuyến đoàn của họ.
 - **Immersion:** trải nghiệm dùng chung cho mọi dòng. Ví dụ: bếp nhà chị Maily (Hội An), Mường Bo (Lào Cai), chùa Kim Đài (Huế), nghệ nhân hát Xoan (Phú Thọ).
 - **Thái Lan:** có bán qua một số đối tác B2B và khi khách hỏi; truyền thông thương hiệu ưu tiên Việt Nam, Lào, Campuchia.
 - **Mức giá tham chiếu** (land tour/khách/ngày): DMC giá rẻ khoảng US$80–120; tour ghép của TO Ý khoảng €125–165; Quality Group khoảng €180–210. Viet Cone hiện ở khoảng €95–130. Khi báo giá cho khách Ý, ưu tiên EUR.
@@ -116,9 +116,9 @@ Cập nhật 20/11/2026. Tài liệu nội bộ: có dữ liệu đối tác, kh
 
 ## 7. Mở rộng thị trường
 
-- **Thứ tự:** Ý (thị trường nhà) → khách nói tiếng Anh → khách nói tiếng Pháp. Chuyển sang bước sau khi bước trước đã có đối tác gửi khách.
+- **Thứ tự:** Ý (thị trường nhà) → khách nói tiếng Anh → khách nói tiếng Pháp. Ưu tiên chuyển bước khi bước trước đã có đối tác gửi khách đều.
 - **Nền cho bước tiếng Anh:** đã có chương trình B2B tiếng Anh 2027, vài khách lẻ nói tiếng Anh và một số lead ngoài Ý từ TTG. Ưu tiên biến các lead này thành đối tác gửi khách đầu tiên.
-- **Khách nói tiếng Anh, ưu tiên:** tour operator Anh, Úc, Benelux và Bắc Âu mua bằng tiếng Anh. Úc có mùa đi lệch châu Âu, bù được tháng thấp điểm. Hà Lan có đường bay thẳng Amsterdam từ 6/2026.
+- **Khách nói tiếng Anh, ưu tiên:** tour operator Anh, Úc, Benelux và Bắc Âu mua bằng tiếng Anh. Úc có mùa đi lệch châu Âu, bù được tháng thấp điểm.
 - **Khách nói tiếng Pháp:** sau khi có đủ HDV tiếng Pháp và chứng nhận cao hơn (Travelife Certified hoặc ATR). Thị trường này đã nhiều DMC cạnh tranh.
 - Với thị trường mới, ưu tiên nêu kinh nghiệm sâu với khách Ý, Immersion và Travelife hơn tuyên bố chuyên thị trường đó.
 
@@ -134,7 +134,7 @@ Cập nhật 20/11/2026. Tài liệu nội bộ: có dữ liệu đối tác, kh
   - Bellasia, Cocco, Horizon, Terra Indochina.
 - **Tour operator Ý bán Việt Nam:** OVET, "Appassionatamente Vietnam" (khởi hành hằng tuần, nhiều agency bán lại), WeRoad (khách 25–35), Avventure nel Mondo, Quality Group.
 - **Viaggi Solidali:** đối tác B2B chính, đồng thời bán tuyến Việt Nam của riêng họ.
-- **Khoảng trống:** chưa đối thủ nào lấy khách lớn tuổi hoặc du lịch chậm làm định vị chính. Trải nghiệm tại nhà dân đã có trong tour đại trà, nên Immersion chỉ khác biệt khi đủ sâu: host có tên, quan hệ lâu dài, đóng góp rõ ràng.
+- **Khoảng trống:** ít đối thủ lấy khách lớn tuổi hoặc du lịch chậm làm định vị chính. Trải nghiệm tại nhà dân đã có trong tour đại trà, nên Immersion chỉ khác biệt khi đủ sâu: host có tên, quan hệ lâu dài, đóng góp rõ ràng.
 
 ## 9. Bằng chứng uy tín và câu chữ chuẩn
 
@@ -146,7 +146,7 @@ Hai tài sản marketing chủ lực là phóng sự RAI 1 và Travelife.
   - Câu chuẩn (Guideline 7.2):
     - IT: "Abbiamo accompagnato la troupe RAI per lo Speciale TG1 "Vietnam: dalle ferite alla luce" (Rai 1, 28/12/2025)".
     - EN: "We accompanied the RAI crew for the TG1 special "Vietnam: dalle ferite alla luce" (Rai 1, 28 Dec 2025)".
-    - FR: "Nous avons accompagné l'équipe de la RAI pour le Speciale TG1 « Vietnam: dalle ferite alla luce » (Rai 1, 28/12/2025)".
+    - FR (chưa có trong Guideline): "Nous avons accompagné l'équipe de la RAI pour le Speciale TG1 « Vietnam: dalle ferite alla luce » (Rai 1, 28/12/2025)".
     - VI: "Viet Cone đồng hành cùng RAI trong Speciale TG1 "Vietnam: dalle ferite alla luce" (Rai 1, 28/12/2025)".
     - Bản ngắn có thể bỏ tên phóng sự, giữ "Speciale TG1 (Rai 1, 28/12/2025)".
   - Ưu tiên ghi tên chương trình, ngày phát và link RaiPlay. Dùng ảnh và video hậu trường do Viet Cone tự quay.
@@ -155,7 +155,7 @@ Hai tài sản marketing chủ lực là phóng sự RAI 1 và Travelife.
 - **Travelife:**
   - Travelife Partner từ 23/06/2025, hiệu lực đến 23/06/2027; cần gia hạn trước hạn.
   - Câu chuẩn: "Travelife Partner dal 06/2025". Nếu nêu số lượng thì kèm ngày tra cứu: 1 trong 10 Partner tại Việt Nam (28/10/2026).
-  - Viết đúng cấp Partner. Threeland và Easia đã Certified, nên cân nhắc lên Certified để giữ lợi thế.
+  - Viết đúng cấp Partner. Nên cân nhắc lên Certified để giữ lợi thế (mục 8).
 - **Tripadvisor:** khoảng 90 đánh giá, điểm 5.0 (tra 11/2026); Travelers' Choice 2025 và 2026.
 - **CAPTOUR:** "Membro del CAPTOUR DMCs Club".
 - **Cộng đồng đối tác:** CSIP, KymViet, KOTO, Đại học Hà Nội; 1 USD mỗi khách cho dự án trồng cây. Nêu tên đối tác khi họ đã đồng ý.
@@ -183,23 +183,9 @@ Hai tài sản marketing chủ lực là phóng sự RAI 1 và Travelife.
 
 ## 11. TTG Rimini 2026
 
-- Hội chợ diễn ra 14–16/10/2026, gian riêng Hall A7 – Stand 224. Concept "INCONTRA – Il Vietnam che incontri".
-- Lead: sheet "Requests TTG 2026" (id 1g3QiUVy45pWLgyu47Ddh-KiNFKsncgG9avVVZrJLOeI), khoảng 136 lead, phần lớn của Ý (A khoảng 39, B 55, C 29, D 9); đã có vài lead chốt.
-- **Lead nóng:**
-  - Sette8 Travel: 4 khách, 22–31/01/2027, dòng Classici, HDV riêng tiếng Ý; đã gửi proposta, chờ chốt báo giá.
-  - Lab Travel/Euphemia: đoàn 10–12 khách, tháng 4 (cần xác nhận năm), 11 ngày.
-  - Magnum Travel: 2 đoàn 15–20 khách (11–12/2027; 2–3/2028).
-  - Komanse Viaggi: incentive 70 bác sĩ, 11/2027, 5*.
-  - Smarty, Calatina, Viaggi Insoliti, Nativa, Tour Advice: đoàn 10–20 khách.
-  - Ecate Tour: phù hợp rất cao (cặp đôi 35–65, 12–15 ngày); gửi 1–2 lịch trình mẫu.
-  - Nhóm quan tâm Partenze garantite: Euphemia, Ecate, Ranieri, CDG, Perusia, Serapea, Travel SIA…
-- **Email buyer MyAgenda đã xác minh:** viaggiaesogna.aversa@gmail.com · booking@youtravelitaly.it · info@esperantoviaggi.it · serapea@serapea.it · info@tgstraveluz.com · info@ecatetour.com · info@morescaviaggi.com · info@alqaati.com · info@bristravel.com · w.maldari@colviaggi.it · travel@touradvice.am · nelphiatravel@live.it · annamaria@egadiresort.it · info@beslow.it
-- **Không dùng các email:** booking@sognaesploraviaggia.it · @sempreovunque.it · info@beslow.travel · info@alaqaati.com · nelphiatavel@live.it · @gattinoni.it trong code web Bris · @iltrifoglioviaggi.it
-- **Việc còn mở:**
-  - Chốt báo giá Sette8; gửi lịch trình mẫu cho Ecate; trả lời Verso.
-  - Làm sạch sheet lead (trùng, email, hạng).
-  - Báo cáo TTG 4 tầng: lưu lượng → lead hợp lệ → cơ hội → kết quả thương mại.
-  - Follow-up đợt 2 cho lead chưa phản hồi trước tháng 2/2027.
+- Hội chợ diễn ra 14–16/10/2026, gian riêng Hall A7 – Stand 224. Concept gian hàng "INCONTRA – Il Vietnam che incontri"; câu chiến dịch "Vietnam – Live the Story".
+- Lead: sheet "Requests TTG 2026" (id 1g3QiUVy45pWLgyu47Ddh-KiNFKsncgG9avVVZrJLOeI), khoảng 136 lead, phần lớn của Ý (A khoảng 39, B 55, C 29, D 9, mới 4); đã có vài lead chốt.
+- Lead nóng, email đối tác đã xác minh và việc còn mở: `research/05_ttg_2026.md`, mục 11.
 
 ## 12. Cách làm việc
 
@@ -222,14 +208,14 @@ Hai tài sản marketing chủ lực là phóng sự RAI 1 và Travelife.
 
 ## 13. Vấn đề ưu tiên
 
-1. Lấy lại đà tăng ở thị trường Ý, nơi thị trường vẫn tăng.
+1. Lấy lại đà tăng ở thị trường Ý.
 2. Sửa câu chữ RAI, Travelife và Thái Lan trên Company Profile, website, poster TTG theo mục 5 và 9.
 3. Gỡ ô consent tick sẵn trên landing TTG.
 4. Dọn website chính:
    - trang mẫu Wix "book-online" và các trang copy-of-*;
    - email footer "infor@";
    - lỗi chính tả tiếng Ý;
-   - các câu "20+ anni", "99% clienti soddisfatti" (mục 9);
+   - các câu "20+ anni", "99% clienti soddisfatti" (Brand Strategy 4.7);
    - đưa RAI và Travelife lên vị trí dễ thấy;
    - giá Partenze đang ghi USD: chuyển sang EUR.
 5. Mạng xã hội đang chạm chủ yếu người Việt: đo theo tỷ lệ khán giả Ý, không theo tổng reach.

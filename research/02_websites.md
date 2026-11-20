@@ -23,7 +23,7 @@ Trích dẫn giữ ngôn ngữ gốc. Câu chữ chuẩn (RAI, Travelife, năm t
 ### 1.1 Nội dung và thông điệp
 - Đối tượng: khách lẻ Ý. hreflang `it-it` (x-default), `en-gb`, `es-es`. Chưa có bản tiếng Pháp.
 - Menu: DESTINAZIONI (Vietnam, Laos, Cambogia, Thailandia) · TEMI/VIAGGI (Esperienziali, Classici, Responsabili, Trekking, Combinati) · SU DI NOI · BLOG · CONTATTACI.
-- Trang chủ: "local DMC ... con oltre 20 anni di esperienza tra Vietnam, Laos, Cambogia e Thailandia." Lệch context: thành lập 2019, truyền thông không nêu Thái Lan.
+- Trang chủ: "local DMC ... con oltre 20 anni di esperienza tra Vietnam, Laos, Cambogia e Thailandia." Lệch context: thành lập 2019; Thái Lan có bán qua một số đối tác B2B và khi khách hỏi, truyền thông ưu tiên Việt Nam, Lào, Campuchia.
 - Su di noi: "La nostra agenzia nasce nel 2010". Lệch năm thành lập 2019.
 - Missione: "Mostrare il vero Vietnam in modo sostenibile"; giá trị Creatività, Passione, Solidarietà, Responsabilità.
 - Số liệu trang chủ: "100% Viaggi personalizzati", "99% Clienti soddisfatti" (không nguồn), "20+ Anni".
@@ -61,8 +61,6 @@ Trích dẫn giữ ngôn ngữ gốc. Câu chữ chuẩn (RAI, Travelife, năm t
 - Blog IT: 75 bài, bài mới nhất 04/02/2026. Chủ đề tốt (làng nghề, dân tộc, lễ hội, lưu trú bền vững).
 - Lỗi chính tả tiếng Ý ở vị trí dễ thấy: "pìu" (più), "RESPONSIBILI" (RESPONSABILI), "I NOSTRO BLOG" (I NOSTRI), "SORRISSI" (SORRISI), "Statunensi", "atuo", "quotadina".
 
-Nguồn: https://www.vietconetravel.com/ · /en · /es · https://www.vietconetravel.com/su-di-noi · https://www.vietconetravel.com/la-nostra-missione · https://www.vietconetravel.com/viaggi-esperienziali · https://www.vietconetravel.com/viaggi-classici · https://www.vietconetravel.com/mekong-autentico · https://www.vietconetravel.com/vespa-tour · https://www.vietconetravel.com/viaggio-di-nozze · https://www.vietconetravel.com/copy-of-vespa-tour · https://www.vietconetravel.com/richietsa-preventivo · https://www.vietconetravel.com/newsletter · https://www.vietconetravel.com/book-online · https://www.vietconetravel.com/sitemap.xml
-
 ## 2. immersion.vietconetravel.com
 
 - Bộ sưu tập các buổi gặp gỡ văn hóa để ghép vào hành trình may đo. Đối tượng: khách Ý, có thể cả agency.
@@ -75,11 +73,9 @@ Nguồn: https://www.vietconetravel.com/ · /en · /es · https://www.vietconetr
   - Nam: Trà Vinh (Khmer, Cồn Hô), Sóc Trăng.
 - Trang Hội An: Kieu Maily, nhà văn, nghệ sĩ, nhà nghiên cứu Chăm; "pasto culturale" khoảng 2,5 giờ hoặc "incontro con il tè" khoảng 90 phút; Viet Cone lo phiên dịch; có hướng dẫn ứng xử khi chụp ảnh. Không giá.
 - Giọng văn tiết chế, có người thật: thể hiện rõ nhất "Immerse. Not just observe." Bản đồ có Hoàng Sa, Trường Sa; có file Travelife tải về.
-- Màu: kem #FDFBF5, xanh rêu #183C27, vàng đất #C99A2E, mực #20251F. Ảnh WebP, layout kiểu tạp chí.
+- Màu: kem #FDFBF5, xanh rêu #183C27, vàng đất #C99A2E, mực #20251F; chưa dùng terracotta #B0412F (màu chủ đạo theo Guideline). Ảnh WebP, layout kiểu tạp chí.
 - Kỹ thuật tốt: CSP, index/follow, canonical, hreflang IT/EN, sitemap 18 URL, OG đầy đủ. Không thấy analytics.
 - Điểm yếu: trang tổng không có giá, thời lượng, tên host; CTA đưa khách lẻ sang trang TTG (B2B); site chính chưa liên kết tới.
-
-Nguồn: https://immersion.vietconetravel.com/it/ · https://immersion.vietconetravel.com/en/ · https://immersion.vietconetravel.com/it/esperienze/hoi-an/ · https://immersion.vietconetravel.com/downloads/travelife-partner-certificate.pdf
 
 ## 3. Trang proposal white label: vivivietnam, vietnamangkor
 
@@ -98,8 +94,6 @@ Nguồn: https://immersion.vietconetravel.com/it/ · https://immersion.vietconet
 - Điểm nhấn: Thủy Biều, Mỹ Sơn, Bến Tre, Roluos, APOPO, lễ "Srouch Teok", Artisans d'Angkor, Kampong Pluk.
 - Lựa chọn "Alternativa" có phụ phí (workshop cà phê, "Cena reale a Hue", "Cena con danza Apsara"): mô hình upsell tốt.
 - HDV tiếng Ý suốt hành trình. Khách sạn có link (Mercure La Gare, La Casta Cruise, Tara Angkor…).
-
-Nguồn: https://vivivietnam.vietconetravel.com/ · https://vietnamangkor.vietconetravel.com/
 
 ## 4. partenze.vietconetravel.com
 
@@ -125,10 +119,8 @@ Nguồn: https://vivivietnam.vietconetravel.com/ · https://vietnamangkor.vietco
   - Giá USD: ưu tiên EUR cho khách Ý.
   - "secondo il programma" mơ hồ: ưu tiên ghi rõ ngày nào có HDV tiếng Ý.
   - Chưa có review, dòng RAI/Travelife, FAQ thanh toán, cọc, hủy, bảo hiểm.
-  - Mới một sản phẩm: có thể thêm ngày/tuyến Partenze (Vietnam + Angkor, Nord autentico, Capodanno).
+  - Mới một sản phẩm: có thể thêm ngày/tuyến Partenze (Vietnam + Angkor, Nord autentico).
   - Chưa có schema `TouristTrip`/`Offer`.
-
-Nguồn: https://partenze.vietconetravel.com/
 
 ## 5. Mạng xã hội, đánh giá, báo chí
 
@@ -138,7 +130,7 @@ Nguồn: https://partenze.vietconetravel.com/
 | Facebook | Page "Viet Cone Travel - Italiano \| Hanoi" và một page cũ: thương hiệu bị phân tán | https://www.facebook.com/VietConeTravel · https://www.facebook.com/Viet-Cone-Travel-112882640072400/ |
 | YouTube | Handle có đuôi số mặc định | https://www.youtube.com/@vietconetravel7356 |
 | LinkedIn | Hồ sơ cá nhân (/in/), chưa phải Company Page | https://vn.linkedin.com/in/viet-cone-travel-755b64378 |
-| Tripadvisor | Chặn 403 khi tra; số liệu xem context mục 9 | https://www.tripadvisor.it/Attraction_Review-g293924-d20899025-Reviews-Viet_Cone_Travel-Hanoi.html |
+| Tripadvisor | Chặn 403 khi tra; khoảng 90 đánh giá, 5.0 (tra 11/2026, context mục 9) | https://www.tripadvisor.it/Attraction_Review-g293924-d20899025-Reviews-Viet_Cone_Travel-Hanoi.html |
 
 - Tìm kiếm "Viet Cone Travel" recensioni, tour operator, "Speciale Tg1 Vietnam dalle ferite alla luce": không có kết quả nào về Viet Cone.
 - Công cụ còn gợi ý nhầm sang "Conical Travel". Kết quả tiếng Ý là đối thủ: OVET, WeRoad, Threeland.
@@ -158,9 +150,9 @@ Nguồn: https://partenze.vietconetravel.com/
 
 Site chính:
 1. Xóa hoặc ẩn `book-online` và các trang copy-of-*; sửa slug `richietsa`, email footer "infor@".
-2. Gỡ Thailandia khỏi menu DESTINAZIONI và câu giới thiệu trang chủ.
+2. Thailandia: ưu tiên đưa xuống vị trí phụ trong menu hoặc ghi "su richiesta"; câu giới thiệu trang chủ ưu tiên Vietnam, Laos, Cambogia.
 3. Sửa "20+ anni", "nasce nel 2010", "99% clienti soddisfatti": ghi "fondata nel 2019".
-4. Travelife: "Travelife Partner dal 06/2025"; nếu nêu số thì "1 trong 10 Partner tại Việt Nam (28/10/2026)".
+4. Travelife: "Travelife Partner dal 06/2025"; nếu nêu số thì "uno dei 10 Travelife Partner in Vietnam (al 28/10/2026)".
 5. RAI: câu chuẩn + link RaiPlay; logo RAI chỉ khi có văn bản cho phép. Ưu tiên một trang riêng cho RAI và Travelife.
 6. Sửa chính tả trên nút lặp (più, RESPONSABILI, I NOSTRI).
 7. Viết lại title, meta theo từ khóa tiếng Ý; mỗi trang một H1.
@@ -180,3 +172,35 @@ Subdomain:
 
 Lâu dài:
 17. Cân nhắc chuyển site chính sang Astro/Cloudflare để dùng một hệ thiết kế.
+
+## Nguồn
+
+### vietconetravel.com (site chính)
+- https://www.vietconetravel.com/
+- https://www.vietconetravel.com/en
+- https://www.vietconetravel.com/es
+- https://www.vietconetravel.com/su-di-noi
+- https://www.vietconetravel.com/la-nostra-missione
+- https://www.vietconetravel.com/viaggi-esperienziali
+- https://www.vietconetravel.com/viaggi-classici
+- https://www.vietconetravel.com/mekong-autentico
+- https://www.vietconetravel.com/vespa-tour
+- https://www.vietconetravel.com/viaggio-di-nozze
+- https://www.vietconetravel.com/copy-of-vespa-tour
+- https://www.vietconetravel.com/richietsa-preventivo
+- https://www.vietconetravel.com/newsletter
+- https://www.vietconetravel.com/book-online
+- https://www.vietconetravel.com/sitemap.xml
+
+### immersion.vietconetravel.com
+- https://immersion.vietconetravel.com/it/
+- https://immersion.vietconetravel.com/en/
+- https://immersion.vietconetravel.com/it/esperienze/hoi-an/
+- https://immersion.vietconetravel.com/downloads/travelife-partner-certificate.pdf
+
+### Trang proposal white label: vivivietnam, vietnamangkor
+- https://vivivietnam.vietconetravel.com/
+- https://vietnamangkor.vietconetravel.com/
+
+### partenze.vietconetravel.com
+- https://partenze.vietconetravel.com/
