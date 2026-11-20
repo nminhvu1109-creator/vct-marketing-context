@@ -97,6 +97,7 @@ Cập nhật 20/11/2026. Tài liệu nội bộ: có dữ liệu đối tác, kh
 
 - **Dòng đang bán** (website, brochure 2027): Esperienziali (chủ lực), Classici, Trekking, Responsabili, Combinati (VN + Lào/Campuchia), Viaggi di nozze.
 - **Hình thức:** tour riêng su misura là chính. Partenze là các ngày khởi hành cố định, nhóm nhỏ: Vietnam Essenziale 10 ngày, từ 2 khách, tối đa 12 khách, 3 ngày khởi hành năm 2027.
+- **Partenze với đối tác:** là sản phẩm cửa vào cho đại lý; đối tác mua giá net, giá công khai giống nhau ở mọi kênh; ưu tiên trao đổi với tour operator trước khi mở ngày trùng tuyến và tháng với tuyến đoàn của họ.
 - **Immersion:** trải nghiệm dùng chung cho mọi dòng. Ví dụ: bếp nhà chị Maily (Hội An), Mường Bo (Lào Cai), chùa Kim Đài (Huế), nghệ nhân hát Xoan (Phú Thọ).
 - **Thái Lan:** bán khi khách hỏi; truyền thông thương hiệu chỉ nói Việt Nam, Lào, Campuchia.
 - **Mức giá tham chiếu** (land tour/khách/ngày): DMC giá rẻ khoảng €80–120; tour ghép của TO Ý khoảng €125–165; Quality Group khoảng €180–210. Viet Cone hiện ở khoảng €95–130. Khi báo giá cho khách Ý, ưu tiên EUR.
@@ -136,7 +137,12 @@ Hai tài sản marketing chủ lực là phóng sự RAI 1 và Travelife.
 - **Phóng sự RAI 1:**
   - Speciale TG1 "Vietnam: dalle ferite alla luce", phát trên Rai 1 ngày 28/12/2025, phóng viên Marco Clementi.
   - Tháng 9/2025 Viet Cone thiết kế lịch trình, lo hậu cần và làm fixer cho ê-kíp; founder và đội ngũ được phỏng vấn tại văn phòng Hà Nội.
-  - Câu chuẩn IT: "Abbiamo accompagnato la troupe di Speciale TG1 (Rai 1) nel suo viaggio in Vietnam." EN: "We accompanied the Rai 1 Speciale TG1 crew across Vietnam." VI: "Viet Cone Travel đồng hành cùng ê-kíp Speciale TG1 (Rai 1)."
+  - Câu chuẩn (như Guideline 6.5):
+    - IT: "Abbiamo accompagnato la troupe RAI per lo Speciale TG1 "Vietnam: dalle ferite alla luce" (Rai 1, 28/12/2025)".
+    - EN: "We accompanied the RAI crew for the TG1 special "Vietnam: dalle ferite alla luce" (Rai 1, 28 Dec 2025)".
+    - FR: "Nous avons accompagné l'équipe de la RAI pour le Speciale TG1 « Vietnam: dalle ferite alla luce » (Rai 1, 28/12/2025)".
+    - VI: "Viet Cone đồng hành cùng RAI trong Speciale TG1 "Vietnam: dalle ferite alla luce" (Rai 1, 28/12/2025)".
+    - Bản ngắn có thể bỏ tên phóng sự, giữ "Speciale TG1 (Rai 1, 28/12/2025)".
   - Ưu tiên ghi tên chương trình, ngày phát và link RaiPlay. Dùng ảnh và video hậu trường do Viet Cone tự quay.
   - Logo và footage RAI chỉ dùng khi RAI cho phép bằng văn bản.
   - Ưu tiên "đồng hành" hơn các cách nói như "collaborazione", "realizzato con", "documentario su Viet Cone".
@@ -147,8 +153,18 @@ Hai tài sản marketing chủ lực là phóng sự RAI 1 và Travelife.
 - **Tripadvisor:** 91 đánh giá 5.0; Travelers' Choice 2025 và 2026.
 - **CAPTOUR:** "Membro del CAPTOUR DMCs Club".
 - **Cộng đồng đối tác:** CSIP, KymViet, KOTO, Đại học Hà Nội; 1 USD mỗi khách cho dự án trồng cây. Nêu tên đối tác khi họ đã đồng ý.
+- **Thứ tự dòng uy tín:**
+  - Ấn phẩm tiếng Ý: RAI → Travelife → Tripadvisor → CAPTOUR. Có thể bỏ bớt dòng, ưu tiên giữ thứ tự.
+  - Ấn phẩm tiếng Anh, tiếng Pháp: Travelife → CAPTOUR → RAI (Tripadvisor sau Travelife).
+  - Trên trang bán cho người tiêu dùng EU, ưu tiên dòng chữ Travelife hơn huy hiệu cho đến khi luật sư Ý xác nhận.
 - **Cách nói về bền vững:** ưu tiên việc làm cụ thể (người, nơi, số liệu, chứng nhận) hơn từ chung chung như "eco", "green", "sostenibile". Trồng cây chỉ nói là trồng cây, không gọi là bù hay trung hòa CO2.
 - **Số năm hoạt động:** ghi năm thành lập 2019. Mốc 2010 thuộc câu chuyện của founder, không cộng thành "20+ năm".
+- **Câu founder** (IT): "Viet Cone Travel è un DMC fondato a Hanoi nel 2019 da Nguyen Thi Bich Nga. Nel 2001 si è trasferita a Roma per studiare turismo e ha fatto pratica presso Quality Group a Torino."
+- **Giới thiệu ngắn:**
+  - IT: "Viet Cone Travel è un DMC di Hanoi che progetta viaggi su misura in Vietnam, Laos e Cambogia per viaggiatori italiani, costruiti insieme alle comunità locali."
+  - EN: "Viet Cone Travel is a Hanoi-based DMC designing tailor-made journeys in Vietnam, Laos and Cambodia, built together with local communities."
+- **Câu an tâm (IT):** "Un travel designer segue la vostra pratica dalla prima richiesta al rientro." · "Quota individuale con l'elenco di ciò che è compreso e non compreso." Câu "assistenza in italiano 24 ore su 24" chờ Điều hành xác nhận có trực ca tiếng Ý.
+- **Định dạng giá:** mỗi trang một đơn vị tiền tệ; IT "€3.300", EN "€3,300"; luôn ghi "quota individuale" / "price per person".
 
 ## 10. Pháp lý cần lưu ý
 

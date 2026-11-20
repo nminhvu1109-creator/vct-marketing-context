@@ -1,10 +1,11 @@
 # VCT Marketing
 
 - Viet Cone Travel: Hanoi inbound DMC, Italian market core, expanding to English then French speakers. Read `VCT_Marketing_Context.md` before any marketing task.
-- Source order on conflict: context file > `foundation/` PDFs (Brand Strategy, Brand Guideline, Company Profile EN) > `research/`, `reports/`.
+- Source order on conflict: context file > `foundation/` PDFs (Brand Strategy, Brand Guideline, Company Profile EN/IT) > `research/`, `reports/`.
 - Write rules as priorities ("ưu tiên X hơn Y"), not bans; keep content flexible.
 - Context stays lean: customer/market data yes; minimal internal company figures.
 - Key proof assets: RAI 1 Speciale TG1 (say "accompanied the crew", no RAI logo/footage without written OK) and Travelife Partner (never "Certified").
+- Brand assets (logo, font, Travelife badge): `assets/`.
 - Fairs in scope: TTG Rimini, ITB Berlin only.
 - Files/sheets style: Vietnamese, short, one idea per line; sources in a separate column (links only); unverified emails blank.
 - `ke_hoach_brand/` (brand revision plan) is local only, gitignored; never commit it.

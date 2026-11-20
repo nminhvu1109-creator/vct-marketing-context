@@ -5,7 +5,8 @@ Kho nội bộ (**private**): tài liệu nền tảng và bối cảnh marketin
 | Đường dẫn | Nội dung |
 |---|---|
 | [VCT_Marketing_Context.md](VCT_Marketing_Context.md) | Bối cảnh chuẩn, đọc đầu tiên |
-| `foundation/` | Brand Strategy, Brand Guideline, Company Profile EN (PDF gốc) |
+| `foundation/` | Brand Strategy, Brand Guideline, Company Profile EN và IT (PDF gốc) |
+| `assets/` | Logo SVG, favicon, font Source Sans 3, huy hiệu Travelife Partner |
 | `research/` | Báo cáo nghiên cứu nội bộ 01–07 (brand, website, Drive, TTG 2026, khách hàng, RAI 1) |
 | `reports/`, `research_notes/` | Nghiên cứu thị trường Ý, đối thủ, thị trường Anh/Pháp |
 
