@@ -80,8 +80,8 @@ Số liệu doanh thu, biên lợi nhuận, mục tiêu: xem trực tiếp file 
 - Bản đã đọc chưa thấy mục Classici; đối chiếu với sáu dòng sản phẩm chuẩn trước khi in.
 - Có thêm "2026 NEW BROCHURE VCT (Programs w B2B price)".
 
-### 2.7 Company Profile bản tiếng Ý (Google Doc 14/08/2026)
-Cần sửa theo context trước khi gửi:
+### 2.7 Company Profile
+Bản dùng chính thức là bản tiếng Anh (`foundation/`). Các điểm cần sửa theo bối cảnh trước khi gửi:
 - "8 phụ nữ Việt sáng lập" (chưa xác minh) → "đội ngũ chủ yếu là phụ nữ".
 - "1 trong 13 DMC" → "1 trong 10 Partner tại Việt Nam (28/10/2026)".
 - "CAPITAL TOUR DMCs CLUB" → "CAPTOUR DMCs Club".
@@ -131,7 +131,6 @@ Cần sửa theo context trước khi gửi:
 | KPI TTG 2026 | https://docs.google.com/spreadsheets/d/11e3WpAtlszTQJtoRlUo3MUm2rSe1kgLlzvZ6P0PQK5Q |
 | Requests TTG 2026 | https://docs.google.com/spreadsheets/d/1g3QiUVy45pWLgyu47Ddh-KiNFKsncgG9avVVZrJLOeI |
 | TTG PARTICIPATION COST COMPARISON | https://docs.google.com/spreadsheets/d/1O-jb2fr_utGa9a25VZYgw-TS8WzWMMWcYJ7xQS4BluI |
-| Company Profile IT (14/08/2026) | https://docs.google.com/document/d/1ZNKZ-_2ux-1-pHQheFtAlDRMo2Yk4J5VM2bJBw3vDcc |
 | NEW B2C BRAND IDEAS (MET) | https://docs.google.com/document/d/1zWL5oF-9DD_Qn_PjTOUQT9_fCLPMtPqLjloCiU9RPso |
 | SALES TEAM PERFORMANCE BOOST | https://drive.google.com/file/d/1pnjtLco6p3-Fi4LWNioc5E3zzpX_NHp5 |
 | BEST SELLERS AND TEMPLATES | https://docs.google.com/spreadsheets/d/1TdoHVLpuCFEvycKmCFOVFf8Lc1IgYOYv34V6QvJy-lg |

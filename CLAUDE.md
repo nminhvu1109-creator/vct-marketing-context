@@ -4,7 +4,7 @@
 - Read `VCT_Marketing_Context.md` first for any task; open the relevant `foundation/` PDF for exact brand rules and wording.
 - Source order on conflict: context file > `foundation/` PDFs > `research/`, `reports/`.
 - Map:
-  - `foundation/`: Brand Strategy, Brand Guideline, Company Profile EN/IT (PDF).
+  - `foundation/`: Brand Strategy, Brand Guideline, Company Profile EN (PDF).
   - `assets/`: logo SVG, favicon, fonts, `brand-tokens.css`, Travelife badge; see `assets/README.md`.
   - `research/`: internal evidence (02 websites, 03 company Drive, 04 marketing Drive, 05 TTG 2026, 06 target customers, 07 RAI 1).
   - `reports/`: Italian market and travellers, competitors, English/French markets, sources.

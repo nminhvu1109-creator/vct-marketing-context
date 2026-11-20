@@ -87,20 +87,15 @@ Evaneos:
 - €/ngày giả định 14 ngày; đoàn B2B đi 11–16 ngày nên mức thực có thể lệch, cao hơn tới khoảng 25% với đoàn ngắn ngày.
 - Đoàn B2B cho khối lượng ổn định ngoài lịch nghỉ của người Ý (T10–T11, T2–T3).
 
-## 7. Nguồn lead và chuyển đổi (CRM 2026)
+## 7. Nguồn lead (CRM 2026, định tính)
 
-- Evaneos: 533 lead, chốt 6,9%.
-- Agency B2B: 41 lead, chốt 14,6%.
-- Giới thiệu (khách cũ, bạn bè, HDV): 16 lead, chốt 31%; 2,6% lead nhưng 10% số đoàn chốt.
-- Evaneos 5★ chốt 18,3%; 1★ chốt 3,4%; lead 1★ chiếm 39%.
-- Evaneos: request từ trang hành trình/agency có giá trị khoảng €568–807, từ trang điểm đến khoảng €335 (cần ghi rõ đây là giá trị gì trong dashboard).
-- Chốt theo loại khách: nhóm bạn 15,7%; cặp đôi 8,3%; gia đình 6,2%; đi một mình 2,7%.
+- Khách được giới thiệu (khách cũ, bạn bè, HDV) và nhóm bạn người lớn thường chốt tốt nhất.
+- Lead Evaneos đông nhất; lead có đánh giá cao chốt tốt hơn rõ.
+- Gia đình và khách đi một mình chốt kém hơn cặp đôi và nhóm bạn.
 
 ## 8. Mùa vụ
 
-- Số dưới đây tính theo doanh thu 2025; báo cáo thị trường mục Mùa vụ tính theo số khách 2023–2025 nên tỷ trọng tháng khác.
-- B2C 2025 theo doanh thu: T8 24%, T4 17%, T2 14%, T12 10%.
-- B2B 2025: T11 22%, T8 14%, T4 13%, T12 13%, T10 10%.
+- Mùa vụ theo số khách: xem báo cáo thị trường, mục Mùa vụ.
 - Evaneos: 50+ chiếm đa số T1–T3 và T11 (55–79%); dưới 50 chiếm đa số T4, T8, T12.
 - T5–T6 và T9 gần như trống ở cả hai kênh. Thị trường: cao điểm tháng 8 và 11; mùa chính tháng 12–4; thấp điểm tháng 5–7; tháng 9–10 khá thấp.
 

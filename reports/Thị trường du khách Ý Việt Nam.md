@@ -238,7 +238,8 @@ Quy ước: **[XM]** = đã xác minh qua nguồn; **[SL]** = suy luận hoặc 
 | Bellasia Travel | B2C, tour riêng | Facebook tiếng Ý; HDV tiếng Ý | – |
 | Travel Sense Asia | B2B + B2C | Hơn 50 nhân viên, đa số nói tiếng Ý; sales manager người Ý | ~US$80/ngày |
 | Kampa Tour | B2C | Lựa chọn HDV tiếng Ý | ~US$99/ngày |
-| Lux Travel DMC | Cao cấp | Site tiếng Ý; logo "Travel Life" (chưa rõ cấp) | Theo yêu cầu |
+| Lux Travel DMC | Cao cấp | Site tiếng Ý; Travelife Certified (02/2025–02/2027) | Theo yêu cầu |
+| Realistic Asia | B2C đa thị trường | Travelife Certified (khoảng 07/2026); site tiếng Ý | – |
 | Cocco Travel | B2C | Travelers' Choice 2024–2026 | Không công bố |
 | Vietnam On The Road | B2C | Văn phòng tại Hà Nội và Milano | – |
 
@@ -269,7 +270,7 @@ Quy ước: **[XM]** = đã xác minh qua nguồn; **[SL]** = suy luận hoặc 
 ### Suy luận
 
 - [SL] Viet Cone khó cạnh tranh với Asiatica về quy mô và với các DMC giá rẻ (US$80–120/ngày) về giá.
-- [SL] Travelife Partner không còn là điểm khác biệt duy nhất, vì Threeland và Easia đã lên Certified.
+- [SL] Travelife Partner không còn là điểm khác biệt duy nhất: Threeland, Easia, Lux Travel DMC và Realistic Asia đã lên Certified.
 - [SL] Trải nghiệm tại nhà dân đã có trong tour ghép đại trà (OVET, WeRoad). "Immersion" thường chỉ tạo khác biệt khi có chiều sâu: tên host thật, số gia đình đối tác, đóng góp minh bạch.
 - [SL] Chỉ Viaggi Solidali và GTV định vị rõ du lịch cộng đồng cho khách Ý: vừa là đối tác tiềm năng, vừa là đối thủ của Immersion.
 - [SL] Trong các trang đã xem, chưa đối thủ nào nói thẳng "senior" hay "slow travel". Đây có thể là khoảng trống định vị.
@@ -493,6 +494,9 @@ Quy ước: **[XM]** = đã xác minh qua nguồn; **[SL]** = suy luận hoặc 
 - https://lentepubblica.it/cittadini-e-imprese/marketing-privacy-garante-multa-verisure-italia-dati-personali/
 
 ### Đối thủ
+- https://realisticasia.com/travel-blogs/231-a-milestone-in-sustainable-travel-realistic-asia-achieves-travelife-certified-status
+- https://heritageholdingvietnam.vn/blog/lux-travel-honored-for-sustainability
+- https://threeland.com/blogs/travelife-certified-sustainability-award-for-threeland-travel-asia
 - https://www.asiatica-travel.it/viaggi-vietnam.html
 - https://threeland.com/blogs/travelife-certified-sustainability-award-for-threeland-travel-asia
 - https://horizon-vietnamviaggi.com/

@@ -5,7 +5,7 @@ Cập nhật 20/11/2026. Tài liệu nội bộ: có dữ liệu đối tác, kh
 ## 0. Cách dùng
 
 - File này là bản chuẩn cho mọi việc marketing. Mỗi dữ kiện ưu tiên ghi một lần; mục 13–14 là danh sách việc, trỏ về mục gốc.
-- Tài liệu nền tảng: 4 PDF trong `foundation/` (Brand Strategy, Brand Guideline, Company Profile EN và IT). Brand Strategy và Guideline đã chỉnh ngày 20/11/2026.
+- Tài liệu nền tảng: 3 PDF trong `foundation/` (Brand Strategy, Brand Guideline, Company Profile tiếng Anh). Brand Strategy và Guideline đã chỉnh ngày 20/11/2026.
 - Khi tài liệu lệch nhau, theo file này, rồi đến PDF, rồi đến `research/` và `reports/` (tư liệu và nguồn).
 - Quy tắc viết theo kiểu "ưu tiên": chọn cách được ưu tiên trước, dùng cách khác khi có lý do.
 - Viết tắt: TO = tour operator; HDV = hướng dẫn viên; DMC = đơn vị điều hành tour tại điểm đến.
@@ -52,12 +52,12 @@ Cập nhật 20/11/2026. Tài liệu nội bộ: có dữ liệu đối tác, kh
 - Khoảng 6/10 khách từ 50 tuổi, khoảng 4/10 từ 60 tuổi. Khách B2C trẻ hơn và đang trẻ dần; gia đình có con tăng.
 - Chi tiêu tầm trung đến tầm trung khá: land tour thường khoảng €1.300–1.900/khách (tour riêng qua agency có thể cao hơn), chuyến phổ biến 10–16 ngày, khách sạn chủ yếu 3*, một phần 4*.
 
-| Nhóm | Tỷ trọng khách | Hình thức | Tuổi trung vị |
-|---|---|---|---|
-| Đoàn qua agency/TO Ý | ~40% | Đoàn từ 6 khách, thường 10–20, HDV tiếng Ý, khởi hành cố định | 63 |
-| Tour riêng white label qua agency | ~12% | 1–5 khách, chủ yếu cặp đôi | 50 |
-| Evaneos | ~34% | Tour riêng, trung vị 2 khách | 47 |
-| Khách trực tiếp | ~14% | Tour riêng | chưa có dữ liệu |
+| Nhóm | Hình thức | Tuổi trung vị |
+|---|---|---|
+| Đoàn qua agency/TO Ý (nhóm lớn nhất) | Đoàn từ 6 khách, thường 10–20, HDV tiếng Ý, khởi hành cố định | 63 |
+| Tour riêng white label qua agency | 1–5 khách, chủ yếu cặp đôi | 50 |
+| Evaneos (kênh B2C lớn nhất) | Tour riêng, thường 2 khách | 47 |
+| Khách trực tiếp | Tour riêng | chưa có dữ liệu |
 
 - B2B và B2C mỗi bên khoảng một nửa số khách; B2B tập trung ở vài hãng lớn.
 - Khách của Viet Cone thường đông vào tháng 8, 11–12 và 2–4; thưa vào tháng 5–6 và 9. Khách B2B dồn vào tháng 2–3, 8, 11; khách B2C vào tháng 1–2, 4, 8, 12.
@@ -126,11 +126,12 @@ Cập nhật 20/11/2026. Tài liệu nội bộ: có dữ liệu đối tác, kh
 
 - **DMC Việt Nam bán cho khách Ý:**
   - Asiatica: quy mô lớn nhất, giá rẻ.
-  - Threeland, Easia: đã lên Travelife Certified.
+  - Threeland, Easia, Lux Travel DMC, Realistic Asia: đã lên Travelife Certified.
   - Seasia: B2B, đối tác Vietnam Airlines, tour ghép hằng tháng; đối thủ B2B trực tiếp nhất.
   - Dong DMC: B2B thuần cho TO Ý.
   - Travel Sense Asia, Kampa: giá rẻ, có HDV tiếng Ý.
   - Lux Travel DMC: phân khúc cao cấp.
+  - Realistic Asia: đa thị trường, có web tiếng Ý.
   - Bellasia, Cocco, Horizon, Terra Indochina.
 - **Tour operator Ý bán Việt Nam:** OVET, "Appassionatamente Vietnam" (khởi hành hằng tuần, nhiều agency bán lại), WeRoad (khách 25–35), Avventure nel Mondo, Quality Group.
 - **Viaggi Solidali:** đối tác B2B chính, đồng thời bán tuyến Việt Nam của riêng họ.

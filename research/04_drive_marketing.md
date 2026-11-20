@@ -124,7 +124,7 @@ Trong phạm vi (TTG Rimini, ITB Berlin):
 - Checklist TTG 2024: lịch gặp đối tác Ý (Torino, Liguria, Rimini, Roma), quà tặng theo năm.
 - CHUẨN BỊ TTG 2025: chủ đề "Awake to a New Era"; DMC Việt tham khảo (Asco Lotus, Vietnam Travel & Cruise, Cocco, Green Tours, Mekong Touch); booth xanh, QR, video 1–2 phút, poster (hát Xoan, Sóc Trăng), quà (quạt giấy dó, móc khóa nón lá), đặt hẹn qua My Agenda.
 - ITB Berlin 2027 (sheet ITB & Travelife): 16–18/3/2027; năm 2026 khoảng 97.000 khách, 5.600+ đơn vị; gian Việt Nam 500 m² Hall 26 (Cục Du lịch chủ trì); Hall 4.1 Responsible Tourism.
-- Lux Travel DMC là DMC Việt duy nhất đồng triển lãm với Travelife 2026.
+- Lux Travel DMC là DMC Việt duy nhất đồng triển lãm với Travelife 2026; đã Travelife Certified (hiệu lực 24/02/2025–24/02/2027).
 - Danh sách 16 doanh nghiệp VN có Travelife: 6 Certified, 10 Partner.
 
 Lịch sử, ngoài phạm vi (chỉ tham khảo):
@@ -210,7 +210,7 @@ Khoảng trống:
 Insight:
 1. Bảo chứng là nội dung mạnh nhất: bài Travelers' Choice reach gấp 2–5 lần trung bình.
 2. Hội chợ + email là lõi B2B: partner mới từ TTG mở newsletter 25–60%.
-3. Travelife chưa là lợi thế độc quyền: 6 trong 16 doanh nghiệp VN đã Certified, gồm Threeland, Easia và Realistic Asia (có web tiếng Ý). Lux Travel DMC: chưa rõ cấp Travelife.
+3. Travelife chưa là lợi thế độc quyền: 6 trong 16 doanh nghiệp VN đã Certified, gồm Threeland (02/2026), Easia, Lux Travel DMC (02/2025) và Realistic Asia (khoảng 07/2026, có web tiếng Ý).
 4. Thứ tự đã quyết: khách nói tiếng Anh, rồi tiếng Pháp. Nghiên cứu Hà Lan hợp bước tiếng Anh; Québec để cho bước tiếng Pháp.
 5. Năng lực thực thi là nút thắt (intern + advisor): ưu tiên ít việc, có đo lường, hơn thêm tài liệu.
 6. Social organic không ads khó chạm người Ý; quảng cáo nhỏ nhắm Ý trái nguyên tắc 2026, cần Founder quyết.
