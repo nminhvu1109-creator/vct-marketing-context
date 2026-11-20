@@ -1,9 +1,12 @@
 # VCT Marketing
 
-- Viet Cone Travel: Hanoi inbound DMC, ~all clients Italian. Read `VCT_Marketing_Context.md` before any marketing task.
-- On conflicts, `research/00_boi_canh_tom_tat.md` wins, then newest foundation doc.
-- Brand Strategy: `foundation/brand/Viet-Cone-Brand-Strategy-2027.pdf` (v2.0, 11/2026, 14 pages) is newer than `Brand_Strategy_Viet_Cone.pdf` (38 pages), which research/01 analyzed.
-- Claim wording: "Travelife Partner" (never "Certified"), "1 of 10 Travelife Partner companies in Vietnam"; RAI = "accompanied RAI reporters", never "partner"; no Rai logo; tagline "Immerse. Not just observe."
-- Output style for files/sheets: Vietnamese, short, one idea per "•" line; sources in a separate column (links only); leave unverified emails blank.
-- Private repo: contains partner contact data. Never paste it into public places.
-- Source folders: company Drive 1oMa1jTZl3CWOCAe6E4PT4d9_vwD0levE; marketing Drive 1C1gzkrmqyQgyJeTWWa53LyzlY-rRAwC2; TTG 2026 folder 1lNIuHv8t5Y_tva633xAolW2vnrT7DOM_ (shared from info@).
+- Viet Cone Travel: Hanoi inbound DMC, Italian market core, expanding to English then French speakers. Read `VCT_Marketing_Context.md` before any marketing task.
+- Source order on conflict: context file > `foundation/` PDFs (Brand Strategy, Brand Guideline, Company Profile EN) > `research/`, `reports/`.
+- Write rules as priorities ("ưu tiên X hơn Y"), not bans; keep content flexible.
+- Context stays lean: customer/market data yes; minimal internal company figures.
+- Key proof assets: RAI 1 Speciale TG1 (say "accompanied the crew", no RAI logo/footage without written OK) and Travelife Partner (never "Certified").
+- Fairs in scope: TTG Rimini, ITB Berlin only.
+- Files/sheets style: Vietnamese, short, one idea per line; sources in a separate column (links only); unverified emails blank.
+- `ke_hoach_brand/` (brand revision plan) is local only, gitignored; never commit it.
+- Private repo with partner contact data; never paste it publicly.
+- Drives: company 1oMa1jTZl3CWOCAe6E4PT4d9_vwD0levE; marketing 1C1gzkrmqyQgyJeTWWa53LyzlY-rRAwC2; TTG 2026 1lNIuHv8t5Y_tva633xAolW2vnrT7DOM_.
