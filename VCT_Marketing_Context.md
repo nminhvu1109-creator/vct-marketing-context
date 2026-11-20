@@ -98,7 +98,7 @@ Cập nhật 20/11/2026. Tài liệu nội bộ: có dữ liệu đối tác, kh
 
 ## 5. Sản phẩm
 
-- **Dòng đang bán** (website, brochure 2027): Esperienziali (chủ lực), Classici, Trekking, Responsabili, Combinati (VN + Lào/Campuchia), Viaggi di nozze.
+- **Dòng sản phẩm** (website, brochure 2027): Esperienziali (chủ lực), Classici, Trekking, Responsabili, Combinati (VN + Lào/Campuchia), Viaggi di nozze.
 - **Hình thức:** tour riêng su misura là chính. Partenze là các ngày khởi hành cố định, nhóm nhỏ: Vietnam Essenziale 10 ngày, từ 2 khách, tối đa 12 khách, 3 ngày khởi hành năm 2027.
 - **Partenze với đối tác:** là sản phẩm cửa vào cho đại lý; đối tác mua giá net, giá công khai giống nhau ở mọi kênh; ưu tiên trao đổi với tour operator trước khi mở ngày trùng tuyến và tháng với tuyến đoàn của họ.
 - **Immersion:** trải nghiệm dùng chung cho mọi dòng. Ví dụ: bếp nhà chị Maily (Hội An), Mường Bo (Lào Cai), chùa Kim Đài (Huế), nghệ nhân hát Xoan (Phú Thọ).
