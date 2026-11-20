@@ -34,6 +34,7 @@ Cập nhật 20/11/2026. Tài liệu nội bộ: có dữ liệu đối tác, kh
 | 10T/2026 | 90.210 (+5,8%) |
 
 - Ý đứng thứ 4–5 châu Âu. Việt Nam mới bằng khoảng 1/3 Thái Lan hoặc Nhật với khách Ý: dư địa còn lớn.
+- **Mùa vụ thị trường** (Cục Du lịch, trung bình 2023–2025): cao điểm tháng 8 và tháng 11; mùa chính từ tháng 12 đến tháng 4; thấp điểm từ tháng 5 đến tháng 7; tháng 9–10 ở mức vừa. Chi tiết: báo cáo thị trường, mục Mùa vụ.
 - Miễn thị thực 45 ngày cho công dân Ý, đến 14/3/2028.
 - Vietnam Airlines bay thẳng Hà Nội–Milano từ 1/7/2025, 3 chuyến/tuần. Quá ít chuyến nên khách của Viet Cone thực tế ít dùng; ưu tiên không nêu đường bay này làm lợi thế trong ấn phẩm.
 - Khách Ý đi châu Á: trung bình 11 đêm, chi khoảng €134/đêm, văn hóa là động cơ chi tiêu số 1.
@@ -111,7 +112,7 @@ Cập nhật 20/11/2026. Tài liệu nội bộ: có dữ liệu đối tác, kh
 - **Evaneos:** kênh B2C lớn nhất, đang xếp hạng cao về mức hài lòng. Thứ hạng phụ thuộc tỷ lệ chốt, mức hài lòng và đánh giá.
 - **Trực tiếp:** website, mạng xã hội, khách cũ giới thiệu. Còn nhỏ, nhưng là nơi thương hiệu tác động rõ nhất.
 - **Hội chợ:** TTG Rimini là nguồn đối tác B2B chính (kỳ tới 13–15/10/2027). ITB Berlin (16–18/3/2027) là cửa vào thị trường tiếng Anh qua gian Travelife.
-- **Lịch:** chiến dịch B2B chạy trước mùa khởi hành 5–6 tháng.
+- **Lịch:** chiến dịch B2B thường nên chạy sớm, trước mùa khởi hành vài tháng.
 
 ## 7. Mở rộng thị trường
 

@@ -10,6 +10,8 @@ Quy ước: **[XM]** = đã xác minh qua nguồn; **[SL]** = suy luận hoặc 
 - [XM] 10 tháng 2026: 90.210 lượt, +5,8%. Chậm lại rõ so với 2025 và so với châu Âu (+51,5%, chủ yếu do khách Nga).
 - [XM] Xung đột Mỹ–Iran từ 28/2/2026 làm đứt các hub vùng Vịnh. Khách Ý đi Thái Lan giảm 9,6% nửa đầu năm; Việt Nam vẫn tăng.
 - [SL] VCT 2026 giảm khoảng 25–28% số khách trong khi thị trường vẫn tăng 5,8%, nhiều khả năng VCT đang mất thị phần; nguyên nhân có xu hướng nằm ở phía cung hơn là ở cầu thị trường.
+- [XM] Mùa vụ khách Ý ổn định: đỉnh tháng 8 (khoảng 15% năm) và tháng 11 (khoảng 11%), tháng 12–4 đều 8–10% mỗi tháng, tháng 5–7 thấp nhất (khoảng 15% cả ba tháng).
+- [SL] VCT dồn mùa hơn thị trường: tháng 1, 5–7 và 9 chiếm khoảng 31% khách Ý nhưng chỉ khoảng 14% khách VCT.
 - [XM] Năm 2025, khách Ý đi châu Á tăng 11% lên 3,2 triệu lượt, ở 9,8 đêm, chi 141 €/đêm. Văn hóa là động cơ chi tiêu lớn nhất.
 - [XM] ASTOI thu đông 2026/27: doanh thu tour operator −4,1%, giá +8%, Viễn Đông đi ngang. Booking phân cực: rất sớm hoặc sát ngày.
 - [XM] Khách 55+ chủ yếu đi theo cặp, quen tour nhóm, nhưng là nhóm muốn tự chủ nhiều nhất (42%).
@@ -57,7 +59,7 @@ Quy ước: **[XM]** = đã xác minh qua nguồn; **[SL]** = suy luận hoặc 
 
 ### Khoảng trống
 
-- [THIẾU] Chưa có bảng số liệu tháng của khách Ý năm 2026 từ Cục Du lịch (trang thống kê không tải được).
+- [THIẾU] Số liệu tháng 11–12/2026 của khách Ý chưa công bố (số tháng 1–10 xem mục 3).
 - [THIẾU] Chưa có số liệu chính thức về cơ cấu tuổi, độ dài lưu trú và chi tiêu của khách Ý tại Việt Nam.
 - [THIẾU] Chưa có số liệu khách Ý đến Campuchia, Lào, Nhật Bản năm 2026.
 
@@ -127,7 +129,50 @@ Quy ước: **[XM]** = đã xác minh qua nguồn; **[SL]** = suy luận hoặc 
 - [THIẾU] Chưa có khảo sát người Ý về nhận thức đối với Việt Nam.
 - [THIẾU] Chưa có dữ liệu về vai trò của TV, báo in và review với khách 55+.
 
-## 3. Kênh mua và quy định: agency vẫn là cửa chính, luật claim siết từ 27/9/2026
+## 3. Mùa vụ: đỉnh tháng 8 và tháng 11, thấp tháng 5–7
+
+### Khách Ý theo tháng (Cục Du lịch Quốc gia) so với Viet Cone
+
+| Tháng | Khách Ý 2025 (lượt) | % năm, TB 2023–2025 | % khách VCT, 2023–2025 | Ghi chú |
+|---|---|---|---|---|
+| 1 | 11.490 | 9,8 | 5,4 | Sau Epifania; 2026 đạt 16.461 (+43%) |
+| 2 | 9.699 | 7,9 | 11,8 | Tết 17/2/2026, 6/2/2027 |
+| 3 | 10.544 | 9,3 | 10,5 | Bắc mát, Trung khô, Nam khô |
+| 4 | 10.763 | 8,7 | 9,6 | Theo ngày Pasqua; 2026 −24% |
+| 5 | 4.946 | 6,1 | 0,7 | Bắt đầu nóng, mưa ở Bắc và Nam |
+| 6 | 3.866 | 4,0 | 1,2 | Thấp nhất năm |
+| 7 | 5.491 | 5,0 | 4,5 | Trung đẹp, Bắc nóng mưa |
+| 8 | 16.210 | 15,3 | 19,6 | Đỉnh: Ferragosto, nghỉ hè |
+| 9 | 5.576 | 6,5 | 2,4 | Lúa chín Tây Bắc; 2026 +54% |
+| 10 | 6.674 | 6,5 | 8,4 | Tam giác mạch; mưa lũ miền Trung |
+| 11 | 12.609 | 11,4 | 11,2 | Đỉnh thứ hai |
+| 12 | 9.490 | 9,4 | 14,5 | Natale–Capodanno |
+| Năm | 107.358 | 100 | 100 | |
+
+- [XM] Tỷ trọng tháng ổn định qua các năm: tháng 8 cao nhất (13,5% năm 2019; 14,5–16,2% năm 2023–2025), tháng 6 thấp nhất (3,6–4,8%).
+- [XM] Tháng 11 là đỉnh thứ hai (10,2–12,1%). Tháng 12 đến tháng 4 đều khoảng 7–11% mỗi tháng.
+- [XM] Tháng 5–7 chỉ chiếm khoảng 15% năm; tháng 9–10 khoảng 13%.
+- [XM] Khách Ý lệch về tháng 8 hơn châu Âu khác: năm 2025, tháng 8 chiếm 15,1% ở Ý, 16,3% ở Tây Ban Nha, nhưng chỉ 7,6–8,4% ở Anh, Pháp, Đức. Ba thị trường này đỉnh vào tháng 2–4 và tháng 11.
+- [XM] 2026 so với cùng kỳ: tháng 1 +43%, tháng 4 −24%, tháng 7–8 −10% đến −16%, tháng 9 +54%, tháng 10 −6%.
+- [SL] Biến động 2026 có thể do xung đột vùng Vịnh từ 28/2 và Pasqua sớm (5/4), một phần khách hè có vẻ dời sang tháng 9.
+- [XM] Người Ý chi cho du lịch nước ngoài năm 2026 (mọi điểm đến): 2,3–2,7 tỷ € mỗi tháng từ tháng 1 đến 5, 3,0 tỷ tháng 6, 3,6 tỷ tháng 7, 4,5 tỷ tháng 8.
+- [XM] Lịch học 2025/26: nghỉ Natale từ 22–24/12 đến 6–7/1, nghỉ Pasqua 2–7/4/2026, kết thúc năm học 6–16/6, khai giảng 8–16/9.
+- [XM] Avventure nel Mondo tính giá cao điểm vào hè, Natale–Capodanno–Epifania và từ Pasqua đến các "ponti" mùa xuân; 9 lần khởi hành Việt Nam dồn vào 19–26/12/2026. OVET khởi hành hằng tuần cả năm 2027, bỏ đầu tháng 2 (trùng Tết) và nửa cuối tháng 12.
+- [XM] Khí hậu: miền Bắc dễ chịu nhất khoảng tháng 10–4 (tháng 12–2 lạnh), miền Trung đẹp khoảng tháng 2–8 và mưa bão khoảng tháng 9–12, miền Nam khô tháng 12–4. Năm 2025, Huế mưa lũ 23 ngày (15/10–6/11).
+- [XM] Lúa chín Mù Cang Chải khoảng giữa tháng 9 đến đầu tháng 10; tam giác mạch Hà Giang khoảng tháng 10–11.
+- [XM] Khách VCT (theo tháng khởi hành, 2023–2025) dồn hơn thị trường: tháng 8 khoảng 20%, tháng 12 khoảng 15%; tháng 5, 6 và 9 cộng lại khoảng 4%.
+- [XM] VCT 2024–2025: B2B dồn vào tháng 2–3 (khoảng 29%), tháng 8 và 11 (khoảng 16% mỗi tháng), tháng 1 rất thấp. B2C dồn vào tháng 1–2, tháng 4, tháng 8 (khoảng 22%) và tháng 12; tháng 11 thấp.
+- [SL] Tháng 8, Natale và Pasqua gắn với lịch nghỉ cố định của người đi làm và gia đình (thường qua B2C). Tháng 2–3 và 11 nhiều khả năng là khách hưu trí và tour nhóm đi ngoài lịch học (thường qua B2B).
+- [SL] Tháng 1, 5–7 và 9 chiếm khoảng 31% khách Ý nhưng chỉ khoảng 14% khách VCT: đây có vẻ là phần thị trường VCT đang bỏ ngỏ.
+
+### Khoảng trống
+
+- [THIẾU] Số tháng của Cục Du lịch là số ước tính; số từng tháng được tính bằng hiệu số lũy kế. Bảng tháng 1 trên trang lặp số tháng 12 năm trước nên đã dùng số lũy kế.
+- [THIẾU] Số lượt đến tính theo tháng nhập cảnh, gồm cả khách công vụ và thăm thân.
+- [THIẾU] Số VCT tính theo tháng khởi hành của mã tour; năm 2023 chưa tách B2C; số B2B/B2C một vài tháng chưa khớp hẳn với tổng.
+- [THIẾU] Chưa có số liệu tháng của khách Ý đi châu Á (Banca d'Italia, ISTAT) và chưa có thời gian đặt trước theo từng mùa.
+
+## 4. Kênh mua và quy định: agency vẫn là cửa chính, luật claim siết từ 27/9/2026
 
 ### Cấu trúc kênh
 
@@ -173,7 +218,7 @@ Quy ước: **[XM]** = đã xác minh qua nguồn; **[SL]** = suy luận hoặc 
 - [SL] Tour operator Ý có xu hướng soát lại nội dung white label của DMC. DMC có chứng nhận thường có lợi thế.
 - [THIẾU] Chưa đọc toàn văn D.Lgs. 30/2026. Chưa có quyết định AGCM nào về greenwashing trong du lịch.
 
-## 4. Đối thủ: chung một câu chữ, khác nhau ở quy mô và chứng nhận
+## 5. Đối thủ: chung một câu chữ, khác nhau ở quy mô và chứng nhận
 
 ### DMC Việt Nam bán cho khách Ý
 
@@ -235,7 +280,7 @@ Quy ước: **[XM]** = đã xác minh qua nguồn; **[SL]** = suy luận hoặc 
 - [THIẾU] Chưa xác định DMC đứng sau Quality Group, Gattinoni, GTV và "Appassionatamente Vietnam".
 - [THIẾU] Chưa có dữ liệu SEO và quảng cáo thực tế của đối thủ.
 
-## 5. Mở rộng: khối tiếng Anh lớn gấp 4,8 lần khối tiếng Pháp
+## 6. Mở rộng: khối tiếng Anh lớn gấp 4,8 lần khối tiếng Pháp
 
 ### Lượt khách đến Việt Nam
 
@@ -286,7 +331,7 @@ Quy ước: **[XM]** = đã xác minh qua nguồn; **[SL]** = suy luận hoặc 
 - [THIẾU] Chưa kiểm chứng việc tour operator Hà Lan và Bắc Âu có chấp nhận HDV tiếng Anh hay không.
 - [THIẾU] Chưa có dữ liệu tuổi và độ dài chuyến cho khách Anh, Pháp, Mỹ.
 
-## 6. Xung đột Mỹ–Iran 2026: hub vùng Vịnh đứt, đường bay Ý–châu Á đổi hướng
+## 7. Xung đột Mỹ–Iran 2026: hub vùng Vịnh đứt, đường bay Ý–châu Á đổi hướng
 
 - [XM] 28/2/2026 Mỹ và Israel tấn công Iran; Iran đáp trả vào Israel và các nước vùng Vịnh. Ít nhất 8 nước đóng không phận, gồm UAE, Qatar.
 - [XM] Ngừng bắn 8/4, ký bản ghi nhớ Islamabad 17/6, đổ vỡ 8/7. Giao tranh tái diễn từ tháng 9. Đến 11/2026 xung đột vẫn chưa kết thúc.
@@ -335,6 +380,14 @@ Quy ước: **[XM]** = đã xác minh qua nguồn; **[SL]** = suy luận hoặc 
 - B2C trực tiếp tại Ý: nên hỏi luật sư Ý về nghĩa vụ bảo đảm theo điều 47 khoản 8 trước khi đẩy mạnh.
 - Lịch B2B thường nên chạy trước mùa khởi hành khoảng 5–6 tháng.
 - Nên viết nội dung tiếng Ý có cấu trúc (lịch trình mẫu, FAQ) để được AI search trích dẫn.
+
+### Mùa vụ
+
+- Có thể nhìn năm theo ba nhịp: cao điểm theo lịch nghỉ (tháng 8, Natale–Epifania, Pasqua), mùa khách hưu trí và tour nhóm (cuối đông, xuân, tháng 11), và mùa thấp (đầu hè, tháng 9).
+- Truyền thông B2B thường hiệu quả khi đi trước lúc đối tác dựng catalogue và chốt series cho từng nhịp; TTG Rimini và ITB Berlin thường rơi đúng giai đoạn này.
+- B2C (Evaneos, khách trực tiếp) thường cần nội dung sớm cho tháng 8 và lễ cuối năm, vì khách bị khóa theo lịch nghỉ cố định.
+- Mùa thấp có thể là dư địa: nên cân nhắc sản phẩm hợp mùa (miền Trung đầu hè, Tây Bắc mùa lúa chín) và thị trường có mùa lệch châu Âu.
+- Lịch trình nên theo khí hậu từng vùng: cao điểm tháng 8 thường hợp nghiêng về miền Trung; mùa mưa bão miền Trung nên có phương án thay thế.
 
 ### Tuân thủ claim
 
@@ -400,6 +453,19 @@ Quy ước: **[XM]** = đã xác minh qua nguồn; **[SL]** = suy luận hoặc 
 - https://www.guidaviaggi.it/2025/09/18/lusso-invisibile-autenticita-e-persone-reshaping-comfort-secondo-travel-hashtag/
 - https://www.qualitytravel.it/il-74-degli-italiani-vuole-viaggiare-piu-sostenibile-e-ne-pagherebbe-il-prezzo/116003
 - https://www.guidaviaggi.it/2025/11/11/i-nuovi-trend-di-viaggio-italia-asia-secondo-trip-com/
+
+### Mùa vụ
+- https://vietnamtourism.gov.vn/statistic/international
+- https://www.bancaditalia.it/statistiche/tematiche/rapporti-estero/turismo-internazionale/
+- https://www.bancaditalia.it/statistiche/tematiche/rapporti-estero/turismo-internazionale/evidenze-mensili/documenti/2026/commento-gennaio-2026.pdf
+- https://www.bancaditalia.it/statistiche/tematiche/rapporti-estero/turismo-internazionale/evidenze-mensili/documenti/2026/commento-agosto-2026.pdf
+- https://www.orizzontescuola.it/calendario-scolastico-2025-26-inizio-e-fine-lezioni-vacanze-di-natale-e-pasqua-ponti-scarica-pdf/
+- https://www.viaggiavventurenelmondo.it/viaggi/3846
+- https://www.ovetviaggi.it/wp-content/uploads/2026/07/VIETNAM-P.G.-2027.pdf
+- https://vietnamtourism.com/en/the-best-and-worst-months-to-visit-vietnam-a-region-by-region-guide
+- https://znews.vn/hue-hoi-an-sau-23-ngay-lu-lich-su-suc-song-manh-liet-tu-lop-bun-non-post1600849.html
+- https://vnexpress.net/5-diem-du-lich-tay-bac-vao-mua-lua-chin-3967058.html
+- https://vnexpress.net/thang-10-di-dau-choi-gi-4945586.html
 
 ### Kênh và quy định
 - https://www.italpress.com/?p=588687
@@ -492,3 +558,4 @@ Quy ước: **[XM]** = đã xác minh qua nguồn; **[SL]** = suy luận hoặc 
 
 ### Dữ liệu nội bộ Viet Cone
 - `VCT_Marketing_Context.md`
+- `DOANH THU 2023-2026.xlsx` (Drive công ty, chỉ dùng tỷ trọng khách theo tháng)
