@@ -1,11 +1,11 @@
 # Viet Cone Travel – Bối cảnh marketing
 
-Cập nhật 20/11/2026. Tài liệu nội bộ: có dữ liệu đối tác, không gửi nguyên văn ra ngoài.
+Cập nhật 25/11/2026. Tài liệu nội bộ: có dữ liệu đối tác, không gửi nguyên văn ra ngoài.
 
 ## 0. Cách dùng
 
 - File này là bản chuẩn cho mọi việc marketing. Mỗi dữ kiện ưu tiên ghi một lần; mục 13–14 là danh sách việc, trỏ về mục gốc.
-- Tài liệu nền tảng: 3 PDF trong `foundation/` (Brand Strategy, Brand Guideline, Company Profile tiếng Anh). Brand Strategy và Guideline đã chỉnh ngày 20/11/2026.
+- Tài liệu nền tảng: 3 PDF trong `foundation/` (Brand Strategy, Brand Guideline, Company Profile tiếng Anh). Brand Strategy và Guideline đã chỉnh ngày 25/11/2026.
 - Khi tài liệu lệch nhau, theo file này, rồi đến PDF, rồi đến `research/` và `reports/` (tư liệu và nguồn).
 - Quy tắc viết theo kiểu "ưu tiên": chọn cách được ưu tiên trước, dùng cách khác khi có lý do.
 - Viết tắt: TO = tour operator; HDV = hướng dẫn viên; DMC = đơn vị điều hành tour tại điểm đến.
@@ -90,10 +90,11 @@ Cập nhật 20/11/2026. Tài liệu nội bộ: có dữ liệu đối tác, kh
 - **Trụ cột nội dung** (Brand Strategy 4.8): 01 Văn hóa và con người (hiểu) · 02 Hành trình và trải nghiệm (muốn) · 03 Cách Viet Cone chuẩn bị trải nghiệm (tin) · 04 Câu chuyện của khách (xác nhận). Chủ đề trong mỗi trụ cột là định hướng mở, bổ sung khi bối cảnh thay đổi.
 - **Kiến trúc thương hiệu:** một thương hiệu chủ đạo Viet Cone Travel. Immersion và Partenze là tên sản phẩm, viết đi cùng tên Viet Cone. MET (thương hiệu B2C riêng) đang cân nhắc, chưa quyết.
 - **Nhận diện:** theo Brand Guideline.
+  - Bảy điểm cố định (Guideline 0.3): logo từ file gốc; tên "Viet Cone"; terracotta là màu chủ đạo; font Source Sans 3; câu uy tín chuẩn; bản đồ có Hoàng Sa, Trường Sa; chữ thân bài đạt 4,5:1. Các quy định khác là gợi ý mặc định.
   - Terracotta #B0412F là màu chủ đạo; xanh rêu #183C27 là màu phụ; vàng đất #C99A2E là màu nhấn; kem nhạt #FDFBF5 là nền. Đỏ quai nón và vàng nón chỉ dùng trong logo và trên đồng phục.
   - Tỷ lệ tham chiếu: 60% trung tính, 25% nhóm terracotta, 7% xanh rêu, 8% vàng đất.
-  - Vàng đất ưu tiên đi với chữ mực, hoặc làm chữ trên nền xanh rêu; hạn chế dùng làm chữ trên nền sáng.
-  - Font Source Sans 3, dự phòng Arial.
+  - Vàng đất dùng cho khối nhấn (chữ mực), đồ họa, số liệu và chữ lớn trên nền đậm. Trên nền sáng, số liệu ưu tiên terracotta.
+  - Font Source Sans 3, dự phòng Arial. In ấn: chữ thân bài in đen K100.
   - Ảnh kiểu phóng sự, có người thật.
   - Bản đồ Việt Nam luôn có Hoàng Sa, Trường Sa.
 

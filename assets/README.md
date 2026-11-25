@@ -12,11 +12,15 @@ Lấy từ repo cũ `vietcone-marketing` (20/11/2026).
 
 ## brand-tokens.css
 - Mã màu, thang sắc độ, cỡ chữ, thẻ và nút cho web, theo Brand Guideline mục 3, 4, 6.
+- Mã màu và font là điểm cố định (Guideline 0.3); cỡ chữ, bo góc, khoảng cách là mặc định, chỉnh khi cần.
 - Nạp sẵn font Source Sans 3 tự host.
 
 ## fonts/source-sans-3/
 - `*.woff2`: font web, có bộ tiếng Việt.
-- `ttf/`: bản Regular, SemiBold, Bold, Black để cài trên máy (Canva, file thiết kế). Chưa có bản nghiêng.
+- `ttf/`: bản cài trên máy (Canva, file thiết kế), lấy từ bản phát hành chính thức của Adobe (v3.052, 25/11/2026).
+  - Đứng: Light, Regular, Semibold, Bold, Black.
+  - Nghiêng (từ tiếng Ý): It, SemiboldIt, BoldIt.
+  - Bộ cũ bị ghi sai tên họ font ("Source Sans 3 ExtraLight" cho cả 4 file); máy đã cài bộ cũ nên gỡ ra rồi cài lại.
 - Giấy phép OFL: dùng, chia sẻ tự do.
 
 ## partners/travelife/

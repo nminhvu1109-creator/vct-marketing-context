@@ -1,4 +1,5 @@
 /* Viet Cone Travel · brand tokens (Brand Guideline mục 3, 4, 6)
+   Mã màu và font là điểm cố định (Guideline 0.3); cỡ chữ, bo góc, khoảng cách là mặc định.
    Font: Source Sans 3 tự host WOFF2; không tải từ Google Fonts trên production.
    Trang bán cho khách (B2C, Evaneos, Partenze): thêm class "vc-b2c" vào <body> để dùng thân bài 18px/1.5. */
 @import url("./fonts/source-sans-3/source-sans-3.css");
@@ -8,7 +9,7 @@
   --vc-terracotta: #B0412F;       /* tiêu đề, link, nút chính, khối nhấn */
   --vc-terracotta-dark: #8F3023;  /* trang mở phần, nền bản âm trắng, trạng thái lỗi */
   --vc-moss: #183C27;             /* footer, khối phụ */
-  --vc-ochre: #C99A2E;            /* số liệu trên nền đậm */
+  --vc-ochre: #C99A2E;            /* khối nhấn, đồ họa, số liệu trên nền đậm; trên nền sáng dùng terracotta hoặc ochre-600 */
 
   /* Trung tính */
   --vc-cream: #FDFBF5;            /* nền trang */
