@@ -73,6 +73,13 @@ Cập nhật 25/11/2026. Tài liệu nội bộ: có dữ liệu đối tác, kh
 - **Mức chi:** hiện tầm trung đến tầm trung khá. Định hướng là nâng dần một phần khách lên cận cao cấp. Khi nói về giá trị, ưu tiên "chiều sâu, chăm sóc kín đáo" hơn "luxury".
 - **Ngôn ngữ:** tiếng Ý là chủ đạo. Mở rộng sang khách nói tiếng Anh, rồi tiếng Pháp (mục 7).
 
+### Khách lo gì, nhớ gì
+
+- Nỗi lo thường gặp nhất: lịch dày, nơi nổi tiếng quá đông (Hạ Long), trải nghiệm dàn dựng và quá nhiều điểm mua sắm, HDV tiếng Ý, giá so với giá trị, tiền tip.
+- Điều khách nhớ nhất: con người, HDV, nhịp chậm, homestay, cảm giác được đồng hành suốt chuyến.
+- Bản đầy đủ, có trích dẫn và nguồn: `research/08_tieng_noi_khach_hang.md`.
+- Người Ý từ 65 tuổi: WhatsApp 78%, Facebook 61%, Instagram 30% (Censis 2026); Rai là nguồn tin được tin nhất với 56,5% (AGCOM 2026); chỉ 6% người Ý chọn điểm đến theo xu hướng mạng xã hội (Omio–YouGov 2026). Chi tiết: `reports/Mạng xã hội, người đọc Ý và AI 2026.md`.
+
 ## 4. Định vị và thương hiệu
 
 - **Ý tưởng cốt lõi:** hiểu Việt Nam qua con người.
@@ -111,6 +118,7 @@ Cập nhật 25/11/2026. Tài liệu nội bộ: có dữ liệu đối tác, kh
 - **B2B agency/tour operator Ý (white label):** kênh chính, phục vụ đúng nhóm khách 50+. Đối tác cần phản hồi nhanh, HDV tiếng Ý ổn định, nội dung dùng ngay cho catalogue.
 - **Evaneos:** kênh B2C lớn nhất, đang xếp hạng cao về mức hài lòng. Thứ hạng phụ thuộc tỷ lệ chốt, mức hài lòng và đánh giá.
 - **Trực tiếp:** website, mạng xã hội, khách cũ giới thiệu. Còn nhỏ, nhưng là nơi thương hiệu tác động rõ nhất.
+- **Facebook, Instagram tiếng Ý:** Page là nơi khách và agency kiểm chứng Viet Cone; WhatsApp là nơi chốt. Kế hoạch và cách viết: `guidelines/facebook_it/`.
 - **Hội chợ:** TTG Rimini là nguồn đối tác B2B chính (kỳ tới 13–15/10/2027). ITB Berlin (16–18/3/2027) là cửa vào thị trường tiếng Anh qua gian Travelife.
 - **Lịch:** chiến dịch B2B thường nên chạy sớm, trước mùa khởi hành vài tháng.
 
