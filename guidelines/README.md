@@ -19,6 +19,7 @@ Khi các tài liệu khác nhau: `VCT_Marketing_Context.md` > Brand Strategy, Br
   - `02_…`: hướng dẫn dùng AI và bản văn phong nạp vào công cụ AI, viết bằng ngôn ngữ của thị trường;
   - `03_…`: phản biện độc lập và cách guideline xử lý, nếu có.
 - Tư liệu nghiên cứu nằm ở `research/` và `reports/`; guideline chỉ giữ kết luận và link nguồn.
+- Quy tắc viết theo dạng ưu tiên, nhẹ nhàng, để người viết còn chỗ sáng tạo. Con số (độ dài, giờ đăng, tỷ trọng) là mốc tham khảo. Chỉ ghi "bắt buộc" khi thật sự cần thiết.
 
 ## Phần dùng chung giữa các kênh
 
