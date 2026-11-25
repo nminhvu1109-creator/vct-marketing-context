@@ -11,7 +11,7 @@
   - `scripts/export_logo_assets.py`: logo PNG/PDF export; outputs gitignored.
 - Write rules as priorities ("ưu tiên X hơn Y"), not bans; keep content flexible.
 - Context stays lean: customer/market data yes; minimal internal company figures.
-- Key proof assets: RAI 1 Speciale TG1 ("accompanied the crew"; RAI logo/footage only with written OK) and Travelife Partner (never "Certified").
+- Key proof assets: RAI 1 Speciale TG1 ("accompanied the crew"; RAI has approved use of its logo and footage) and Travelife Partner (never "Certified").
 - Fairs in scope: TTG Rimini, ITB Berlin only.
 - Files/sheets style: Vietnamese, short, one idea per line; sources in a separate column (links only); unverified emails blank.
 - `ke_hoach_brand/` is local only, gitignored; never commit it.

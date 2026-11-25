@@ -402,7 +402,7 @@ Quy ước: **[XM]** = đã xác minh qua nguồn; **[SL]** = suy luận hoặc 
 - Viết đúng "Travelife Partner", không viết "Certified". Gia hạn trước 23/06/2027.
 - Chương trình trồng cây chỉ nói là trồng cây; không gọi là bù hay trung hòa CO2.
 - Gỡ ô consent tích sẵn trên landing TTG. Tách consent marketing khỏi yêu cầu báo giá.
-- Dùng "Viet Cone đồng hành cùng RAI"; logo và footage RAI chỉ dùng khi RAI cho phép bằng văn bản.
+- Dùng "Viet Cone đồng hành cùng RAI"; RAI đã đồng ý cho dùng logo và footage, trích đoạn ghi nguồn Rai 1.
 - Nên gửi tour operator Ý bộ claim có bằng chứng kèm theo, vì họ có xu hướng soát nội dung white label theo luật mới.
 
 ### Thứ tự mở rộng (gợi ý, điều chỉnh theo năng lực)

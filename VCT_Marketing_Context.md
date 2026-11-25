@@ -151,8 +151,8 @@ Hai tài sản marketing chủ lực là phóng sự RAI 1 và Travelife.
     - FR (chưa có trong Guideline): "Nous avons accompagné l'équipe de la RAI pour le Speciale TG1 « Vietnam: dalle ferite alla luce » (Rai 1, 28/12/2025)".
     - VI: "Viet Cone đồng hành cùng RAI trong Speciale TG1 "Vietnam: dalle ferite alla luce" (Rai 1, 28/12/2025)".
     - Bản ngắn có thể bỏ tên phóng sự, giữ "Speciale TG1 (Rai 1, 28/12/2025)".
-  - Ưu tiên ghi tên chương trình, ngày phát và link RaiPlay. Dùng ảnh và video hậu trường do Viet Cone tự quay.
-  - Logo và footage RAI chỉ dùng khi RAI cho phép bằng văn bản.
+  - Ưu tiên ghi tên chương trình, ngày phát và link RaiPlay.
+  - RAI đã đồng ý cho Viet Cone dùng logo và trích đoạn phóng sự. Trích đoạn ghi nguồn Rai 1; dùng kèm ảnh, video hậu trường do Viet Cone tự quay.
   - Ưu tiên "đồng hành" hơn các cách nói như "collaborazione", "realizzato con", "documentario su Viet Cone".
 - **Travelife:**
   - Travelife Partner từ 23/06/2025, hiệu lực đến 23/06/2027; cần gia hạn trước hạn.

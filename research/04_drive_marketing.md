@@ -84,13 +84,13 @@ VCT BRANDING ANALYSIS.pdf (audit 30/11/2025):
 ### 2.3 Website, SEO, Tripadvisor
 Website GD1 Action Plan (04/2026): 22 việc, khoảng 45 giờ, tất cả "Chưa bắt đầu".
 - A (khẩn): gỡ từ Sale/Sconti/Offerta; sửa số click-to-call khác số hiển thị; icon cờ English lỗi.
-- B: tagline header/footer, hero theo narrative, 3 câu chuyện khách, nhúng video RAI, dòng RAI và Travelife (logo RAI chỉ khi RAI cho phép bằng văn bản), mục "Perché VietCone", thay ảnh stock.
+- B: tagline header/footer, hero theo narrative, 3 câu chuyện khách, nhúng video RAI, dòng RAI và Travelife, mục "Perché VietCone", thay ảnh stock.
 - C: noindex + 301 trang `/copia-di-*`, title/meta 10 trang tiếng Ý (đã soạn sẵn), alt text, OG, favicon, Laos/Cambogia xuống footer.
 - D: mobile, sitemap lên GSC, PageSpeed, broken links.
 
 NGHIÊN CỨU KÊNH SOCIAL.docx (phần fanpage bị cắt khi đọc):
 - Website: trang zombie, `/es/` hiển thị tiếng Anh, trang Book Online mẫu Wix. GA4 và GSC đã có.
-- Khuyến nghị: video RAI làm hero; dải bảo chứng RAI (dạng chữ, logo chỉ khi có văn bản cho phép), Travelife, Evaneos; bộ lọc "Per chi?"; brochure B2B đổi email; widget review; 80% ảnh có người.
+- Khuyến nghị: video RAI làm hero; dải bảo chứng RAI (chữ hoặc logo), Travelife, Evaneos; bộ lọc "Per chi?"; brochure B2B đổi email; widget review; 80% ảnh có người.
 - Traffic đối thủ/tháng: Asia Viva ~14.947 (dựa Google Ads), Amica ~13.495 (direct mạnh, 51 giây/visit), Asiatica ~11.562 (SEO mạnh, 11 giây/visit), Cocco ~2.383.
 - Tripadvisor (số trong tài liệu, khoảng 11/2025): 90 review 5 sao, 1 review 4 sao; hạng #196/2.767 tour operator Hà Nội (top 7%); review đều 7–11/2025. Số hiện tại: khoảng 90 đánh giá, 5.0 (tra 11/2026, context mục 9).
 - Đề xuất Tripadvisor: viết lại bio, album RAI, phản hồi mọi review, thẻ QR cho khách, email xin review sau 3–5 ngày.

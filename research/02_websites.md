@@ -153,7 +153,7 @@ Site chính:
 2. Thailandia: ưu tiên đưa xuống vị trí phụ trong menu hoặc ghi "su richiesta"; câu giới thiệu trang chủ ưu tiên Vietnam, Laos, Cambogia.
 3. Sửa "20+ anni", "nasce nel 2010", "99% clienti soddisfatti": ghi "fondata nel 2019".
 4. Travelife: "Travelife Partner dal 06/2025"; nếu nêu số thì "uno dei 10 Travelife Partner in Vietnam (al 28/10/2026)".
-5. RAI: câu chuẩn + link RaiPlay; logo RAI chỉ khi có văn bản cho phép. Ưu tiên một trang riêng cho RAI và Travelife.
+5. RAI: câu chuẩn + link RaiPlay; có thể dùng logo RAI và nhúng trích đoạn phóng sự. Ưu tiên một trang riêng cho RAI và Travelife.
 6. Sửa chính tả trên nút lặp (più, RESPONSABILI, I NOSTRI).
 7. Viết lại title, meta theo từ khóa tiếng Ý; mỗi trang một H1.
 8. Thêm "da €…" cho tour mẫu; hiển thị review Tripadvisor bằng chữ.
