@@ -53,7 +53,16 @@ Một số trang chính thức (Meta Transparency Center, Censis, AGCOM, OpenAI,
 - [THIẾU] Chưa có xác nhận phụ đề tự động tiếng Ý cho Reels trên Facebook.
 - [XM] Dịch, lồng tiếng AI của Meta chưa có tiếng Ý trên Facebook (6/2026); Instagram có tiếng Ý từ 7/2026; Facebook yêu cầu Page từ 1.000 người theo dõi.
 
-### 1.4 Tính năng cho Page
+### 1.4 Giờ đăng
+
+- [XM] Buffer (2/2026, 14 triệu bài Facebook): buổi sáng giữa tuần tốt nhất; đỉnh 9:00 thứ Năm; thứ Tư và thứ Năm mạnh nhất. Dữ liệu là bài đăng qua Buffer, giờ địa phương.
+- [XM] Sprout Social (2026, khoảng 2 tỷ lượt tương tác, khoảng 307.000 hồ sơ): thứ Ba, thứ Tư, 12:00–20:00 giờ địa phương.
+- [XM] Các nguồn đều ghi nhận cuối tuần yếu hơn ngày thường; giờ cụ thể không thống nhất.
+- [XM] Người Ý từ 65 tuổi dùng điện thoại nhiều nhất quanh 8:00 và 20:00 (Đại học Milano-Bicocca, mẫu khoảng 150 người, 2020).
+- [THIẾU] Chưa có nghiên cứu giờ đăng riêng cho người Ý từ 50 tuổi.
+- [SL] Feed và đề xuất không xếp theo thời gian, nên giờ đăng chủ yếu ảnh hưởng đến giờ đầu: người theo dõi thấy bài, và Page trả lời bình luận kịp.
+
+### 1.5 Tính năng cho Page
 
 - [XM] Bài của Page có thể giới hạn đối tượng theo vị trí, ngôn ngữ qua API; giới hạn chỉ loại trừ người xem, không đẩy bài đến người Ý.
 - [XM] Reels có thể gắn Page cộng tác; bài hiện trên cả hai Page.
@@ -107,7 +116,12 @@ Một số trang chính thức (Meta Transparency Center, Censis, AGCOM, OpenAI,
 - [XM] Carrada: ưu tiên động từ hơn danh từ đuôi -zione, -mento; Testa: cắt bớt 10–15% sau khi viết.
 - [XM] Accademia della Crusca: "qual è" không dấu nháy; tháng, thứ viết thường.
 - [XM] Sáo ngữ marketing du lịch tiếng Ý: esperienza autentica, vivere come un local, gemme nascoste, dove il tempo si è fermato, tradizione che incontra l'innovazione, oasi di pace.
-- [XM] Il Post 2026: dấu hiệu văn ChatGPT gồm "non solo… ma anche", "non è X, è Y", nhiều từ nối, bộ ba, gạch ngang dài, emoji.
+- [XM] Il Post 2026: dấu hiệu văn ChatGPT gồm "non solo… ma anche", "non è X, è Y", nhiều từ nối, bộ ba, gạch ngang dài, emoji. Gạch dài phổ biến trong văn Anh hơn văn Ý. Không dấu hiệu đơn lẻ nào chứng minh văn do AI viết.
+- [XM] Wikipedia "Signs of AI writing": quy tắc bộ ba, phép đối phủ định ("not X but Y", "X rather than Y"), nhấn mạnh quá mức tầm quan trọng và tính biểu tượng, gạch dài dùng nhiều hơn văn người viết cùng thể loại, chữ đậm dày đặc, danh sách có nhãn đậm kèm dấu hai chấm, viết hoa chữ đầu mỗi từ trong tiêu đề, emoji làm định dạng. Trang tự ghi đây là danh sách mô tả, dấu hiệu chỉ có giá trị khi đi cùng nhau.
+- [XM] Navigaweb 2025: "un aspetto cruciale", "vale la pena menzionare", "va notato che", "è importante sottolineare", "nel panorama digitale odierno", "in conclusione"; xen kẽ sfruttare, utilizzare, impiegare, avvalersi không có lý do.
+- [XM] Kobak và cộng sự (Science Advances, 2025): sau khi có ChatGPT, nhiều từ phong cách (chủ yếu động từ, tính từ) tăng đột biến trong hơn 15 triệu tóm tắt PubMed. Juzek và Ward (COLING 2025) chỉ ra 21 từ như "delve", "intricate", "realm", có thể liên quan đến huấn luyện bằng phản hồi của người.
+- [XM] Từ vựng đặc trưng của AI thay đổi theo từng thế hệ model, nên danh sách từ cần rà lại định kỳ; OpenAI cho biết ChatGPT đã tuân thủ tốt hơn yêu cầu không dùng gạch dài.
+- [THIẾU] Chưa có nguồn đáng tin về chấm phẩy và ngoặc kép nhấn mạnh như dấu hiệu AI trong tiếng Ý; quy tắc trong guideline dựa trên chuẩn viết rõ ràng.
 
 ## 5. AI trong viết nội dung
 

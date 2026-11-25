@@ -299,7 +299,20 @@ Nội dung và cách viết nằm ở Phần 3 và Phần 4. Bước này quy đ
 
 Nhịp đăng tối thiểu là 2 bài mỗi tuần, gồm một Reels và một bài ảnh hoặc bài chữ. Bài thứ ba chỉ làm khi có chất liệu thật. Story dùng cho hậu trường.
 Kho bài cần đủ 4 tuần (4 Reels và 4 bài khác) trước 15/12/2026, và thêm 4 tuần nữa trước 30/1/2027 để đi qua dịp Tết. Tuần Tết và tuần ITB chỉ đăng 1–2 bài đã hẹn giờ.
-Giờ đăng ưu tiên là 9:30–11:00 giờ Ý, tức 15:30–17:00 giờ Việt Nam vào mùa đông, để nhóm trả lời bình luận ngay trong giờ đầu, trong giờ làm việc. Từ tuần 5, nhóm thử khung 12:30–14:00 giờ Ý với một bài mỗi tuần, khi có người trực bình luận đến 20:00 giờ Việt Nam.
+Giờ đăng được chọn theo hai điều kiện: người Ý đang dùng điện thoại, và nhóm trả lời được bình luận trong giờ đầu. Năm 2026, Feed và đề xuất không còn xếp theo thời gian, nên giờ đăng chủ yếu ảnh hưởng đến giờ đầu sau khi đăng.
+
+| Bài | Ngày và giờ Ý | Giờ Việt Nam đến 27/3/2027 |
+|---|---|---|
+| Reels | Thứ Tư, 10:00 | 16:00 |
+| Bài thứ hai | Thứ Năm, 9:30 | 15:30 |
+| Bài thứ ba, khi có | Thứ Ba, 10:00 | 16:00 |
+| Story | Ngày làm việc, bất kỳ giờ nào | |
+
+Khung 9:30–11:00 giờ Ý trùng khung sáng giữa tuần mà Buffer ghi nhận tương tác cao nhất năm 2026, và là giờ làm việc ở Việt Nam. Instagram đăng cùng giờ với Facebook.
+Từ tuần 5 đến tuần 12, nhóm thử khung 12:30 giờ Ý (18:30 giờ Việt Nam) với một bài mỗi tuần, xen kẽ với khung chính cho cùng loại bài. Hôm thử, một người trực bình luận đến 19:30 giờ Việt Nam.
+Nhóm không đăng vào buổi tối giờ Ý (khoảng 2:00–4:00 sáng giờ Việt Nam) và cuối tuần, vì không ai trả lời được trong giờ đầu và các nghiên cứu đều ghi nhận cuối tuần yếu hơn. Trong kỳ nghỉ Tết, bài đã hẹn giờ vẫn đăng theo lịch và một người trực trả lời bình luận trong ngày.
+Khi nước Ý chuyển sang giờ mùa hè (28/3/2027), giờ Ý giữ nguyên và giờ Việt Nam sớm hơn một tiếng: 9:30 giờ Ý là 14:30 giờ Việt Nam.
+Biểu đồ "người theo dõi online" trong Meta Business Suite, nếu còn, chỉ dùng khi người Ý đã chiếm phần lớn người theo dõi, vì hiện nay biểu đồ này phản ánh người theo dõi người Việt.
 Instagram đăng lại Reels và bài nhiều ảnh của Facebook, với phần chữ ngắn hơn (mục 14.5). Giai đoạn này không làm nội dung riêng cho Instagram.
 
 ### Bước 4 · Chuyển người xem thành cuộc trò chuyện (tuần 2–16)
@@ -320,6 +333,7 @@ Hai tuần một lần, thực tập sinh cộng đồng dành 15 phút ghi bố
 | Sau tuần 8, người theo dõi mới vẫn chủ yếu là người Việt | Rà lại quy ước tương tác, đẩy mạnh bước 1, áp giới hạn "Italia" cho mọi bài dành cho khách du lịch |
 | Reels có thời gian xem thấp | Đưa người nói và hành động lên 3 giây đầu, cắt phần thừa, giữ phụ đề |
 | Một chuỗi bài ba lần liền không có lượt lưu, chia sẻ | Đổi góc kể hoặc tạm dừng chuỗi |
+| Tuần 12: so sánh khung 12:30 với khung chính (người xem trong 24 giờ đầu, bình luận của người Ý, lượt lưu và chia sẻ sau 7 ngày) | Chênh lệch từ 30% trở lên thì chuyển sang khung tốt hơn; dưới 30% thì giữ khung chính |
 | Một nhóm Facebook không mang lại trao đổi sau 4 tuần | Rời nhóm, thay nhóm khác |
 | Một agency chủ động muốn xuất hiện cùng Viet Cone | Lên kế hoạch collab Reels cho quý 2 |
 | Đoàn Partenze tháng 3 không chạy, hoặc khách không đồng ý đưa tin | Dùng ảnh của một đoàn khách khác đã đồng ý |
@@ -652,7 +666,12 @@ Người đọc Ý ngày càng nhận ra văn do AI viết và văn quảng cáo
 | Câu mở và câu kết khuôn mẫu | "Oggi vi parliamo di…", "In conclusione…" | Mở bằng một cảnh; kết bằng một câu hỏi thật hoặc lời mời |
 | Câu dàn dựng báo trước giọng điệu | "Diciamolo con franchezza:", "Ve lo diciamo con sincerità:" | Nói thẳng dữ kiện: "La Baia di Ha Long può essere molto affollata." |
 | Mệnh lệnh khoa trương | Lasciatevi conquistare, immergetevi | Động từ mô tả việc làm |
-| Gạch ngang dài | Hoi An — città delle lanterne — vi aspetta | Dấu phẩy hoặc dấu hai chấm |
+| Gạch ngang dài hoặc gạch ngắn có khoảng trắng để chen ý | Hoi An — città delle lanterne — vi aspetta | Không dùng; viết lại bằng dấu phẩy, dấu chấm hoặc ngoặc đơn |
+| Ngoặc kép bọc từ thường để nhấn mạnh | un'esperienza "vera", la nostra "famiglia" | Bỏ ngoặc; nếu từ cần ngoặc để có nghĩa, thay bằng một chi tiết cụ thể |
+| Chấm phẩy nối hai câu ngắn | Il villaggio è piccolo; la gente è accogliente. | Tách thành hai câu, hoặc nối bằng "e", "perché", "così" |
+| Nhấn mạnh tầm quan trọng hoặc tính biểu tượng | simbolo di, testimonianza di, riveste un ruolo fondamentale | Nói việc cụ thể đang diễn ra |
+| Từ và câu chuyển quen thuộc của văn AI | cruciale, fondamentale, sfruttare, va notato che, è importante sottolineare, vale la pena menzionare, nel panorama di, in un mondo in cui | Bỏ câu chuyển; dùng động từ thường |
+| Chữ đậm, viết hoa chữ đầu mỗi từ, nhãn kèm dấu hai chấm | **Il programma:**, Le Nostre Guide | Facebook không hiển thị chữ đậm; không dùng ký tự đậm giả; tên chuỗi viết hoa chữ đầu: "Le nostre guide" |
 | Từ nối trang trọng đầu đoạn | inoltre, dunque, infine ở mọi đoạn | Từ nối tự nhiên trong câu: perché, così, però, invece, quando |
 | Emoji trang trí ở mọi dòng | ✨🌿🏮💫 | Tối đa hai loại emoji, dùng như ký hiệu |
 | Câu nịnh người đọc | Voi, viaggiatori curiosi e appassionati… | Nói với người đọc như với một người bạn |
@@ -665,7 +684,10 @@ Người đọc Ý ngày càng nhận ra văn do AI viết và văn quảng cáo
 Dấu: viết "è", "più", "già", "può", "caffè" với dấu huyền và "perché", "né", "affinché" với dấu sắc. Viết "po'" với dấu nháy. Các dạng "pò", "piu'", "pìu", "E'" là sai.
 Lược âm: "un'esperienza", "un'isola" có dấu nháy vì là giống cái. "Un amico", "un albergo" không có dấu nháy. "Qual è" viết không có dấu nháy.
 Chữ hoa: tháng, thứ và tính từ quốc tịch viết thường: "a marzo", "lunedì", "un gruppo di italiani". Không viết hoa toàn bộ một từ, trừ tên viết tắt như RAI, TG1, UNESCO.
-Dấu câu: không đặt khoảng trắng trước "!", "?", ":", ";". Dấu ba chấm có đúng ba chấm. Mỗi bài có nhiều nhất một dấu chấm than. Ngoặc kép dùng " " để thống nhất với câu chuẩn RAI.
+Dấu câu: không đặt khoảng trắng trước "!", "?", ":", ";". Dấu ba chấm có đúng ba chấm. Mỗi bài có nhiều nhất một dấu chấm than.
+Gạch dài (—) và gạch ngắn có khoảng trắng ( – ) không dùng trong bài tiếng Ý. Khoảng số viết bằng chữ: "dalle 9 alle 11", "da 2 a 12 persone", "dall'8 al 17 marzo".
+Ngoặc kép dùng " " để thống nhất với câu chuẩn RAI, và chỉ cho hai việc: lời trích nguyên văn có người nói, và tên chương trình, tác phẩm (Speciale TG1 "Vietnam: dalle ferite alla luce"). Từ tiếng Việt và tên chuỗi bài không cần ngoặc kép.
+Chấm phẩy gần như không cần trong bài đăng. Ưu tiên dấu chấm; chấm phẩy chỉ dùng để tách các vế dài đã có dấu phẩy bên trong.
 Số: "2.600", "3,5 km", "€1.480", "quota individuale". Ngày viết "28 dicembre 2025" hoặc "28/12/2025". Giờ viết "alle 6", "ore 9" hoặc "8:30", và giữ một kiểu trong mỗi bài.
 Địa danh: Hanoi, Hue, Hoi An, Da Nang, Ho Chi Minh City (dùng Saigon khi nói về lịch sử và văn hóa), Baia di Ha Long, Delta del Mekong, Cambogia, Laos. Trong bài tiếng Ý, địa danh, tên dân tộc và tên lễ hội không dùng dấu tiếng Việt: "il Tet". Tỉnh mới đi kèm tên vùng quen thuộc: "Ha Giang (provincia di Tuyen Quang)" (Brand Guideline 7.2).
 Tên người Việt viết đúng như trong bảng dữ kiện, giữ dấu khi bảng dữ kiện có dấu, chẳng hạn "la signora Hiền" hoặc "Ngọc". Món ăn và từ tiếng Việt được giải thích ở lần xuất hiện đầu nên giữ dấu: "bánh chưng", "phở".

@@ -205,7 +205,12 @@ I lettori italiani riconoscono sempre più spesso i testi scritti in automatico.
 - le aperture come "Oggi vi parliamo di…", "Siete pronti a…?", "Immaginate di…";
 - le frasi che annunciano il tono: "Diciamolo con franchezza", "Ve lo diciamo con sincerità";
 - le chiusure come "In conclusione", "In definitiva", "E voi, siete pronti?" o una frase a effetto sul senso del viaggio;
-- il trattino lungo (—) come inciso: usa la virgola;
+- il trattino lungo (—) e il trattino corto con spazi ( – ) per inserire un inciso: non usarli mai, riscrivi con la virgola, il punto o le parentesi;
+- le virgolette intorno a parole comuni per dare enfasi (un'esperienza "vera"): toglile;
+- il punto e virgola tra due frasi brevi ("Il villaggio è piccolo; la gente è accogliente."): usa il punto, oppure "e", "perché", "così";
+- l'enfasi su importanza e simboli (simbolo di, testimonianza di, riveste un ruolo fondamentale): racconta che cosa succede;
+- le parole e i passaggi tipici dei testi automatici: cruciale, fondamentale, sfruttare, va notato che, è importante sottolineare, vale la pena menzionare, nel panorama di, in un mondo in cui;
+- grassetto, maiuscole all'inizio di ogni parola ("Le Nostre Guide") ed etichette seguite dai due punti ("Il programma:");
 - i connettivi formali a inizio paragrafo (inoltre, dunque, infine, insomma);
 - gli imperativi enfatici (lasciatevi, immergetevi, scoprite la magia);
 - le lusinghe al lettore ("voi, viaggiatori curiosi e appassionati");
@@ -294,7 +299,10 @@ Firma sempre con il nome di chi risponde: "Ngọc, Viet Cone Travel".
 - Elisione: un'esperienza, un'isola; un amico, un albergo; qual è senza apostrofo.
 - Minuscole per mesi, giorni e nazionalità: a marzo, lunedì, un gruppo di italiani.
 - Nessuna parola tutta in maiuscolo, tranne le sigle come RAI, TG1, UNESCO.
-- Nessuno spazio prima di ! ? : ;. Tre puntini, non di più. Al massimo un punto esclamativo per post. Virgolette alte " ".
+- Nessuno spazio prima di ! ? : ;. Tre puntini, non di più. Al massimo un punto esclamativo per post.
+- Nessun trattino lungo (—) e nessun trattino corto con spazi ( – ). Gli intervalli si scrivono a parole: "dalle 9 alle 11", "da 2 a 12 persone", "dall'8 al 17 marzo".
+- Virgolette alte " ", solo per le citazioni testuali di una persona e per i titoli (Speciale TG1 "Vietnam: dalle ferite alla luce"). Le parole vietnamite e i nomi delle rubriche non vanno tra virgolette.
+- Punto e virgola quasi mai: preferisci il punto. Usalo solo per separare parti lunghe che contengono già delle virgole.
 - Numeri: 2.600; 3,5 km; €1.480; quota individuale. Date: 28 dicembre 2025 oppure 28/12/2025. Orari: "alle 6", "ore 9" oppure "8:30", uno stile per post.
 - Luoghi: Hanoi, Hue, Hoi An, Da Nang, Ho Chi Minh City (Saigon quando si parla di storia o di cultura), Baia di Ha Long, Delta del Mekong, Cambogia, Laos. Niente segni diacritici vietnamiti nei luoghi, nei nomi delle etnie e delle feste: la comunità hmong, l'etnia thai, il Tet. Per le nuove province: "Ha Giang (provincia di Tuyen Quang)".
 - Parole vietnamite spiegate nel testo, come i nomi dei piatti: conserva i segni diacritici (bánh chưng, phở).
@@ -312,6 +320,7 @@ Per un post nuovo rispondi in questo ordine.
    - le frasi standard della sezione B3;
    - la lunghezza e la prima riga entro 90 caratteri;
    - i due punti: al massimo un "X: Y" per post, elenchi esclusi;
+   - trattini lunghi o corti con spazi, virgolette di enfasi, punti e virgola tra frasi brevi: nessuno;
    - articoli, verbi e connettivi: nessuna frase da telegramma;
    - accenti, apostrofi, maiuscole, numeri e luoghi della sezione B8;
    - se, letto ad alta voce, il post suona come una persona che racconta e non come una slide;
