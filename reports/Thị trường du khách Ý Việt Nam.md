@@ -398,7 +398,7 @@ Quy ước: **[XM]** = đã xác minh qua nguồn; **[SL]** = suy luận hoặc 
 
 ### Tuân thủ claim
 
-- Câu chuẩn và quy tắc claim: context mục 9–10. Lưu ý luật áp cả cho tên sản phẩm.
+- Câu chuẩn và quy tắc claim: bối cảnh mục 9–10. Lưu ý luật áp cả cho tên sản phẩm.
 - Nên gửi tour operator Ý bộ claim có bằng chứng kèm theo, vì họ có xu hướng soát nội dung white label theo luật mới.
 
 ### Thứ tự mở rộng (gợi ý, điều chỉnh theo năng lực)

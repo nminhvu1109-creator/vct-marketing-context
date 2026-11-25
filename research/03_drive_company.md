@@ -50,7 +50,7 @@ Số liệu doanh thu, biên lợi nhuận, mục tiêu: xem trực tiếp file 
 ### 2.1 Doanh thu, biên, mục tiêu (chỉ ghi nhận định)
 - 2026 giảm so với 2025; sheet "TOUR HỦY" tháng 3/2026 ghi "DO CHIẾN TRANH".
 - Booking 2027 đặt trước chủ yếu là B2B; B2C 2027 gần như trống.
-- Mùa vụ khách Viet Cone: context mục 3; chi tiết theo tháng ở báo cáo thị trường, mục Mùa vụ.
+- Mùa vụ khách Viet Cone: bối cảnh mục 3; chi tiết theo tháng ở báo cáo thị trường, mục Mùa vụ.
 - B2B tập trung vài hãng lớn; hãng mới chủ yếu từ TTG và HDV giới thiệu.
 - Biên: Evaneos cao nhất, khách trực tiếp ở giữa, B2B thấp nhất. Khách trực tiếp chốt tốt hơn Evaneos nhưng ít, chi tiêu thấp hơn.
 - Nhận định nội bộ: request Evaneos chững; request gia đình tăng; "cần đẩy mạnh mkt/branding thu hút khách lẻ trực tiếp"; nên làm package theo module (ESG/ISG/no guide).
@@ -62,7 +62,7 @@ Số liệu doanh thu, biên lợi nhuận, mục tiêu: xem trực tiếp file 
 
 ### 2.3 NEW B2C BRAND IDEAS (9/2025)
 - Ý tưởng thương hiệu B2C riêng MET (Mosaic Experience Tour), có file logo: định vị "Local Cultural Specialist", phân khúc S3–S6, content pillars, SEO long-tail, Meta Ads Ý + Pháp, referral, famtrip blogger Ý; slogan đề xuất "MET – Meet the Authentic".
-- Trạng thái: đang cân nhắc, chưa quyết (context mục 14).
+- Trạng thái: đang cân nhắc, chưa quyết (bối cảnh mục 14).
 
 ### 2.4 BEST SELLERS AND TEMPLATES
 - 9 itinerari website: Cambogia & mare, Gran tour Viet e Laos 13N, Mekong autentico 8N, Viaggio di nozze 10N, Laos 7N, Vietnam avventura 14N, Vietnam e Angkor 14N, Vietnam e Phú Quốc 12N, Vietnam montagne ovest-est 17N.
@@ -85,7 +85,7 @@ Bản dùng chính thức là bản tiếng Anh (`foundation/`). Các điểm c�
 - "8 phụ nữ Việt sáng lập" (chưa xác minh) → "đội ngũ chủ yếu là phụ nữ".
 - "1 trong 13 DMC" → "1 trong 10 Partner tại Việt Nam (28/10/2026)".
 - "CAPITAL TOUR DMCs CLUB" → "CAPTOUR DMCs Club".
-- Dòng Multi-country có Thái Lan → Combinati (VN + Lào/Campuchia); Thái Lan theo context mục 5.
+- Dòng Multi-country có Thái Lan → Combinati (VN + Lào/Campuchia); Thái Lan theo bối cảnh mục 5.
 - Tên dòng cũ (Experience, Classic, Responsible, Multi-country) → sáu dòng chuẩn.
 - Có hai bản "có Thái Lan" và "không có Thái Lan": ưu tiên bản không có Thái Lan cho truyền thông.
 

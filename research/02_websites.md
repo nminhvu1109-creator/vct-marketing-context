@@ -2,7 +2,7 @@
 
 Rà soát 20/11/2026: đọc HTML (title, meta, hreflang, heading, link), tra mạng xã hội và báo chí.
 Không gửi form. Không gồm ttg.vietconetravel.com.
-Trích dẫn giữ ngôn ngữ gốc. Câu chữ chuẩn (RAI, Travelife, năm thành lập): xem context mục 9.
+Trích dẫn giữ ngôn ngữ gốc. Câu chữ chuẩn (RAI, Travelife, năm thành lập): xem bối cảnh mục 9.
 
 ## 0. Tổng quan
 
@@ -23,7 +23,7 @@ Trích dẫn giữ ngôn ngữ gốc. Câu chữ chuẩn (RAI, Travelife, năm t
 ### 1.1 Nội dung và thông điệp
 - Đối tượng: khách lẻ Ý. hreflang `it-it` (x-default), `en-gb`, `es-es`. Chưa có bản tiếng Pháp.
 - Menu: DESTINAZIONI (Vietnam, Laos, Cambogia, Thailandia) · TEMI/VIAGGI (Esperienziali, Classici, Responsabili, Trekking, Combinati) · SU DI NOI · BLOG · CONTATTACI.
-- Trang chủ: "local DMC ... con oltre 20 anni di esperienza tra Vietnam, Laos, Cambogia e Thailandia." Lệch context: thành lập 2019; Thái Lan (context mục 5).
+- Trang chủ: "local DMC ... con oltre 20 anni di esperienza tra Vietnam, Laos, Cambogia e Thailandia." Lệch bối cảnh: thành lập 2019; Thái Lan (bối cảnh mục 5).
 - Su di noi: "La nostra agenzia nasce nel 2010". Lệch năm thành lập 2019.
 - Missione: "Mostrare il vero Vietnam in modo sostenibile"; giá trị Creatività, Passione, Solidarietà, Responsabilità.
 - Số liệu trang chủ: "100% Viaggi personalizzati", "99% Clienti soddisfatti" (không nguồn), "20+ Anni".
@@ -33,7 +33,7 @@ Trích dẫn giữ ngôn ngữ gốc. Câu chữ chuẩn (RAI, Travelife, năm t
 - RAI: "ha inoltre collaborato ... alla realizzazione di uno speciale". Lệch câu chuẩn "accompagnato la troupe"; đã có link RaiPlay.
 - Tripadvisor: chỉ có badge; mục "COSA DICONO I NOSTRI CLIENTI" không có review bằng chữ.
 - CAPTOUR DMCs Club: có badge.
-- Trang bền vững: Sostenibilità, Politica di sostenibilità, Rapporto di sostenibilità, Carbon offset policy, Politica sociale e diritti umani. Nên rà "Carbon offset policy" theo context mục 10.
+- Trang bền vững: Sostenibilità, Politica di sostenibilità, Rapporto di sostenibilità, Carbon offset policy, Politica sociale e diritti umani. Nên rà "Carbon offset policy" theo bối cảnh mục 10.
 - Footer có số giấy phép lữ hành quốc tế.
 
 ### 1.3 Sản phẩm
@@ -80,7 +80,7 @@ Trích dẫn giữ ngôn ngữ gốc. Câu chữ chuẩn (RAI, Travelife, năm t
 ## 3. Trang proposal white label: vivivietnam, vietnamangkor
 
 - Trang chương trình cho từng đoàn, gửi đối tác thay file PDF.
-- Cố ý không logo, không tên Viet Cone, không liên hệ, không CTA, không giá: đúng mô hình white label (context mục 12).
+- Cố ý không logo, không tên Viet Cone, không liên hệ, không CTA, không giá: đúng mô hình white label (bối cảnh mục 12).
 - Việc cần: đặt `noindex`. Hiện chưa có; robots.txt Cloudflare cho `search=yes`.
 - Kỹ thuật: Astro, Cloudflare, CSP `form-action 'none'`, Source Sans 3, hreflang IT/EN, OG.
 - Định dạng mạnh: đẹp, đọc tốt trên điện thoại, có link khách sạn. Ưu tiên dùng làm mẫu proposal chuẩn cho kênh B2B.
@@ -130,7 +130,7 @@ Trích dẫn giữ ngôn ngữ gốc. Câu chữ chuẩn (RAI, Travelife, năm t
 | Facebook | Page "Viet Cone Travel - Italiano \| Hanoi" và một page cũ: thương hiệu bị phân tán | https://www.facebook.com/VietConeTravel · https://www.facebook.com/Viet-Cone-Travel-112882640072400/ |
 | YouTube | Handle có đuôi số mặc định | https://www.youtube.com/@vietconetravel7356 |
 | LinkedIn | Hồ sơ cá nhân (/in/), chưa phải Company Page | https://vn.linkedin.com/in/viet-cone-travel-755b64378 |
-| Tripadvisor | Chặn 403 khi tra; số đánh giá: context mục 9 | https://www.tripadvisor.it/Attraction_Review-g293924-d20899025-Reviews-Viet_Cone_Travel-Hanoi.html |
+| Tripadvisor | Chặn 403 khi tra; số đánh giá: bối cảnh mục 9 | https://www.tripadvisor.it/Attraction_Review-g293924-d20899025-Reviews-Viet_Cone_Travel-Hanoi.html |
 
 - Tìm kiếm "Viet Cone Travel" recensioni, tour operator, "Speciale Tg1 Vietnam dalle ferite alla luce": không có kết quả nào về Viet Cone.
 - Công cụ còn gợi ý nhầm sang "Conical Travel". Kết quả tiếng Ý là đối thủ: OVET, WeRoad, Threeland.
@@ -151,7 +151,7 @@ Site chính:
 1. Xóa hoặc ẩn `book-online` và các trang copy-of-*; sửa slug `richietsa`, email footer "infor@".
 2. Thailandia: ưu tiên đưa xuống vị trí phụ trong menu hoặc ghi "su richiesta"; câu giới thiệu trang chủ ưu tiên Vietnam, Laos, Cambogia.
 3. Sửa "20+ anni", "nasce nel 2010", "99% clienti soddisfatti": ghi "fondata nel 2019".
-4. Travelife: theo câu chuẩn context mục 9.
+4. Travelife: theo câu chuẩn bối cảnh mục 9.
 5. RAI: câu chuẩn + link RaiPlay; có thể dùng logo RAI và nhúng trích đoạn phóng sự. Ưu tiên một trang riêng cho RAI và Travelife.
 6. Sửa chính tả trên nút lặp (più, RESPONSABILI, I NOSTRI).
 7. Viết lại title, meta theo từ khóa tiếng Ý; mỗi trang một H1.

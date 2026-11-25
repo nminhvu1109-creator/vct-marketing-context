@@ -81,7 +81,7 @@ Evaneos:
 - B2B 2025: trung vị €1.444; p90 €2.315.
 - Ngân sách khai trong lead: trung vị €1.750/khách (€136/ngày); 31% dưới €1.500; khoảng 18% từ €2.500.
 - Giá B2B là giá net; khách cuối trả thêm phần của agency (thường 20–30%), tức khoảng €1.700–1.800 land tour.
-- Mốc giá tham chiếu land tour/khách/ngày: context mục 5.
+- Mốc giá tham chiếu land tour/khách/ngày: bối cảnh mục 5.
 - Viet Cone nằm giữa nhóm DMC giá rẻ và tour ghép TO Ý; B2B 1–5 khách và Evaneos chạm mức thấp của tour ghép TO Ý.
 - Khách Ý đi đường dài qua TO: khoảng €3.300/khách 10–11 ngày gồm vé bay; Viet Cone land tour + vé khoảng €2.300–2.800 cho 14 ngày.
 - €/ngày giả định 14 ngày; đoàn B2B đi 11–16 ngày nên mức thực có thể lệch, cao hơn tới khoảng 25% với đoàn ngắn ngày.

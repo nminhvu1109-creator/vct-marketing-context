@@ -145,9 +145,9 @@ Lịch sử, ngoài phạm vi (chỉ tham khảo):
 | YouTube | 5 video, chưa có chiến lược | – |
 | TikTok | Có trong Marketing Map, chưa hoạt động | – |
 | Website (Wix) | Nhiều lỗi kỹ thuật và thương hiệu; GĐ1 chưa bắt đầu; có GA4, GSC | Action Plan, SEO Ý |
-| Website MET | Nội dung 2023, invoice 11/2026–2027 (MET: context mục 14) | folder 3.2 |
+| Website MET | Nội dung 2023, invoice 11/2026–2027 (MET: bối cảnh mục 14) | folder 3.2 |
 | Email | Mạnh nhất 2020–2021; sau đó chỉ dịp hội chợ | báo cáo Mailchimp |
-| Tripadvisor, Viator | #196/2.767 (khoảng 11/2025); số đánh giá hiện tại: context mục 9; trả lời review qua Viator | UPDATE TRIPADVISOR |
+| Tripadvisor, Viator | #196/2.767 (khoảng 11/2025); số đánh giá hiện tại: bối cảnh mục 9; trả lời review qua Viator | UPDATE TRIPADVISOR |
 | Evaneos | Kênh bán; khách cũ liên hệ qua WhatsApp | TTG 2024 Planning |
 | Hội chợ | TTG Rimini gần như hằng năm; ITB Berlin 2027 cùng Travelife | 7.7, 7.8 |
 | PR | RAI là tài sản lớn nhất, chưa khai thác trên web | – |
