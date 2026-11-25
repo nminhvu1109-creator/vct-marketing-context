@@ -162,7 +162,7 @@ Quy ước: **[XM]** = đã xác minh qua nguồn; **[SL]** = suy luận hoặc 
 - [XM] Khí hậu: miền Bắc dễ chịu nhất khoảng tháng 10–4 (tháng 12–2 lạnh), miền Trung đẹp khoảng tháng 2–8 và mưa bão khoảng tháng 9–12, miền Nam khô tháng 12–4. Năm 2025, Huế mưa lũ 23 ngày (15/10–6/11).
 - [XM] Lúa chín Mù Cang Chải khoảng giữa tháng 9 đến đầu tháng 10; tam giác mạch Hà Giang khoảng tháng 10–11.
 - [XM] Khách Viet Cone (theo tháng khởi hành, 2023–2025) dồn hơn thị trường: tháng 8 khoảng 20%, tháng 12 khoảng 15%; tháng 5, 6 và 9 cộng lại khoảng 4%.
-- [XM] Viet Cone 2024–2025: B2B dồn vào tháng 2–3 (khoảng 29%), tháng 8 và 11 (khoảng 16% mỗi tháng), tháng 1 rất thấp. B2C dồn vào tháng 1–2, tháng 4, tháng 8 (khoảng 22%) và tháng 12; tháng 11 thấp. Số này tính theo khách; research/06 tính theo doanh thu 2025 nên tỷ trọng tháng khác.
+- [XM] Viet Cone 2024–2025: B2B dồn vào tháng 2–3 (khoảng 29%), tháng 8 và 11 (khoảng 16% mỗi tháng), tháng 1 rất thấp. B2C dồn vào tháng 1–2, tháng 4, tháng 8 (khoảng 22%) và tháng 12; tháng 11 thấp.
 
 ### Suy luận
 
@@ -398,11 +398,7 @@ Quy ước: **[XM]** = đã xác minh qua nguồn; **[SL]** = suy luận hoặc 
 
 ### Tuân thủ claim
 
-- Tránh "sostenibile", "green", "eco", "carbon neutral" ở dạng chung chung trên mọi kênh tiếng Ý, kể cả tên sản phẩm.
-- Viết đúng "Travelife Partner", không viết "Certified". Gia hạn trước 23/06/2027.
-- Chương trình trồng cây chỉ nói là trồng cây; không gọi là bù hay trung hòa CO2.
-- Gỡ ô consent tích sẵn trên landing TTG. Tách consent marketing khỏi yêu cầu báo giá.
-- Dùng "Viet Cone đồng hành cùng RAI"; RAI đã đồng ý cho dùng logo và footage, trích đoạn ghi nguồn Rai 1.
+- Câu chuẩn và quy tắc claim: context mục 9–10. Lưu ý luật áp cả cho tên sản phẩm.
 - Nên gửi tour operator Ý bộ claim có bằng chứng kèm theo, vì họ có xu hướng soát nội dung white label theo luật mới.
 
 ### Thứ tự mở rộng (gợi ý, điều chỉnh theo năng lực)

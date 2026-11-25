@@ -46,13 +46,12 @@ Theo `MARKETING MAP.pptx` và sheet `[MKT] - BẢNG CHỈ DẪN THÔNG TIN` (m�
 - Khung bài bản nhưng khoảng 20/40 folder cấp 3 còn trống (toàn bộ 7.4, Sales Material, Positioning, JTBD, SOP, Report).
 - Tài liệu thực chất nằm ở Brand Narrative, Website, Social, Mailchimp cũ, hội chợ.
 - Tên folder sai chính tả: MARTERIAL, ANALYSTIC. Brochure 2023 có nhiều bản trùng.
-- MET (folder 3.2): thương hiệu B2C riêng đang cân nhắc, chưa quyết.
 
 ## 2. Tài liệu chính
 
 ### 2.1 Chiến lược
 Brand Strategy 03/2026 (260331 VCT-BRAND FINAL.pdf):
-- Phân khúc (Classic/Discovery/Cultural) và 4 pillar cũ đã được thay bằng Brand Strategy bản 20/11/2026 (mục 4.8) trong `foundation/`. Bản này chỉ để tham khảo.
+- Phân khúc (Classic/Discovery/Cultural) và 4 pillar cũ đã được thay bằng Brand Strategy hiện hành (mục 4.8) trong `foundation/`. Bản này chỉ để tham khảo.
 - Còn dùng được: narrative 5 lớp (Market tension → Customer truth → Belief → Role → Transformation); hành trình Tourist → Traveler → Cultural Explorer; tuyên ngôn Việt–Anh–Ý.
 - Ưu tiên nói về giá trị hơn giá; nội dung chiều sâu hơn "đi đâu ăn gì"; ảnh thật hơn ảnh stock.
 
@@ -76,7 +75,7 @@ VCT BRANDING ANALYSIS.pdf (audit 30/11/2025):
 - Website: mạnh ở bản sắc, Travelife, testimonial người Ý thật; yếu ở UX cũ, thiếu CTA, video, keyword.
 
 ### 2.2 Content và social
-- Content Guideline FB, IG (04/2026): 4 bài nối tiếp về một trải nghiệm (Hiểu → Tin → Muốn → Chứng minh), ví dụ series KymViet. Đối chiếu lại với trụ cột Brand Strategy (bản 20/11/2026, mục 4.8).
+- Content Guideline FB, IG (04/2026): 4 bài nối tiếp về một trải nghiệm (Hiểu → Tin → Muốn → Chứng minh), ví dụ series KymViet. Đối chiếu lại với trụ cột Brand Strategy hiện hành (mục 4.8).
 - Guideline: Series Brief và Post Brief trước khi viết; chấm điểm 100 (≥90 đăng ngay, 75–89 đạt, <60 viết lại); hashtag #VietConeTravel #ImmerseNotJustObserve.
 - CONTENT PLAN 2025: 12 tuyến nội dung (bền vững, cẩm nang, điểm đến, ẩm thực, Human of Viet Cone, hậu trường…).
 - Campaign FB+IG 2020–2021: tiếng Ý 2–3 bài/tuần, khoảng 40 chủ đề, so sánh với Ý.
@@ -92,7 +91,7 @@ NGHIÊN CỨU KÊNH SOCIAL.docx (phần fanpage bị cắt khi đọc):
 - Website: trang zombie, `/es/` hiển thị tiếng Anh, trang Book Online mẫu Wix. GA4 và GSC đã có.
 - Khuyến nghị: video RAI làm hero; dải bảo chứng RAI (chữ hoặc logo), Travelife, Evaneos; bộ lọc "Per chi?"; brochure B2B đổi email; widget review; 80% ảnh có người.
 - Traffic đối thủ/tháng: Asia Viva ~14.947 (dựa Google Ads), Amica ~13.495 (direct mạnh, 51 giây/visit), Asiatica ~11.562 (SEO mạnh, 11 giây/visit), Cocco ~2.383.
-- Tripadvisor (số trong tài liệu, khoảng 11/2025): 90 review 5 sao, 1 review 4 sao; hạng #196/2.767 tour operator Hà Nội (top 7%); review đều 7–11/2025. Số hiện tại: khoảng 90 đánh giá, 5.0 (tra 11/2026, context mục 9).
+- Tripadvisor (số trong tài liệu, khoảng 11/2025): 90 review 5 sao, 1 review 4 sao; hạng #196/2.767 tour operator Hà Nội (top 7%); review đều 7–11/2025.
 - Đề xuất Tripadvisor: viết lại bio, album RAI, phản hồi mọi review, thẻ QR cho khách, email xin review sau 3–5 ngày.
 
 UPDATE TRIPADVISOR (Doc):
@@ -146,9 +145,9 @@ Lịch sử, ngoài phạm vi (chỉ tham khảo):
 | YouTube | 5 video, chưa có chiến lược | – |
 | TikTok | Có trong Marketing Map, chưa hoạt động | – |
 | Website (Wix) | Nhiều lỗi kỹ thuật và thương hiệu; GĐ1 chưa bắt đầu; có GA4, GSC | Action Plan, SEO Ý |
-| Website MET | Nội dung 2023, invoice 11/2026–2027; thương hiệu đang cân nhắc, chưa quyết | folder 3.2 |
+| Website MET | Nội dung 2023, invoice 11/2026–2027 (MET: context mục 14) | folder 3.2 |
 | Email | Mạnh nhất 2020–2021; sau đó chỉ dịp hội chợ | báo cáo Mailchimp |
-| Tripadvisor, Viator | Khoảng 90 đánh giá, 5.0 (tra 11/2026); #196/2.767 (khoảng 11/2025); Travelers' Choice 2025 và 2026; trả lời review qua Viator | UPDATE TRIPADVISOR |
+| Tripadvisor, Viator | #196/2.767 (khoảng 11/2025); số đánh giá hiện tại: context mục 9; trả lời review qua Viator | UPDATE TRIPADVISOR |
 | Evaneos | Kênh bán; khách cũ liên hệ qua WhatsApp | TTG 2024 Planning |
 | Hội chợ | TTG Rimini gần như hằng năm; ITB Berlin 2027 cùng Travelife | 7.7, 7.8 |
 | PR | RAI là tài sản lớn nhất, chưa khai thác trên web | – |

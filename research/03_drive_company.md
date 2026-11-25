@@ -50,7 +50,7 @@ Số liệu doanh thu, biên lợi nhuận, mục tiêu: xem trực tiếp file 
 ### 2.1 Doanh thu, biên, mục tiêu (chỉ ghi nhận định)
 - 2026 giảm so với 2025; sheet "TOUR HỦY" tháng 3/2026 ghi "DO CHIẾN TRANH".
 - Booking 2027 đặt trước chủ yếu là B2B; B2C 2027 gần như trống.
-- Mùa: dồn vào tháng 8, tháng 11–12 và tháng 2–3; tháng 5–6 và tháng 9 rất thấp (chi tiết: báo cáo thị trường, mục Mùa vụ).
+- Mùa vụ khách Viet Cone: context mục 3; chi tiết theo tháng ở báo cáo thị trường, mục Mùa vụ.
 - B2B tập trung vài hãng lớn; hãng mới chủ yếu từ TTG và HDV giới thiệu.
 - Biên: Evaneos cao nhất, khách trực tiếp ở giữa, B2B thấp nhất. Khách trực tiếp chốt tốt hơn Evaneos nhưng ít, chi tiêu thấp hơn.
 - Nhận định nội bộ: request Evaneos chững; request gia đình tăng; "cần đẩy mạnh mkt/branding thu hút khách lẻ trực tiếp"; nên làm package theo module (ESG/ISG/no guide).
@@ -85,7 +85,7 @@ Bản dùng chính thức là bản tiếng Anh (`foundation/`). Các điểm c�
 - "8 phụ nữ Việt sáng lập" (chưa xác minh) → "đội ngũ chủ yếu là phụ nữ".
 - "1 trong 13 DMC" → "1 trong 10 Partner tại Việt Nam (28/10/2026)".
 - "CAPITAL TOUR DMCs CLUB" → "CAPTOUR DMCs Club".
-- Dòng Multi-country có Thái Lan → Combinati (VN + Lào/Campuchia). Thái Lan có bán qua một số đối tác B2B và khi khách hỏi; truyền thông ưu tiên Việt Nam, Lào, Campuchia.
+- Dòng Multi-country có Thái Lan → Combinati (VN + Lào/Campuchia); Thái Lan theo context mục 5.
 - Tên dòng cũ (Experience, Classic, Responsible, Multi-country) → sáu dòng chuẩn.
 - Có hai bản "có Thái Lan" và "không có Thái Lan": ưu tiên bản không có Thái Lan cho truyền thông.
 
@@ -107,7 +107,7 @@ Bản dùng chính thức là bản tiếng Anh (`foundation/`). Các điểm c�
 1. Kênh trực tiếp là khoảng trống lớn nhất, và kinh tế kênh ủng hộ nó: biên tốt hơn B2B, chốt tốt hơn Evaneos, không phí nền tảng.
 2. B2C 2027 gần như trống: ưu tiên chạy marketing B2C sớm cho tháng 8 và lễ cuối năm 2027.
 3. MET đang cân nhắc, chưa quyết. Trong lúc chờ, ưu tiên một bộ thông điệp Viet Cone cho cả B2B và B2C.
-4. TTG đã đem về hãng mới (Perla Nera, Preparate le valigie). Magnum đang là lead nóng ở context mục 11: cần xác nhận đã chốt hay chưa. Đo lead → booking: xem research/05.
+4. TTG đã đem về hãng mới (Perla Nera, Preparate le valigie). Magnum đang là lead nóng (research/05 mục 11): cần xác nhận đã chốt hay chưa. Đo lead → booking: xem research/05.
 5. Để đặt KPI theo nguồn, ưu tiên đọc tiếp: CRM Sales_Database_v2, MONTHLY REPORTS 2026, Compass analytics, EVANEOS DASHBOARD.
 6. Nội dung tái dùng cho blog SEO tiếng Ý: KEY PRODUCT HANDBOOK, ATTRACTION/EXPERIENCE DESCRIPTION, brochure 2026–2027, MÙA NÀO ĐI ĐÂU.
 7. Đối thủ sao chép được điểm đến; lợi thế khó sao chép là quan hệ cộng đồng và câu chuyện thương hiệu.

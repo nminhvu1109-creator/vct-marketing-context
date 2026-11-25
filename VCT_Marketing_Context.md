@@ -5,7 +5,7 @@ Cập nhật 25/11/2026. Tài liệu nội bộ: có dữ liệu đối tác, kh
 ## 0. Cách dùng
 
 - File này là bản chuẩn cho mọi việc marketing. Mỗi dữ kiện ưu tiên ghi một lần; mục 13–14 là danh sách việc, trỏ về mục gốc.
-- Tài liệu nền tảng: 3 PDF trong `foundation/` (Brand Strategy, Brand Guideline, Company Profile tiếng Anh). Brand Strategy và Guideline đã chỉnh ngày 25/11/2026.
+- Tài liệu nền tảng: 3 PDF trong `foundation/` (Brand Strategy, Brand Guideline, Company Profile tiếng Anh).
 - Khi tài liệu lệch nhau, theo file này, rồi đến PDF, rồi đến `research/` và `reports/` (tư liệu và nguồn).
 - Quy tắc viết theo kiểu "ưu tiên": chọn cách được ưu tiên trước, dùng cách khác khi có lý do.
 - Viết tắt: TO = tour operator; HDV = hướng dẫn viên; DMC = đơn vị điều hành tour tại điểm đến.
@@ -94,9 +94,8 @@ Cập nhật 25/11/2026. Tài liệu nội bộ: có dữ liệu đối tác, kh
   - Terracotta #B0412F là màu chủ đạo; xanh rêu #183C27 là màu phụ; vàng đất #C99A2E là màu nhấn; kem nhạt #FDFBF5 là nền. Đỏ quai nón và vàng nón chỉ dùng trong logo và trên đồng phục.
   - Tỷ lệ tham chiếu: 60% trung tính, 25% nhóm terracotta, 7% xanh rêu, 8% vàng đất.
   - Vàng đất dùng cho khối nhấn (chữ mực), đồ họa, số liệu và chữ lớn trên nền đậm. Trên nền sáng, số liệu ưu tiên terracotta.
-  - Font Source Sans 3, dự phòng Arial. In ấn: chữ thân bài in đen K100.
+  - In ấn: chữ thân bài in đen K100.
   - Ảnh kiểu phóng sự, có người thật.
-  - Bản đồ Việt Nam luôn có Hoàng Sa, Trường Sa.
 
 ## 5. Sản phẩm
 
@@ -127,12 +126,12 @@ Cập nhật 25/11/2026. Tài liệu nội bộ: có dữ liệu đối tác, kh
 
 - **DMC Việt Nam bán cho khách Ý:**
   - Asiatica: quy mô lớn nhất, giá rẻ.
-  - Threeland, Easia, Lux Travel DMC, Realistic Asia: đã lên Travelife Certified.
   - Seasia: B2B, đối tác Vietnam Airlines, tour ghép hằng tháng; đối thủ B2B trực tiếp nhất.
   - Dong DMC: B2B thuần cho TO Ý.
   - Travel Sense Asia, Kampa: giá rẻ, có HDV tiếng Ý.
-  - Lux Travel DMC: phân khúc cao cấp.
-  - Realistic Asia: đa thị trường, có web tiếng Ý.
+  - Threeland, Easia: Travelife Certified.
+  - Lux Travel DMC: cao cấp, Travelife Certified.
+  - Realistic Asia: đa thị trường, web tiếng Ý, Travelife Certified.
   - Bellasia, Cocco, Horizon, Terra Indochina.
 - **Tour operator Ý bán Việt Nam:** OVET, "Appassionatamente Vietnam" (khởi hành hằng tuần, nhiều agency bán lại), WeRoad (khách 25–35), Avventure nel Mondo, Quality Group.
 - **Viaggi Solidali:** đối tác B2B chính, đồng thời bán tuyến Việt Nam của riêng họ.
@@ -148,7 +147,7 @@ Hai tài sản marketing chủ lực là phóng sự RAI 1 và Travelife.
   - Câu chuẩn (Guideline 7.2):
     - IT: "Abbiamo accompagnato la troupe RAI per lo Speciale TG1 "Vietnam: dalle ferite alla luce" (Rai 1, 28/12/2025)".
     - EN: "We accompanied the RAI crew for the TG1 special "Vietnam: dalle ferite alla luce" (Rai 1, 28 Dec 2025)".
-    - FR (chưa có trong Guideline): "Nous avons accompagné l'équipe de la RAI pour le Speciale TG1 « Vietnam: dalle ferite alla luce » (Rai 1, 28/12/2025)".
+    - FR: "Nous avons accompagné l'équipe de la RAI pour le Speciale TG1 « Vietnam: dalle ferite alla luce » (Rai 1, 28/12/2025)".
     - VI: "Viet Cone đồng hành cùng RAI trong Speciale TG1 "Vietnam: dalle ferite alla luce" (Rai 1, 28/12/2025)".
     - Bản ngắn có thể bỏ tên phóng sự, giữ "Speciale TG1 (Rai 1, 28/12/2025)".
   - Ưu tiên ghi tên chương trình, ngày phát và link RaiPlay.
@@ -161,9 +160,7 @@ Hai tài sản marketing chủ lực là phóng sự RAI 1 và Travelife.
 - **Tripadvisor:** khoảng 90 đánh giá, điểm 5.0 (tra 11/2026); Travelers' Choice 2025 và 2026.
 - **CAPTOUR:** "Membro del CAPTOUR DMCs Club".
 - **Cộng đồng đối tác:** CSIP, KymViet, KOTO, Đại học Hà Nội; 1 USD mỗi khách cho dự án trồng cây. Nêu tên đối tác khi họ đã đồng ý.
-- **Thứ tự dòng uy tín** (Guideline 6.5):
-  - Ấn phẩm tiếng Ý: RAI → Travelife → Tripadvisor → CAPTOUR. Có thể bỏ bớt dòng, ưu tiên giữ thứ tự.
-  - Ấn phẩm tiếng Anh, tiếng Pháp: Travelife → Tripadvisor → CAPTOUR → RAI.
+- **Dòng uy tín** (Guideline 6.5): thứ tự và số dòng linh hoạt theo ấn phẩm; với khách Ý, RAI thường đặt đầu.
   - Trên trang bán cho người tiêu dùng EU, ưu tiên dòng chữ Travelife hơn huy hiệu cho đến khi luật sư Ý xác nhận.
 - **Cách nói về bền vững:** ưu tiên việc làm cụ thể (người, nơi, số liệu, chứng nhận) hơn từ chung chung như "eco", "green", "sostenibile". Trồng cây chỉ nói là trồng cây, không gọi là bù hay trung hòa CO2.
 - **Số năm hoạt động:** ghi năm thành lập 2019. Mốc 2010 thuộc câu chuyện của founder, không cộng thành "20+ năm".

@@ -23,7 +23,7 @@ Trích dẫn giữ ngôn ngữ gốc. Câu chữ chuẩn (RAI, Travelife, năm t
 ### 1.1 Nội dung và thông điệp
 - Đối tượng: khách lẻ Ý. hreflang `it-it` (x-default), `en-gb`, `es-es`. Chưa có bản tiếng Pháp.
 - Menu: DESTINAZIONI (Vietnam, Laos, Cambogia, Thailandia) · TEMI/VIAGGI (Esperienziali, Classici, Responsabili, Trekking, Combinati) · SU DI NOI · BLOG · CONTATTACI.
-- Trang chủ: "local DMC ... con oltre 20 anni di esperienza tra Vietnam, Laos, Cambogia e Thailandia." Lệch context: thành lập 2019; Thái Lan có bán qua một số đối tác B2B và khi khách hỏi, truyền thông ưu tiên Việt Nam, Lào, Campuchia.
+- Trang chủ: "local DMC ... con oltre 20 anni di esperienza tra Vietnam, Laos, Cambogia e Thailandia." Lệch context: thành lập 2019; Thái Lan (context mục 5).
 - Su di noi: "La nostra agenzia nasce nel 2010". Lệch năm thành lập 2019.
 - Missione: "Mostrare il vero Vietnam in modo sostenibile"; giá trị Creatività, Passione, Solidarietà, Responsabilità.
 - Số liệu trang chủ: "100% Viaggi personalizzati", "99% Clienti soddisfatti" (không nguồn), "20+ Anni".
@@ -73,7 +73,7 @@ Trích dẫn giữ ngôn ngữ gốc. Câu chữ chuẩn (RAI, Travelife, năm t
   - Nam: Trà Vinh (Khmer, Cồn Hô), Sóc Trăng.
 - Trang Hội An: Kieu Maily, nhà văn, nghệ sĩ, nhà nghiên cứu Chăm; "pasto culturale" khoảng 2,5 giờ hoặc "incontro con il tè" khoảng 90 phút; Viet Cone lo phiên dịch; có hướng dẫn ứng xử khi chụp ảnh. Không giá.
 - Giọng văn tiết chế, có người thật: thể hiện rõ nhất "Immerse. Not just observe." Bản đồ có Hoàng Sa, Trường Sa; có file Travelife tải về.
-- Màu: kem #FDFBF5, xanh rêu #183C27, vàng đất #C99A2E, mực #20251F; chưa dùng terracotta #B0412F (màu chủ đạo theo Guideline). Ảnh WebP, layout kiểu tạp chí.
+- Ảnh WebP, layout kiểu tạp chí.
 - Kỹ thuật tốt: CSP, index/follow, canonical, hreflang IT/EN, sitemap 18 URL, OG đầy đủ. Không thấy analytics.
 - Điểm yếu: trang tổng không có giá, thời lượng, tên host; CTA đưa khách lẻ sang trang TTG (B2B); site chính chưa liên kết tới.
 
@@ -82,7 +82,7 @@ Trích dẫn giữ ngôn ngữ gốc. Câu chữ chuẩn (RAI, Travelife, năm t
 - Trang chương trình cho từng đoàn, gửi đối tác thay file PDF.
 - Cố ý không logo, không tên Viet Cone, không liên hệ, không CTA, không giá: đúng mô hình white label (context mục 12).
 - Việc cần: đặt `noindex`. Hiện chưa có; robots.txt Cloudflare cho `search=yes`.
-- Kỹ thuật: Astro, Cloudflare, CSP `form-action 'none'`, Source Sans 3, hreflang IT/EN, OG. Màu giống Immersion, thêm terracotta #B0412F.
+- Kỹ thuật: Astro, Cloudflare, CSP `form-action 'none'`, Source Sans 3, hreflang IT/EN, OG.
 - Định dạng mạnh: đẹp, đọc tốt trên điện thoại, có link khách sạn. Ưu tiên dùng làm mẫu proposal chuẩn cho kênh B2B.
 
 ### vivivietnam: "Vietnam in treno", 14N13Đ, 8–21/11/2026
@@ -130,7 +130,7 @@ Trích dẫn giữ ngôn ngữ gốc. Câu chữ chuẩn (RAI, Travelife, năm t
 | Facebook | Page "Viet Cone Travel - Italiano \| Hanoi" và một page cũ: thương hiệu bị phân tán | https://www.facebook.com/VietConeTravel · https://www.facebook.com/Viet-Cone-Travel-112882640072400/ |
 | YouTube | Handle có đuôi số mặc định | https://www.youtube.com/@vietconetravel7356 |
 | LinkedIn | Hồ sơ cá nhân (/in/), chưa phải Company Page | https://vn.linkedin.com/in/viet-cone-travel-755b64378 |
-| Tripadvisor | Chặn 403 khi tra; khoảng 90 đánh giá, 5.0 (tra 11/2026, context mục 9) | https://www.tripadvisor.it/Attraction_Review-g293924-d20899025-Reviews-Viet_Cone_Travel-Hanoi.html |
+| Tripadvisor | Chặn 403 khi tra; số đánh giá: context mục 9 | https://www.tripadvisor.it/Attraction_Review-g293924-d20899025-Reviews-Viet_Cone_Travel-Hanoi.html |
 
 - Tìm kiếm "Viet Cone Travel" recensioni, tour operator, "Speciale Tg1 Vietnam dalle ferite alla luce": không có kết quả nào về Viet Cone.
 - Công cụ còn gợi ý nhầm sang "Conical Travel". Kết quả tiếng Ý là đối thủ: OVET, WeRoad, Threeland.
@@ -138,7 +138,6 @@ Trích dẫn giữ ngôn ngữ gốc. Câu chữ chuẩn (RAI, Travelife, năm t
 
 ## 6. Nhận xét chung
 
-- Hai hệ nhận diện: Wix (chữ hoa, template, nhiều lỗi) và subdomain (kem, xanh rêu, vàng đất, terracotta, Source Sans 3).
 - Tên viết lẫn lộn: "VIETCONE TRAVEL", "Viet Cone Travel", "VietCone", "Viet Cone". Ưu tiên "Viet Cone Travel".
 - Subdomain định vị rõ hơn ("per il mercato italiano"); site chính nhận phủ 4 nước, thông điệp loãng.
 - Partenze, Vespa tour, Viaggio di nozze, hai proposal dùng chung xương sống Hà Nội – Hạ Long – Huế – Hội An – Saigon – Bến Tre.
@@ -152,7 +151,7 @@ Site chính:
 1. Xóa hoặc ẩn `book-online` và các trang copy-of-*; sửa slug `richietsa`, email footer "infor@".
 2. Thailandia: ưu tiên đưa xuống vị trí phụ trong menu hoặc ghi "su richiesta"; câu giới thiệu trang chủ ưu tiên Vietnam, Laos, Cambogia.
 3. Sửa "20+ anni", "nasce nel 2010", "99% clienti soddisfatti": ghi "fondata nel 2019".
-4. Travelife: "Travelife Partner dal 06/2025"; nếu nêu số thì "uno dei 10 Travelife Partner in Vietnam (al 28/10/2026)".
+4. Travelife: theo câu chuẩn context mục 9.
 5. RAI: câu chuẩn + link RaiPlay; có thể dùng logo RAI và nhúng trích đoạn phóng sự. Ưu tiên một trang riêng cho RAI và Travelife.
 6. Sửa chính tả trên nút lặp (più, RESPONSABILI, I NOSTRI).
 7. Viết lại title, meta theo từ khóa tiếng Ý; mỗi trang một H1.
