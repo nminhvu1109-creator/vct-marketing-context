@@ -4,7 +4,7 @@ Mỗi kênh và mỗi thị trường có một thư mục riêng. Brand Strateg
 
 | Thư mục | Kênh | Thị trường | Giai đoạn |
 |---|---|---|---|
-| [facebook_it/](facebook_it/) | Facebook, Instagram | Ý | 1/12/2026–21/3/2027 |
+| [facebook_it/](facebook_it/) | Facebook, Instagram | Ý | Từ tháng 12/2026 đến tháng 3/2027 |
 
 ## Thứ tự ưu tiên
 
@@ -26,6 +26,6 @@ Khi các tài liệu khác nhau: `VCT_Marketing_Context.md` > Brand Strategy, Br
 Guideline Facebook tiếng Ý hiện chứa các phần không phụ thuộc kênh:
 - người đọc Ý: `facebook_it/01_Facebook_Guideline_IT.md` mục 2;
 - văn phong tiếng Ý: mục 11–13 của file đó, và Phần B của `facebook_it/02_AI_Style_Guide_IT.md`, trừ các quy tắc riêng của Facebook (độ dài, câu mở 90 ký tự, hashtag);
-- hình ảnh, đạo đức và pháp lý: mục 15–16.
+- hình ảnh, đạo đức và sự tôn trọng: mục 15–16.
 
 Guideline mới cho cùng thị trường dẫn chiếu các mục này thay vì chép lại. Khi có guideline tiếng Ý thứ hai, nhóm tách các phần trên thành thư mục `chung_it/` và để các guideline kênh cùng dẫn về đó.
