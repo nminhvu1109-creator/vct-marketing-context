@@ -271,27 +271,30 @@ Page của agency:
 - Bài cộng tác giữa hai Page hợp nhất khi agency chủ động muốn xuất hiện cùng Viet Cone; khi đó bài không cần gắn lời mời liên hệ của Viet Cone.
 
 Nhóm Facebook:
-- Điểm xuất phát là các nhóm và Page dưới đây; danh sách đầy đủ, số thành viên và link nằm ở `research/09_nhom_facebook_y.md`. Trước khi tham gia, người phụ trách mở nhóm bằng tài khoản cá nhân để xem nhóm còn hoạt động và luật nhóm có cho người làm nghề tham gia không.
+- Ba nhóm dưới đây có quy mô và nhịp bài được một nguồn độc lập ghi nhận (VeryContent, 11/2026) và có người đọc gần với mục tiêu. Chi tiết và các nhóm đã loại nằm ở `research/09_nhom_facebook_y.md`.
 
-| Nhóm, Page | Thành viên | Hợp với | Cách có mặt |
+| Nhóm | Quy mô, nhịp bài | Hợp với | Cách có mặt |
 |---|---|---|---|
-| Viaggiare Over 50: viaggi di gruppo organizzati e fai da te | Khoảng 113.000 | Paola | Trả lời câu hỏi về Việt Nam, nhịp đi, mùa đi |
-| Viaggiatori Intraprendenti (e non) | Khoảng 62.000 | Paola, Chiara | Chia sẻ kinh nghiệm về nơi ít người đến |
-| Viaggi Organizzati | Khoảng 120.000 | Paola | Theo dõi câu hỏi về tour châu Á; xem luật trước khi nhắc đến Viet Cone |
-| Vietnambridge (Bologna), Italia Vietnam – Comitato di Roma, Italia Vietnam – Polo di Torino | Page | Người Ý yêu văn hóa Việt | Theo dõi, bình luận, chia sẻ sự kiện vào Story |
-| ICHAM, Italian & Vietnamese Business Collaboration Platform | Page | Agency, đối tác | Theo dõi, bình luận khi có tin liên quan |
+| Viaggiare Over 50: viaggi di gruppo organizzati e fai da te | Khoảng 113.000 thành viên, hơn 30 bài mỗi ngày | Paola | Ưu tiên số 1. Trả lời câu hỏi về Việt Nam, nhịp đi, mùa đi, HDV tiếng Ý |
+| Viaggiatori Intraprendenti (e non) | Khoảng 62.000 thành viên, vài bài mỗi ngày | Paola, Chiara | Chia sẻ kinh nghiệm về nơi ít người đến, đi chậm |
+| Viaggi Organizzati | Khoảng 120.000 thành viên, hơn 10 bài mỗi ngày | Paola | Thành viên tìm tour nhóm; hợp cho bài Partenze nếu luật nhóm cho phép |
 
+- Trước khi tham gia, người phụ trách mở nhóm bằng tài khoản cá nhân và giữ nhóm khi đủ ba điều:
+  - đúng người đọc: thành viên chủ yếu là người Ý; tìm "Vietnam" trong ô tìm kiếm của nhóm thấy câu hỏi trong vài tháng gần đây;
+  - có hoạt động thật: bài mới mỗi ngày, câu hỏi có người trả lời;
+  - luật nhóm cho người làm nghề tham gia trả lời.
+- Sau khoảng một tháng, nhóm được coi là hiệu quả khi câu trả lời của Viet Cone nhận được phản hồi, và có người ghé Page hoặc nhắn tin từ nhóm. Nhóm không đạt thì rời đi.
 - Nên tránh nhóm do đối thủ lập cho khách của họ và nhóm khách của một đơn vị lữ hành Ý.
 - Tìm thêm nhóm bằng các từ khóa như "Vietnam viaggi", "viaggio in Vietnam", "Vietnam consigli", "Sud-est asiatico", "viaggiare over 50", "viaggi culturali", và ghi lại tên nhóm, số thành viên, mức hoạt động, luật nhóm.
 - Vài nhóm có hoạt động thật và cho phép người làm nghề tham gia là đủ; tham gia quá nhiều nhóm dễ bị coi là spam.
 - Người phụ trách nên là một người nói tiếng Ý tốt (người duyệt tiếng Ý hoặc một HDV), dùng hồ sơ cá nhân và nói rõ "lavoro per un DMC a Hanoi". Page chỉ tham gia khi quản trị nhóm cho phép.
 - Cách hiệu quả là trả lời những câu hỏi thật về thời tiết, visa, nhịp đi, HDV tiếng Ý bằng kinh nghiệm cụ thể. Phần lớn câu trả lời không cần nhắc đến Viet Cone. Quảng cáo, dán link hàng loạt hay tài khoản giả đều làm mất uy tín.
 - Thực tập sinh cộng đồng có thể tìm câu hỏi phù hợp và soạn nháp, người phụ trách sửa rồi đăng. Khi người phụ trách bận duyệt bài, việc trong nhóm có thể tạm dừng.
-- Nhóm nào sau khoảng một tháng không mang lại trao đổi thật thì rời đi và thử nhóm khác.
 
 Cộng đồng Ý–Việt:
 - Theo dõi các nhóm người Ý sống tại Việt Nam và các tổ chức văn hóa, doanh nghiệp Ý–Việt (từ khóa "italiani a Hanoi", "italiani in Vietnam"). Người Ý ở Việt Nam có gia đình, bạn bè ở Ý và thường được hỏi nên đi Việt Nam với ai.
 - Chia sẻ vào Story các sự kiện văn hóa Ý–Việt phù hợp với trụ cột 01.
+- Các Page hội hữu nghị Ý–Việt như Vietnambridge (Bologna) hay Italia Vietnam – Comitato di Roma có thể theo dõi sau khi kiểm tra Page còn đăng bài (`research/09_nhom_facebook_y.md`).
 
 ### Bước 3 · Đăng nội dung đáng xem, đáng lưu, đáng gửi
 

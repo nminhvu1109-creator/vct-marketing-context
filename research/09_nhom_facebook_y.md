@@ -5,18 +5,21 @@ Facebook yêu cầu đăng nhập, nên chưa mở trực tiếp được từng
 Trước khi tham gia, người phụ trách mở nhóm bằng tài khoản cá nhân để kiểm tra: còn hoạt động, luật nhóm, có cho người làm nghề tham gia không.
 Cách dùng: `guidelines/facebook_it/01_Facebook_Guideline_IT.md`, Bước 2.
 
-## 1. Nhóm du lịch tiếng Ý có người đọc mục tiêu
+## 1. Nhóm đưa vào kế hoạch
 
 | Nhóm | Loại | Thành viên | Hoạt động | Hợp với | Ghi chú | Link |
 |---|---|---|---|---|---|---|
 | Viaggiare Over 50: viaggi di gruppo organizzati e fai da te | Riêng tư | 113.026 | Hơn 30 bài/ngày | Paola | Người từ 50 tuổi tìm bạn đồng hành và chuyến đi nhóm; ưu tiên số 1 | https://www.facebook.com/groups/viaggidigruppoover50/ |
 | Viaggiatori Intraprendenti (e non) | Riêng tư | 62.483 | Khoảng 3 bài/ngày | Paola, Chiara | Điểm đến ngoài tuyến đại trà, lịch trình, câu chuyện | https://www.facebook.com/groups/640922569351586/ |
 | Viaggi Organizzati | Công khai | 119.642 | Hơn 10 bài/ngày | Paola | Tour nhóm trong và ngoài nước; cần xem luật về bài của đơn vị lữ hành | https://www.facebook.com/groups/viaggiorganizzatiesitur/ |
-| Spenderò tutti i miei soldi in viaggi | Công khai | 230.674 | Hơn 90 bài/ngày | Chiara | Giọng vui, thiên về giá rẻ; bài trôi rất nhanh; ưu tiên thấp | https://www.facebook.com/groups/517076125444942/ |
 
-Không hợp mục tiêu: Poracci in Viaggio, Viaggi Low Cost (săn giá rẻ); Viaggiare in Italia (du lịch trong nước); Andare in vacanza con Fido; Compagni di Viaggio Cercasi; Viaggiare in solitaria (người đi một mình).
+Tiêu chí giữ nhóm sau khi mở bằng tài khoản cá nhân: thành viên chủ yếu người Ý; có câu hỏi về Việt Nam trong vài tháng gần đây; bài mới mỗi ngày; luật nhóm cho người làm nghề trả lời. Sau khoảng một tháng, nhóm hiệu quả khi câu trả lời của Viet Cone có phản hồi và có người ghé Page hoặc nhắn tin.
 
-## 2. Cộng đồng Ý–Việt (Page)
+Đã loại vì không đúng người đọc hoặc khó hiệu quả: Spenderò tutti i miei soldi in viaggi (230.674 thành viên, giọng vui, thiên về giá rẻ, hơn 90 bài/ngày nên câu trả lời trôi nhanh); Poracci in Viaggio, Viaggi Low Cost (săn giá rẻ); Viaggiare in Italia (du lịch trong nước); Andare in vacanza con Fido; Compagni di Viaggio Cercasi; Viaggiare in solitaria (người đi một mình).
+
+## 2. Page cộng đồng Ý–Việt, cần kiểm tra trước khi theo dõi
+
+Chưa xác minh được nhịp đăng bài gần đây của các Page này.
 
 | Page | Nội dung | Hợp với | Link |
 |---|---|---|---|
@@ -24,8 +27,6 @@ Không hợp mục tiêu: Poracci in Viaggio, Viaggi Low Cost (săn giá rẻ); 
 | Italia Vietnam – Comitato di Roma | Điều phối mạng lưới các hội hữu nghị Ý–Việt | Trụ cột 01 | https://www.facebook.com/RomaItaliaVietnam/ |
 | Italia Vietnam – Il Polo di Torino | Gắn với lãnh sự Việt Nam tại Torino | Trụ cột 01 | https://www.facebook.com/vietnam.polotorino |
 | Associazione Italia Vietnam Giovani | Hội trẻ Ý–Việt; cần kiểm tra còn hoạt động | Chiara | https://www.facebook.com/italiavietnam.giovani/ |
-| ICHAM – Italian Chamber of Commerce in Vietnam | Phòng Thương mại Ý tại Việt Nam | Agency, đối tác | https://www.facebook.com/ichamvn/ |
-| Italian & Vietnamese Business Collaboration Platform | Kết nối doanh nghiệp Ý–Việt | Agency, đối tác | https://www.facebook.com/ItalianVietnameseB2B/ |
 
 ## 3. Page người làm nội dung
 
@@ -38,6 +39,7 @@ Không hợp mục tiêu: Poracci in Viaggio, Viaggi Low Cost (săn giá rẻ); 
 - Nhóm do đối thủ lập cho khách của họ: nhóm của Asia Viva Travel (gần 3.000 thành viên, số do đơn vị tự công bố), nhóm "viaggiindocina" của Vietnam Original Travel.
 - Nhóm khách đã đặt tour của một đơn vị lữ hành Ý: Huakai, Aretina Tours.
 - Nhóm tiếng Anh về Việt Nam, như "Vietnam Travel Tips and Planning": không phải người đọc Ý.
+- Page doanh nghiệp Ý–Việt (ICHAM, Italian & Vietnamese Business Collaboration Platform): người theo dõi chủ yếu là doanh nghiệp tại Việt Nam, không phải agency Ý.
 
 ## 5. Khoảng trống
 
