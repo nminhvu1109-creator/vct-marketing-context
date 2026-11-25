@@ -271,7 +271,18 @@ Page của agency:
 - Bài cộng tác giữa hai Page hợp nhất khi agency chủ động muốn xuất hiện cùng Viet Cone; khi đó bài không cần gắn lời mời liên hệ của Viet Cone.
 
 Nhóm Facebook:
-- Tìm nhóm bằng các từ khóa như "Vietnam viaggi", "viaggio in Vietnam", "Vietnam consigli", "Sud-est asiatico", "viaggiare over 50", "viaggi culturali", và ghi lại tên nhóm, số thành viên, mức hoạt động, luật nhóm.
+- Điểm xuất phát là các nhóm và Page dưới đây; danh sách đầy đủ, số thành viên và link nằm ở `research/09_nhom_facebook_y.md`. Trước khi tham gia, người phụ trách mở nhóm bằng tài khoản cá nhân để xem nhóm còn hoạt động và luật nhóm có cho người làm nghề tham gia không.
+
+| Nhóm, Page | Thành viên | Hợp với | Cách có mặt |
+|---|---|---|---|
+| Viaggiare Over 50: viaggi di gruppo organizzati e fai da te | Khoảng 113.000 | Paola | Trả lời câu hỏi về Việt Nam, nhịp đi, mùa đi |
+| Viaggiatori Intraprendenti (e non) | Khoảng 62.000 | Paola, Chiara | Chia sẻ kinh nghiệm về nơi ít người đến |
+| Viaggi Organizzati | Khoảng 120.000 | Paola | Theo dõi câu hỏi về tour châu Á; xem luật trước khi nhắc đến Viet Cone |
+| Vietnambridge (Bologna), Italia Vietnam – Comitato di Roma, Italia Vietnam – Polo di Torino | Page | Người Ý yêu văn hóa Việt | Theo dõi, bình luận, chia sẻ sự kiện vào Story |
+| ICHAM, Italian & Vietnamese Business Collaboration Platform | Page | Agency, đối tác | Theo dõi, bình luận khi có tin liên quan |
+
+- Nên tránh nhóm do đối thủ lập cho khách của họ và nhóm khách của một đơn vị lữ hành Ý.
+- Tìm thêm nhóm bằng các từ khóa như "Vietnam viaggi", "viaggio in Vietnam", "Vietnam consigli", "Sud-est asiatico", "viaggiare over 50", "viaggi culturali", và ghi lại tên nhóm, số thành viên, mức hoạt động, luật nhóm.
 - Vài nhóm có hoạt động thật và cho phép người làm nghề tham gia là đủ; tham gia quá nhiều nhóm dễ bị coi là spam.
 - Người phụ trách nên là một người nói tiếng Ý tốt (người duyệt tiếng Ý hoặc một HDV), dùng hồ sơ cá nhân và nói rõ "lavoro per un DMC a Hanoi". Page chỉ tham gia khi quản trị nhóm cho phép.
 - Cách hiệu quả là trả lời những câu hỏi thật về thời tiết, visa, nhịp đi, HDV tiếng Ý bằng kinh nghiệm cụ thể. Phần lớn câu trả lời không cần nhắc đến Viet Cone. Quảng cáo, dán link hàng loạt hay tài khoản giả đều làm mất uy tín.
