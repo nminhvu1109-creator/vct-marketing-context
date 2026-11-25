@@ -25,26 +25,21 @@ Per i post nuovi usa il formato della sezione B9. Per revisioni, traduzioni e ri
 
 Trên Claude, nhóm có thể tạo thêm một Style từ các bài mẫu để giữ giọng ổn định. Với gói Team hoặc Enterprise, Project được chia sẻ cho cả nhóm.
 Trên ChatGPT, phần chỉ dẫn của Project ghi đè chỉ dẫn chung của tài khoản. Custom GPT ngừng hoạt động từ 11/12/2026, vì vậy nhóm không xây quy trình trên GPT.
-Công cụ AI thay đổi nhanh. Trưởng nhóm kiểm tra lại các tính năng này ở mỗi mốc 4 tuần.
+Công cụ AI thay đổi nhanh, nên trưởng nhóm thỉnh thoảng kiểm tra lại các tính năng này.
 
-## A2. Dữ liệu và quyền riêng tư
-
-Ở mọi gói dịch vụ, nhóm không dán tên, email, số điện thoại, số hộ chiếu, ghi chú của khách hay thông tin liên hệ của đối tác vào công cụ AI. Khi cần, nhóm thay bằng mô tả chung, chẳng hạn "una coppia di Bologna sui sessant'anni".
-Với tài khoản cá nhân, nhóm tắt tùy chọn cho phép dùng hội thoại để huấn luyện model: trong cài đặt quyền riêng tư của Claude, và mục "Improve the model for everyone" trong Data controls của ChatGPT. Gói Team và Enterprise của Claude, gói Business và Enterprise của ChatGPT mặc định không dùng dữ liệu doanh nghiệp để huấn luyện.
-
-## A3. Dùng AI trong quy trình
+## A2. Dùng AI trong quy trình
 
 Với bài đăng, AI chỉ tham gia bước 2 của quy trình duyệt ở file 01, mục 19.1.
-1. Thực tập sinh nội dung dán phiếu bài và bảng dữ kiện (file 01, mục 17) vào Project theo mẫu câu lệnh ở mục A4. Trước khi dán, thay tên khách bằng [Nome] và xóa link bằng chứng đồng ý; tên thật được điền lại sau khi người duyệt tiếng Ý duyệt xong. Ô tagline ghi "Motto: sì" hoặc "Motto: no".
+1. Thực tập sinh nội dung dán phiếu bài và bảng dữ kiện (file 01, mục 17) vào Project theo mẫu câu lệnh ở mục A3. Ô tagline ghi "Motto: sì" hoặc "Motto: no".
 2. AI trả về các phương án, bảng tự soát và một bản sửa theo mục B9.
-3. Thực tập sinh bỏ các phương án không dùng, giữ bản sửa và danh sách [DA VERIFICARE], rồi chuyển cho người duyệt tiếng Ý. Câu lệnh đã dùng được dán vào phiếu bài.
+3. Thực tập sinh bỏ các phương án không dùng, giữ bản sửa và danh sách [DA VERIFICARE], rồi chuyển cho người duyệt tiếng Ý. Câu lệnh đã dùng có thể dán vào phiếu bài để lần sau dùng lại.
 
-Người duyệt tiếng Ý đọc to bản sửa, sửa giọng và kiểm từng dữ kiện. Đây là bước kiểm soát biên tập bắt buộc, và cũng là điều kiện để phần chữ do AI hỗ trợ không phải công bố theo Điều 50 Đạo luật AI của EU.
-Thực tập sinh cộng đồng dùng hai câu lệnh cuối ở mục A4 để soạn nháp câu trả lời bình luận và tin nhắn; câu trả lời được đăng theo file 01, mục 20.
-AI không được tạo ảnh hoặc video giống thật về nơi thật, người thật (file 01, mục 15 và 16).
+Người duyệt tiếng Ý đọc to bản sửa, sửa giọng và kiểm từng dữ kiện. Đây là bước quan trọng nhất để bài đọc tự nhiên và đúng.
+Thực tập sinh cộng đồng dùng hai câu lệnh cuối ở mục A3 để soạn nháp câu trả lời bình luận và tin nhắn; câu trả lời được đăng theo file 01, mục 20.
+Nhóm không dùng AI để tạo ảnh hoặc video giống thật về nơi thật, người thật (file 01, mục 15).
 Bài AI viết khô thường do bảng dữ kiện thiếu chi tiết. Khi đó, nhóm bổ sung chi tiết thật từ HDV hoặc host, thay vì yêu cầu AI viết "ấm hơn".
 
-## A4. Câu lệnh mẫu
+## A3. Câu lệnh mẫu
 
 Viết bài mới:
 
@@ -86,7 +81,7 @@ Soát một bản nháp đã có:
 Controlla la bozza con la tabella di controllo della sezione B9. Restituisci la tabella dei problemi e poi la versione corretta.
 ```
 
-Trả lời một bình luận (đã xóa tên người bình luận):
+Trả lời một bình luận:
 
 ```
 <commento>
@@ -96,7 +91,7 @@ Trả lời một bình luận (đã xóa tên người bình luận):
 Proponi due risposte brevi seguendo la sezione B7 della guida. Firma: "[tên người trả lời], Viet Cone Travel".
 ```
 
-Trả lời tin nhắn đầu tiên của khách (đã xóa tên, số điện thoại, email):
+Trả lời tin nhắn đầu tiên của khách:
 
 ```
 <messaggio>
@@ -170,8 +165,6 @@ La seconda riga è la versione breve della prima. Nel resto del post non ripeter
 Non scrivere mai "certificati Travelife" o "Travelife Certified".
 L'anno di fondazione è il 2019. Non scrivere "20 anni di esperienza" o formule simili.
 Sulla sostenibilità descrivi azioni concrete ("paghiamo direttamente la famiglia che vi ospita") e non usare parole come "eco", "green", "sostenibile" o "carbon neutral". Gli alberi piantati sono alberi piantati, non "compensazione".
-Non indicare prezzi di viaggi su misura. L'unico prezzo pubblico è quello delle Partenze, e lo inserisci solo se è nella scheda.
-Non nominare agenzie, viaggiatori o le persone che ospitano i viaggiatori se la scheda non dice che hanno dato il consenso. Nella scheda i nomi dei viaggiatori sono sostituiti da [Nome]: lasciali così.
 
 ## B4. Regole di scrittura
 
@@ -310,7 +303,6 @@ Usa il motto "Immerse. Not just observe." nell'ultima riga solo se la scheda ind
 
 Rispondi in italiano, chiama la persona per nome e, quando puoi, ricorda un dettaglio vero del suo viaggio. Ogni risposta è scritta per quella persona: niente risposte copiate.
 Segui il registro di chi scrive: se usa il "tu" rispondi con il "tu", se scrive in modo formale rispondi con il "Lei". In dubbio, usa il "Lei". Quando parli del viaggio di una coppia o di un gruppo puoi usare il "voi". Scrivi sempre con la maiuscola Lei, Le, La.
-Non scrivere prezzi in pubblico: invita a scrivere in privato o su WhatsApp. Non chiedere numeri di telefono o email nei commenti.
 Se la persona cita l'agenzia con cui ha viaggiato, ringrazia e saluta anche l'agenzia, senza invitare la persona a prenotare direttamente con noi.
 Davanti a una critica, ringrazia, riconosci il problema, di' che cosa farai e proponi di continuare in privato.
 Usa i punti esclamativi con parsimonia.
@@ -318,7 +310,7 @@ Firma sempre con il nome di chi risponde: "Ngọc, Viet Cone Travel".
 
 ### B7.2 Primo messaggio privato
 
-Usa il "Lei" finché la persona non cambia registro. Ringrazia per il messaggio e chiedi tre informazioni: quante persone saranno in viaggio, in che periodo pensa di partire, che cosa Le sta più a cuore. Non indicare prezzi nel primo messaggio. Firma con il nome di chi risponde.
+Usa il "Lei" finché la persona non cambia registro. Ringrazia per il messaggio e chiedi tre informazioni: quante persone saranno in viaggio, in che periodo pensa di partire, che cosa Le sta più a cuore. Firma con il nome di chi risponde.
 
 ## B8. Ortografia e convenzioni
 

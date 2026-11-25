@@ -4,8 +4,9 @@ Viet Cone Travel · Bản 2.0 · 25/11/2026 · Tài liệu nội bộ
 
 Tài liệu này thay thế hoàn toàn "VCT Content Guideline (FB, IG)" tháng 04/2026.
 Phạm vi gồm Page Facebook tiếng Ý và tài khoản Instagram, trong đó Instagram dùng lại nội dung của Facebook.
-Giai đoạn áp dụng đầu tiên kéo dài từ 1/12/2026 đến 21/3/2027 và không dùng ngân sách quảng cáo.
+Giai đoạn đầu, từ tháng 12/2026 đến tháng 3/2027, không dùng ngân sách quảng cáo.
 Tài liệu đi kèm: `02_AI_Style_Guide_IT.md`, hướng dẫn cho công cụ AI.
+Đây là tài liệu hướng dẫn cách làm. Người viết dùng nó như một điểm tựa và điều chỉnh theo chất liệu, nguồn lực và kết quả thực tế.
 
 ---
 
@@ -15,11 +16,11 @@ Page tiếng Ý hiện có khán giả chủ yếu là người Việt (54–90%
 
 Nguyên nhân nằm ở hai chỗ. Facebook đề xuất bài dựa trên hành vi của những người có sở thích giống người đã tương tác, mà người tương tác hiện nay phần lớn là người Việt. Đồng thời, bài đăng chưa đủ giá trị để người Ý muốn lưu lại hoặc gửi cho người đi cùng.
 
-Phần 2 trình bày cách đưa Page đến người Ý. Sau bước chuẩn bị (dọn lại Page), nhóm đi qua năm bước: mời những người Ý đã biết Viet Cone, có mặt ở những nơi người Ý đang trao đổi về du lịch, đăng nội dung đáng lưu và đáng gửi, chuyển người xem thành cuộc trò chuyện trên WhatsApp, rồi theo dõi và điều chỉnh sau mỗi bốn tuần.
+Phần 2 trình bày cách đưa Page đến người Ý. Sau bước chuẩn bị (dọn lại Page), nhóm đi qua năm bước: mời những người Ý đã biết Viet Cone, có mặt ở những nơi người Ý đang trao đổi về du lịch, đăng nội dung đáng lưu và đáng gửi, chuyển người xem thành cuộc trò chuyện trên WhatsApp, rồi theo dõi và điều chỉnh định kỳ.
 
 Phần 3 trình bày nên nói gì, Phần 4 trình bày cách viết. Mỗi bài trả lời một nỗi lo hoặc một mong muốn có thật của khách Ý, kể qua người thật, nơi cụ thể và việc cụ thể. Bài viết bằng tiếng Ý tự nhiên như của người bản địa, hấp dẫn nhưng giữ sự chuyên nghiệp, và tránh lối văn quảng cáo chung chung mà khách Ý đã quá quen.
 
-Trước khi đăng, mỗi bài đi qua bảng kiểm 10 câu ở mục 19.2.
+Bảng kiểm 10 câu ở mục 19.2 giúp soát bài trước khi đăng.
 
 ---
 
@@ -29,7 +30,7 @@ Trước khi đăng, mỗi bài đi qua bảng kiểm 10 câu ở mục 19.2.
 
 Khi các tài liệu nói khác nhau, thứ tự ưu tiên là `VCT_Marketing_Context.md`, sau đó đến Brand Strategy và Brand Guideline trong thư mục `foundation/`, cuối cùng là tài liệu này.
 Câu chuẩn về RAI, Travelife và năm thành lập luôn lấy nguyên văn từ mục 9 của `VCT_Marketing_Context.md` (sau đây gọi là "bối cảnh"). Đoạn giới thiệu công ty cũng lấy từ mục này; riêng phần giới thiệu ngắn của Page theo mục 4.
-Các quy tắc được viết theo dạng "ưu tiên A hơn B". Người viết có thể chọn cách khác khi có lý do rõ ràng, và ghi lại kết quả để nhóm học hỏi. Các con số về độ dài, giờ đăng, tỷ trọng và tần suất là mốc tham khảo để bắt đầu, không phải giới hạn. Chỉ một số điểm là bắt buộc: quyền riêng tư, câu chuẩn, kiểu mời tương tác bị Facebook hạ thấp, ảnh AI giống thật và gạch dài trong bài tiếng Ý.
+Các quy tắc được viết theo dạng "ưu tiên A hơn B". Người viết có thể chọn cách khác khi có lý do rõ ràng, và ghi lại kết quả để nhóm học hỏi. Các con số về độ dài, giờ đăng, tỷ trọng và tần suất là mốc tham khảo để bắt đầu, không phải giới hạn. Chỉ vài điểm cần giữ đúng: câu chuẩn, tránh kiểu mời tương tác bị Facebook hạ thấp, không dùng ảnh AI giống thật và không dùng gạch dài trong bài tiếng Ý.
 Nguồn dữ liệu nằm ở Phụ lục. Tư liệu nghiên cứu chi tiết nằm ở `research/08_tieng_noi_khach_hang.md` và `reports/Mạng xã hội, người đọc Ý và AI 2026.md`.
 
 ### 0.2 Thuật ngữ
@@ -45,7 +46,7 @@ Nguồn dữ liệu nằm ở Phụ lục. Tư liệu nghiên cứu chi tiết n
 | Bài trích dẫn | Bài ảnh có lời thật của khách đặt trên khung thiết kế (Brand Guideline 8.6) |
 | Phần chữ | Chữ đi kèm bài đăng (caption) |
 | Reels | Video dọc; trên Facebook, mọi video đăng lên đều là Reels |
-| Video thương hiệu | Video giới thiệu công ty hoặc sản phẩm được dựng hoàn chỉnh, như video ghim trên Page; khác với Reels quay tại chỗ hằng tuần |
+| Video thương hiệu | Video giới thiệu công ty hoặc sản phẩm được dựng hoàn chỉnh, như video giới thiệu đội ngũ; khác với Reels quay tại chỗ |
 | Bài bảo chứng | Bài về bằng chứng bên ngoài: Speciale TG1, Travelife Partner, Travelers' Choice |
 | Trụ cột nội dung | Bốn nhóm nội dung của Brand Strategy 4.8: Giải thích, Tạo mong muốn, Tạo niềm tin, Xác nhận |
 | Chuỗi bài | Các bài cùng một tên, lặp lại theo nhịp để người đọc nhận ra |
@@ -68,7 +69,7 @@ Nguồn dữ liệu nằm ở Phụ lục. Tư liệu nghiên cứu chi tiết n
 
 ## 1. Mục tiêu và vai trò của Page
 
-### 1.1 Mục tiêu giai đoạn 1/12/2026–21/3/2027
+### 1.1 Mục tiêu giai đoạn đầu
 
 1. Người Ý trở thành phần lớn người theo dõi mới và người tương tác với Page.
 2. Page trở thành nơi khách du lịch và agency Ý kiểm chứng Viet Cone: thấy một đội ngũ có thật, nói tiếng Ý, làm việc tận nơi và có bằng chứng bên ngoài.
@@ -84,13 +85,8 @@ Cuộc trao đổi để đi đến quyết định thường diễn ra trên Wh
 
 ### 1.3 Giữ uy tín với agency
 
-Page phục vụ cùng lúc khách du lịch và agency. Ba ưu tiên sau đủ để hai nhóm không đi ngược nhau:
-1. Chỉ đăng giá của Partenze, và giá đó giống nhau ở mọi kênh. Giá tour riêng chỉ trao đổi trong tin nhắn.
-2. Chỉ nêu tên agency hoặc tên khách khi họ đã đồng ý.
-3. Khi phù hợp, lời mời liên hệ mở cả hai lối: "Scriveteci su WhatsApp, oppure chiedete alla vostra agenzia di fiducia".
-
-Mỗi quý, nhóm gửi agency một bộ ảnh, Reels và phần chữ tiếng Ý không gắn logo (kit di contenuti) để họ dùng cho khách của họ.
-Bán gói du lịch trực tiếp cho khách Ý có thể phải có bảo đảm theo điều 47 Codice del Turismo (bối cảnh mục 10). Advisor hỏi ý kiến luật sư Ý trước 20/12/2026. Trước khi có ý kiến này, Page giới thiệu Partenze chủ yếu qua bài dành cho agency; đoàn tháng 3/2027 (hạn đăng ký 6/1/2027) chỉ bán qua agency.
+Page phục vụ cùng lúc khách du lịch và agency. Để hai nhóm không đi ngược nhau, lời mời liên hệ khi phù hợp mở cả hai lối: "Scriveteci su WhatsApp, oppure chiedete alla vostra agenzia di fiducia".
+Mỗi quý, nhóm có thể gửi agency một bộ ảnh, video và phần chữ tiếng Ý không gắn logo (kit di contenuti) để họ dùng cho khách của họ.
 
 ---
 
@@ -223,199 +219,145 @@ Với một Page nhỏ, việc thiếu người theo dõi người Ý và thiế
 
 ## 4. Chuẩn bị và năm bước
 
-Bước chuẩn bị dọn nền cho tất cả. Bước 1 và bước 2 tạo những tín hiệu đầu tiên từ người Ý. Bước 3 biến các tín hiệu đó thành lượt đề xuất đến người Ý chưa biết Viet Cone. Bước 4 đưa người xem đến cuộc trò chuyện. Bước 5 giúp nhóm quyết định giữ, sửa hay bỏ từng chiến thuật.
+Phần này gợi ý một trình tự để đưa Page đến người Ý. Bước chuẩn bị dọn nền. Bước 1 và bước 2 tạo những tín hiệu đầu tiên từ người Ý. Bước 3 biến các tín hiệu đó thành lượt đề xuất đến người Ý chưa biết Viet Cone. Bước 4 đưa người xem đến cuộc trò chuyện. Bước 5 giúp nhóm quyết định giữ, sửa hay bỏ từng cách làm. Nhóm chọn mức độ cho từng bước theo nguồn lực thực tế.
 
-### Chuẩn bị · Dọn lại Page (tuần 1–2)
+### Chuẩn bị · Dọn lại Page
 
 Về Page:
-- Gộp hai Page Facebook cũ về Page tiếng Ý. Nếu Meta không cho gộp, Page cũ ghim một bài dẫn về Page chính và ngừng đăng.
-- Đặt tên hiển thị "Viet Cone Travel · Italiano", vì công ty còn một Page tiếng Anh (Brand Guideline 8.4).
-- Viết phần giới thiệu ngắn dưới 101 ký tự: "DMC di Hanoi: viaggi su misura in Vietnam, Laos e Cambogia per viaggiatori italiani." Phần giới thiệu chi tiết dùng bản ngắn ở bối cảnh mục 9.
-- Dùng ảnh đại diện là biểu tượng rút gọn trên nền xanh rêu và ảnh bìa là một ảnh phóng sự có người (Brand Guideline 8.4).
-- Đặt nút hành động "Invia messaggio WhatsApp" tới số chung +84 988 550 733, sau khi kiểm tra số này đã dùng WhatsApp. Số dành cho agency +84 37 358 2398 chỉ xuất hiện trong bài dành cho agency.
-- Ghim một video thương hiệu, trong đó một người trong đội nói tiếng Ý khoảng 60 giây, kèm dòng bảo chứng bằng chữ: câu chuẩn RAI, "Travelife Partner dal 06/2025" và "Tripadvisor Travelers' Choice 2025 e 2026". Trên Page, dòng chữ Travelife được ưu tiên hơn huy hiệu (bối cảnh mục 9).
-- Cài trả lời tự động bằng tiếng Ý cho Messenger, nói rõ giờ trả lời theo giờ Ý.
+- Nếu còn hai Page Facebook cũ, nên gộp về Page tiếng Ý. Khi Meta không cho gộp, Page cũ có thể ghim một bài dẫn về Page chính rồi ngừng đăng.
+- Tên hiển thị "Viet Cone Travel · Italiano" giúp phân biệt với Page tiếng Anh (Brand Guideline 8.4).
+- Phần giới thiệu ngắn dưới 101 ký tự, chẳng hạn: "DMC di Hanoi: viaggi su misura in Vietnam, Laos e Cambogia per viaggiatori italiani." Phần giới thiệu chi tiết dùng bản ngắn ở bối cảnh mục 9.
+- Ảnh đại diện là biểu tượng rút gọn trên nền xanh rêu, ảnh bìa là một ảnh phóng sự có người (Brand Guideline 8.4).
+- Nút hành động "Invia messaggio WhatsApp" dẫn tới số chung +84 988 550 733, sau khi kiểm tra số này đã dùng WhatsApp. Số dành cho agency +84 37 358 2398 dùng trong bài dành cho agency.
+- Một bài ghim giới thiệu đội ngũ, kèm dòng bảo chứng bằng chữ: câu chuẩn RAI, "Travelife Partner dal 06/2025" và "Tripadvisor Travelers' Choice 2025 e 2026". Một video ngắn có người trong đội nói tiếng Ý là lựa chọn tốt nhất; khi chưa làm được video, một bài nhiều ảnh về đội ngũ cũng đủ. Trên Page, dòng chữ Travelife hợp hơn huy hiệu (bối cảnh mục 9).
+- Trả lời tự động bằng tiếng Ý cho Messenger, nói rõ giờ trả lời theo giờ Ý.
 
 Về Instagram:
-- Viết phần giới thiệu bằng tiếng Ý, dùng cùng ảnh đại diện với Page, và thay số điện thoại cũ +84 24 3204 5077 bằng số đang dùng.
-- Phần giới thiệu có hai link: trang chủ (Brand Guideline 8.6) và link wa.me có sẵn câu "Buongiorno, vi scrivo da Instagram".
+- Phần giới thiệu bằng tiếng Ý, cùng ảnh đại diện với Page, thay số điện thoại cũ +84 24 3204 5077 bằng số đang dùng.
+- Phần giới thiệu có link trang chủ (Brand Guideline 8.6) và link wa.me có sẵn câu "Buongiorno, vi scrivo da Instagram".
 
 Về tín hiệu:
-- Thống nhất với đội ngũ và bạn bè người Việt một quy ước nhẹ nhàng: thay vì bấm like theo phản xạ, hãy gửi bài cho người quen người Ý qua tin nhắn.
-- Với bài dành cho khách du lịch thuộc trụ cột 01 và 02, giới hạn đối tượng theo vị trí "Italia" ngay từ tuần 2, nếu trình soạn bài cho phép.
-- Để mở bài thuộc trụ cột 03, 04 và bài dành cho agency, vì khách cũ và đối tác ở nhiều nơi.
-- Không giới hạn quốc gia cho cả Page. Cách đó ẩn Page với đối tác Việt Nam và không tự đưa bài đến người Ý.
+- Một quy ước nhẹ nhàng với đội ngũ và bạn bè người Việt: thay vì bấm like theo phản xạ, gửi bài cho người quen người Ý qua tin nhắn.
+- Với bài dành cho khách du lịch thuộc trụ cột 01 và 02, có thể giới hạn đối tượng theo vị trí "Italia" nếu trình soạn bài cho phép.
+- Bài thuộc trụ cột 03, 04 và bài dành cho agency nên để mở, vì khách cũ và đối tác ở nhiều nơi.
+- Không nên giới hạn quốc gia cho cả Page: cách đó ẩn Page với đối tác Việt Nam và không tự đưa bài đến người Ý.
 
 Về số liệu:
-- Trong tuần 1, kiểm tra Meta Business Suite xem còn những phân tách nào theo quốc gia và độ tuổi.
-- Ghi số hiện trạng vào trang "Số" của bảng quản lý nội dung (mục 17.3): số người theo dõi theo quốc gia, cùng lượt xem, lượt lưu, lượt chia sẻ của 10 bài gần nhất.
-- Gắn mã UTM cho mọi link từ Facebook và Instagram, và ghi nguồn "Social Media" cho lead trong CRM.
+- Xem Meta Business Suite còn những phân tách nào theo quốc gia và độ tuổi.
+- Ghi số hiện trạng vào trang "Số" của bảng quản lý nội dung (mục 17.3): số người theo dõi theo quốc gia, cùng lượt xem, lượt lưu, lượt chia sẻ của khoảng 10 bài gần nhất.
+- Gắn mã UTM cho link từ Facebook và Instagram, và ghi nguồn "Social Media" cho lead trong CRM.
 
-### Bước 1 · Mời những người Ý đã biết Viet Cone (từ tuần 2)
+### Bước 1 · Mời những người Ý đã biết Viet Cone
 
 Người Ý đã biết Viet Cone là nguồn tín hiệu mạnh và tốn ít công nhất. Mỗi người theo dõi thật, tương tác thật giúp Facebook nhận ra Page này dành cho người Ý.
 
-| Nhóm | Cách mời | Lưu ý |
-|---|---|---|
-| Khách đang đi tour | HDV mời theo dõi Page trong bữa tối chia tay, đưa thẻ QR; nhóm WhatsApp của chuyến gửi link Page vào ngày cuối | Với đoàn của agency, hỏi agency trước |
-| Khách đã đi | Người từng phụ trách chuyến đi gửi tin nhắn riêng, kèm lời chúc Natale và link Page | Chỉ gửi cho khách đã đồng ý nhận tin; mỗi tin viết riêng cho từng người |
-| Khách qua Evaneos | HDV mời theo dõi trong chuyến đi | Kiểm tra điều khoản của Evaneos trước khi liên hệ ngoài nền tảng |
-| Người đã thả cảm xúc trên bài | Dùng tính năng mời theo dõi Page | Chỉ mời người có hồ sơ ở Ý |
-| Agency | Gửi link bài liên quan khi trao đổi công việc, chẳng hạn bài sopralluogo hoặc trải nghiệm mới | Với lead TTG đăng ký qua ô tick sẵn, chỉ gửi link sau khi đã xin lại sự đồng ý |
+| Nhóm | Cách mời gợi ý |
+|---|---|
+| Khách đang đi tour | HDV mời theo dõi Page trong bữa tối chia tay, đưa thẻ QR; nhóm WhatsApp của chuyến gửi link Page vào ngày cuối. Với đoàn của agency, nên hỏi agency trước |
+| Khách đã đi | Người từng phụ trách chuyến đi gửi tin nhắn riêng, chẳng hạn kèm lời chúc Natale và link Page; mỗi tin viết riêng cho từng người |
+| Khách qua Evaneos | HDV mời theo dõi trong chuyến đi |
+| Người đã thả cảm xúc trên bài | Dùng tính năng mời theo dõi Page, ưu tiên người có hồ sơ ở Ý |
+| Agency | Gửi link bài liên quan khi trao đổi công việc, chẳng hạn bài sopralluogo hoặc trải nghiệm mới |
 
-Khi đăng bài "Le nostre guide" hoặc "Dicono di noi", nhóm gửi riêng cho những khách cũ có liên quan. Bình luận thật của khách cũ là lời xác nhận mà Page không tự viết được.
-Trưởng nhóm lập danh sách HDV đồng ý tham gia (mục 6.1). Việc của HDV gồm mời khách, gửi ảnh hoặc kể một câu chuyện.
+Khi đăng bài "Le nostre guide" hoặc "Dicono di noi", nhóm có thể gửi riêng cho những khách cũ có liên quan. Bình luận thật của khách cũ là lời xác nhận mà Page không tự viết được.
+HDV tham gia theo danh sách tự nguyện (mục 6), với những việc nhỏ như mời khách, gửi ảnh hoặc kể một câu chuyện.
 
-### Bước 2 · Có mặt ở nơi người Ý đang trao đổi về du lịch (tuần 2–16)
+### Bước 2 · Có mặt ở nơi người Ý đang trao đổi về du lịch
 
 Page của agency:
 - Page Viet Cone theo dõi Page của các agency đối tác và các lead TTG hạng A, B.
-- Mỗi tuần, Page để lại bình luận có nội dung trên 2–3 bài của họ, chẳng hạn bổ sung một chi tiết về điểm đến hoặc cảm ơn khi họ đăng về Việt Nam. Bình luận không quảng cáo.
-- Khi agency muốn, Page chia sẻ bài chương trình Việt Nam của họ vào Story hoặc bình luận dưới bài, không đăng lại lên Feed (mục 3.1).
-- Bài cộng tác giữa hai Page (collab Reels) chỉ làm khi agency chủ động muốn xuất hiện cùng Viet Cone, không gắn lời mời liên hệ của Viet Cone, và để sang quý 2/2027.
+- Đều đặn để lại bình luận có nội dung trên bài của họ, chẳng hạn bổ sung một chi tiết về điểm đến hoặc cảm ơn khi họ đăng về Việt Nam. Bình luận không mang tính quảng cáo.
+- Khi agency muốn, Page chia sẻ bài chương trình Việt Nam của họ vào Story hoặc bình luận dưới bài, thay vì đăng lại lên Feed (mục 3.1).
+- Bài cộng tác giữa hai Page hợp nhất khi agency chủ động muốn xuất hiện cùng Viet Cone; khi đó bài không cần gắn lời mời liên hệ của Viet Cone.
 
 Nhóm Facebook:
-- Tìm nhóm bằng các từ khóa "Vietnam viaggi", "viaggio in Vietnam", "Vietnam consigli", "Sud-est asiatico", "viaggiare over 50", "viaggi culturali". Ghi vào bảng: tên nhóm, số thành viên, mức hoạt động, luật nhóm.
-- Chọn 2–3 nhóm có hoạt động thật và cho phép người làm nghề tham gia.
-- Một người cố định nói tiếng Ý tốt (người duyệt tiếng Ý hoặc một HDV) phụ trách, dùng hồ sơ cá nhân và ghi rõ "lavoro per un DMC a Hanoi". Page chỉ tham gia khi quản trị nhóm cho phép.
-- Người phụ trách trả lời những câu hỏi thật về thời tiết, visa, nhịp đi, HDV tiếng Ý bằng kinh nghiệm cụ thể. Phần lớn câu trả lời không cần nhắc đến Viet Cone. Không đăng quảng cáo, không dán link hàng loạt và không dùng tài khoản giả.
-- Nhịp tham gia là 2–3 lần mỗi tuần, mỗi lần 15–20 phút. Thực tập sinh cộng đồng tìm câu hỏi phù hợp và soạn nháp, người phụ trách sửa rồi đăng. Khi kho bài còn dưới 3 tuần, người phụ trách tạm dừng nhóm để duyệt bài.
-- Sau 4 tuần tham gia, nhóm nào không mang lại trao đổi thật thì rời đi và thay bằng nhóm khác.
+- Tìm nhóm bằng các từ khóa như "Vietnam viaggi", "viaggio in Vietnam", "Vietnam consigli", "Sud-est asiatico", "viaggiare over 50", "viaggi culturali", và ghi lại tên nhóm, số thành viên, mức hoạt động, luật nhóm.
+- Vài nhóm có hoạt động thật và cho phép người làm nghề tham gia là đủ; tham gia quá nhiều nhóm dễ bị coi là spam.
+- Người phụ trách nên là một người nói tiếng Ý tốt (người duyệt tiếng Ý hoặc một HDV), dùng hồ sơ cá nhân và nói rõ "lavoro per un DMC a Hanoi". Page chỉ tham gia khi quản trị nhóm cho phép.
+- Cách hiệu quả là trả lời những câu hỏi thật về thời tiết, visa, nhịp đi, HDV tiếng Ý bằng kinh nghiệm cụ thể. Phần lớn câu trả lời không cần nhắc đến Viet Cone. Quảng cáo, dán link hàng loạt hay tài khoản giả đều làm mất uy tín.
+- Thực tập sinh cộng đồng có thể tìm câu hỏi phù hợp và soạn nháp, người phụ trách sửa rồi đăng. Khi người phụ trách bận duyệt bài, việc trong nhóm có thể tạm dừng.
+- Nhóm nào sau khoảng một tháng không mang lại trao đổi thật thì rời đi và thử nhóm khác.
 
 Cộng đồng Ý–Việt:
 - Theo dõi các nhóm người Ý sống tại Việt Nam và các tổ chức văn hóa, doanh nghiệp Ý–Việt (từ khóa "italiani a Hanoi", "italiani in Vietnam"). Người Ý ở Việt Nam có gia đình, bạn bè ở Ý và thường được hỏi nên đi Việt Nam với ai.
 - Chia sẻ vào Story các sự kiện văn hóa Ý–Việt phù hợp với trụ cột 01.
 
-### Bước 3 · Đăng nội dung đáng xem, đáng lưu, đáng gửi (tuần 2–16)
+### Bước 3 · Đăng nội dung đáng xem, đáng lưu, đáng gửi
 
-Nội dung và cách viết nằm ở Phần 3 và Phần 4. Bước này quy định nhịp và cách khớp nội dung với tín hiệu.
+Nội dung và cách viết nằm ở Phần 3 và Phần 4. Bước này gợi ý nhịp đăng và cách khớp nội dung với tín hiệu.
 
 | Tín hiệu | Cách làm |
 |---|---|
-| Xem lâu, xem hết | Reels tự quay, có người nói tiếng Ý và phụ đề tiếng Ý (mục 14.5) |
+| Xem lâu, xem hết | Bài nhiều ảnh, carousel kể một câu chuyện liền mạch; khi có nguồn lực, Reels tự quay có người nói tiếng Ý và phụ đề (mục 14.5) |
 | Lưu bài | Bài thực dụng: tháng nào đi đâu, chuẩn bị gì, câu hỏi thật của khách |
 | Chia sẻ, gửi riêng | Bài mà hai người cùng quyết định có thể bàn với nhau: gợi ý cho cặp đôi, nhóm bạn |
-| Nội dung gốc | Ảnh và video do đội ngũ tự làm; trích đoạn RAI luôn đi kèm cảnh hậu trường và lời kể của Viet Cone; không đăng lại bài của trang khác lên Feed |
-| Chủ đề rõ | Mọi bài xoay quanh Việt Nam, văn hóa, con người và cách đi; tên chuỗi bài bằng tiếng Ý |
-| Ít link | Khoảng 2 bài có link mỗi tháng, kể cả link đặt ở bình luận đầu; link landing và RaiPlay đặt ở bình luận đầu của Page; bài vẫn đủ nghĩa khi người đọc không bấm link; lời mời liên hệ chính là nút WhatsApp |
+| Nội dung gốc | Ảnh và video do đội ngũ tự làm; trích đoạn RAI đi kèm cảnh hậu trường và lời kể của Viet Cone; hạn chế đăng lại bài của trang khác lên Feed |
+| Chủ đề rõ | Bài xoay quanh Việt Nam, văn hóa, con người và cách đi; tên chuỗi bài bằng tiếng Ý |
+| Ít link | Chỉ một vài bài có link mỗi tháng, kể cả link ở bình luận đầu; link landing và RaiPlay hợp đặt ở bình luận đầu; bài vẫn đủ nghĩa khi người đọc không bấm link |
 
-Từ tuần 2, nhịp đăng tối thiểu là 2 bài mỗi tuần, gồm một Reels và một bài khác (bài ảnh, nhiều ảnh, carousel, bài trích dẫn hoặc bài chữ). Bài thứ ba chỉ làm khi có chất liệu thật. Story dùng cho hậu trường.
-Kho bài cần đủ 4 tuần (4 Reels và 4 bài khác) trước 15/12/2026, và thêm 4 tuần nữa trước 30/1/2027 để đi qua dịp Tết. Tuần Tết và tuần ITB chỉ đăng 1–2 bài đã hẹn giờ.
-Giờ đăng được chọn theo hai điều kiện: người Ý đang dùng điện thoại, và nhóm trả lời được bình luận trong giờ đầu. Năm 2026, Feed và đề xuất không còn xếp theo thời gian, nên giờ đăng chủ yếu ảnh hưởng đến giờ đầu sau khi đăng.
+Nhịp đăng: khoảng 2 bài mỗi tuần, đều đặn, có lợi hơn đăng dồn rồi im lặng. Bài thứ ba chỉ cần khi có chất liệu thật. Story hợp cho hậu trường.
+Kho bài: giữ sẵn vài tuần bài đã viết, duyệt và hẹn giờ, nhất là trước những dịp nhóm bận như Natale, Tết hay hội chợ, để nhịp đăng không bị gãy.
+Định dạng: bài ảnh, nhiều ảnh và carousel đủ để giữ nhịp. Reels là định dạng Facebook đẩy mạnh nhất tới người chưa theo dõi, nên đáng làm khi có người và thời gian; khi nguồn lực có hạn, một Reels đơn giản quay bằng điện thoại vẫn tốt hơn không có.
+Giờ đăng: giờ đăng chủ yếu ảnh hưởng đến giờ đầu sau khi đăng, vì Feed và đề xuất không còn xếp theo thời gian. Khung gợi ý là buổi sáng giữa tuần theo giờ Ý (khoảng 15:30–17:00 giờ Việt Nam vào mùa đông). Khung này trùng khung sáng giữa tuần mà Buffer ghi nhận tương tác cao nhất năm 2026, và là giờ làm việc ở Việt Nam, nên nhóm trả lời được bình luận ngay. Khung trưa giờ Ý (tối giờ Việt Nam) đáng thử khi có người trực bình luận. Buổi tối giờ Ý và cuối tuần nên hạn chế, vì khó trả lời trong giờ đầu và các nghiên cứu đều ghi nhận cuối tuần yếu hơn. Khi Ý chuyển sang giờ mùa hè, giờ Việt Nam tương ứng sớm hơn một tiếng.
+Biểu đồ "người theo dõi online" trong Meta Business Suite, nếu còn, chỉ có ích khi người Ý đã chiếm phần lớn người theo dõi; hiện nay biểu đồ này phản ánh người theo dõi người Việt.
+Instagram đăng lại bài nhiều ảnh và Reels của Facebook cùng giờ, với phần chữ ngắn hơn (mục 14.5). Giai đoạn đầu chưa cần nội dung riêng cho Instagram.
 
-Lịch gợi ý ban đầu:
+### Bước 4 · Chuyển người xem thành cuộc trò chuyện
 
-| Bài | Ngày và giờ Ý | Giờ Việt Nam đến 27/3/2027 |
-|---|---|---|
-| Reels | Thứ Tư, 10:00 | 16:00 |
-| Bài thứ hai | Thứ Năm, 9:30 | 15:30 |
-| Bài thứ ba, khi có | Thứ Ba, 10:00 | 16:00 |
-| Story | Ngày làm việc, bất kỳ giờ nào | |
-
-Khung 9:30–11:00 giờ Ý trùng khung sáng giữa tuần mà Buffer ghi nhận tương tác cao nhất năm 2026, và là giờ làm việc ở Việt Nam. Instagram đăng cùng giờ với Facebook.
-Từ tuần 5 đến tuần 12, nhóm thử khung 12:30 giờ Ý (18:30 giờ Việt Nam) với một bài mỗi tuần, xen kẽ với khung chính cho cùng loại bài. Hôm thử, một người trực bình luận đến 19:30 giờ Việt Nam.
-Bài gắn với một ngày cụ thể, như 28/12 hay 8/3, thường đăng đúng ngày đó vào buổi sáng giờ Ý.
-Nhóm hạn chế đăng vào buổi tối giờ Ý (khoảng 2:00–4:00 sáng giờ Việt Nam) và cuối tuần, vì khó trả lời trong giờ đầu và các nghiên cứu đều ghi nhận cuối tuần yếu hơn. Trong kỳ nghỉ Tết, bài đã hẹn giờ vẫn đăng theo lịch và một người trực trả lời bình luận trong ngày.
-Khi nước Ý chuyển sang giờ mùa hè (28/3/2027), giờ Ý giữ nguyên và giờ Việt Nam sớm hơn một tiếng: 9:30 giờ Ý là 14:30 giờ Việt Nam.
-Biểu đồ "người theo dõi online" trong Meta Business Suite, nếu còn, chỉ dùng khi người Ý đã chiếm phần lớn người theo dõi, vì hiện nay biểu đồ này phản ánh người theo dõi người Việt.
-Instagram đăng lại Reels và bài nhiều ảnh của Facebook, với phần chữ ngắn hơn (mục 14.5). Giai đoạn này không làm nội dung riêng cho Instagram.
-
-### Bước 4 · Chuyển người xem thành cuộc trò chuyện (tuần 2–16)
-
-- Lời mời liên hệ theo mục 1.3. Link WhatsApp dạng wa.me có sẵn câu "Buongiorno, vi scrivo dalla pagina Facebook di Viet Cone" để nhóm biết nguồn.
-- Tin nhắn được trả lời bằng tiếng Ý trong ngày làm việc, theo mẫu tin nhắn đầu ở mục 20. Nhóm hỏi ba điều: đi bao nhiêu người, đi khi nào, điều gì quan trọng nhất với họ. Sau đó đề xuất một cuộc gọi ngắn, vì dữ liệu Evaneos năm 2026 cho thấy có cuộc gọi khám phá thì tỷ lệ chốt cao hơn rõ rệt.
-- Mọi cuộc trò chuyện từ Facebook và Instagram được ghi vào CRM với nguồn "Social Media".
-- Khách cho biết đã đặt qua một agency thì nhóm chuyển thông tin cho agency đó và không báo giá trực tiếp.
-- Agency liên hệ thì nhóm chuyển cho sales B2B trong ngày.
+- Lời mời liên hệ theo mục 1.3. Link WhatsApp dạng wa.me có sẵn câu "Buongiorno, vi scrivo dalla pagina Facebook di Viet Cone" giúp nhóm biết nguồn.
+- Tin nhắn được trả lời bằng tiếng Ý trong ngày làm việc, theo mẫu tin nhắn đầu ở mục 20. Ba câu hỏi hữu ích: đi bao nhiêu người, đi khi nào, điều gì quan trọng nhất với họ. Sau đó có thể đề xuất một cuộc gọi ngắn, vì dữ liệu Evaneos năm 2026 cho thấy có cuộc gọi khám phá thì tỷ lệ chốt cao hơn rõ rệt.
+- Cuộc trò chuyện từ Facebook và Instagram được ghi vào CRM với nguồn "Social Media".
+- Khách cho biết đã đặt qua một agency thì nhóm chuyển thông tin cho agency đó.
+- Agency liên hệ thì nhóm chuyển cho sales B2B.
 
 ### Bước 5 · Theo dõi và điều chỉnh
 
-Hai tuần một lần, thực tập sinh cộng đồng dành 15 phút ghi bốn con số: số người theo dõi mới ở Ý, tổng lượt lưu và chia sẻ, số cuộc trò chuyện mới với người Ý, thời gian xem trung bình của Reels. Nếu Meta Business Suite không còn phân tách người theo dõi theo quốc gia, thực tập sinh đếm tên Ý trong danh sách người theo dõi mới và người bình luận. Kèm theo là bài tốt nhất, bài yếu nhất và một câu giải thích vì sao.
-Ở tuần 4, 8, 12 và 16, trưởng nhóm gửi Advisor một báo cáo một trang gồm các con số trên, ba bài tốt nhất và một quyết định.
+Khoảng hai tuần một lần, thực tập sinh cộng đồng ghi bốn con số: số người theo dõi mới ở Ý, tổng lượt lưu và chia sẻ, số cuộc trò chuyện mới với người Ý, thời gian xem trung bình của Reels nếu có. Khi Meta Business Suite không còn phân tách người theo dõi theo quốc gia, có thể đếm tên Ý trong danh sách người theo dõi mới và người bình luận. Kèm theo là bài tốt nhất, bài yếu nhất và một câu giải thích vì sao.
+Khoảng mỗi tháng, trưởng nhóm gửi Advisor một báo cáo ngắn gồm các con số trên, vài bài tốt nhất và điều nhóm định thay đổi.
 
-| Nếu | Thì |
+| Nếu | Có thể |
 |---|---|
-| Sau tuần 8, người theo dõi mới vẫn chủ yếu là người Việt | Rà lại quy ước tương tác, đẩy mạnh bước 1, áp giới hạn "Italia" cho mọi bài dành cho khách du lịch |
-| Reels có thời gian xem thấp | Đưa người nói và hành động lên 3 giây đầu, cắt phần thừa, giữ phụ đề |
-| Một chuỗi bài ba lần liền không có lượt lưu, chia sẻ | Đổi góc kể hoặc tạm dừng chuỗi |
-| Tuần 12: so sánh khung 12:30 với khung chính (người xem trong 24 giờ đầu, bình luận của người Ý, lượt lưu và chia sẻ sau 7 ngày) | Khung nào tốt hơn rõ rệt thì dùng làm khung chính; chênh lệch nhỏ thì giữ khung dễ trả lời bình luận hơn |
-| Đoàn Partenze tháng 3 không chạy, hoặc khách không đồng ý đưa tin | Dùng ảnh của một đoàn khách khác đã đồng ý |
+| Sau vài tháng, người theo dõi mới vẫn chủ yếu là người Việt | Rà lại quy ước tương tác, đẩy mạnh bước 1, giới hạn "Italia" cho nhiều bài dành cho khách du lịch hơn |
+| Reels có thời gian xem thấp | Đưa người nói và hành động lên đầu, cắt phần thừa, giữ phụ đề |
+| Một chuỗi bài nhiều lần liền không có lượt lưu, chia sẻ | Đổi góc kể hoặc tạm dừng chuỗi |
+| Khung giờ thử cho kết quả tốt hơn rõ rệt | Dùng làm khung chính; chênh lệch nhỏ thì giữ khung dễ trả lời bình luận hơn |
+| Một agency chủ động muốn xuất hiện cùng Viet Cone | Lên ý tưởng bài cộng tác giữa hai Page |
 
 ---
 
-## 5. Lịch 1/12/2026–21/3/2027
+## 5. Nhịp theo mùa
 
-| Giai đoạn | Tuần | Trọng tâm |
-|---|---|---|
-| Chuẩn bị | 1–2 (1–13/12) | Bước chuẩn bị, danh sách nhóm Facebook, quay video thương hiệu, làm kho bài 4 tuần |
-| Natale và RAI | 3–6 (14/12–10/1) | Tin nhắn Natale cho khách cũ; ngày 28/12 tròn một năm phát sóng Speciale TG1; khách Ý bắt đầu chọn chuyến tháng 8 |
-| Tết và mùa đặt chỗ | 7–12 (11/1–21/2) | Tết ngày 6/2; báo cáo tuần 8; kho bài thứ hai xong trước 30/1 |
-| Partenze và ITB | 13–16 (22/2–21/3) | Ngày Quốc tế Phụ nữ 8/3, cũng là ngày đoàn Partenze tháng 3 khởi hành; ITB Berlin 16–18/3; tổng kết |
+Bảng dưới đây gợi ý trọng tâm theo mùa. Lịch theo tuần do trưởng nhóm lập trong bảng quản lý nội dung (mục 17.3) và điều chỉnh theo chất liệu có thật.
 
-Cột "Bài trọng tâm" là bài chính của tuần. Bài thứ hai lấy từ kho bài. Khi bài trọng tâm không phải Reels, bài thứ hai là Reels, chẳng hạn "Una parola vietnamita" hoặc "Domande vere" có người nói.
+| Mùa | Trọng tâm gợi ý |
+|---|---|
+| Đầu mùa đông | Dọn Page, lập danh sách nhóm Facebook và Page agency, chuẩn bị kho bài đầu tiên |
+| Natale và cuối năm | Tin nhắn chúc Natale cho khách cũ; Natale ở Hà Nội ("Ponti tra Italia e Vietnam"); kỷ niệm ngày phát sóng Speciale TG1 cuối tháng 12; host Immersion ("Una giornata con…") |
+| Đầu năm và Tết | Khách Ý bắt đầu chọn chuyến mùa hè: "Il Vietnam mese per mese" cho tháng 8, Partenze mùa hè; Tết ("Perché il Tet…"); chân dung HDV; một mạch trải nghiệm (mục 8.2) |
+| Cuối đông, đầu xuân | Nhật ký sopralluogo, lời khách, ngày Quốc tế Phụ nữ, ITB Berlin, bài cho agency; gửi agency kit di contenuti |
 
-| Tuần | Ngày | Việc nền | Bài trọng tâm | Trụ cột · định dạng |
-|---|---|---|---|---|
-| 1 | 1–6/12 | Dọn Page và Instagram; quy ước với đội ngũ; ghi số hiện trạng; chưa đăng bài mới | | |
-| 2 | 7–13/12 | Danh sách nhóm Facebook; theo dõi Page agency | Video thương hiệu ghim trên Page, mở đầu chuỗi "Due parole da Hanoi" (thứ Tư); "Perché in Vietnam…" số 1 (thứ Năm) | 03 · Reels; 01 · carousel |
-| 3 | 14–20/12 | Tin nhắn Natale cho khách cũ; tham gia nhóm; gửi agency thông tin đoàn Partenze tháng 3 | "Ponti tra Italia e Vietnam": Natale a Hanoi | 01 · nhiều ảnh |
-| 4 | 21–27/12 | Báo cáo tuần 4 | "Una giornata con…": một host Immersion; bài cho agency: Partenze tháng 3, nêu ngày, lịch trình và hạn đăng ký 6/1, giá gửi riêng | 02 · Reels; agency · ảnh |
-| 5 | 28/12–3/1 | Gửi bài RAI cho khách cũ | Ngày 28/12: một năm sau Speciale TG1 | 03 · Reels |
-| 6 | 4–10/1 | Gửi kit di contenuti quý 1 cho agency | "Il Vietnam mese per mese": agosto | 02 · carousel |
-| 7 | 11–17/1 | Trả lời tin nhắn mùa đặt chỗ | "Perché il Tet…" | 01 · carousel |
-| 8 | 18–24/1 | Báo cáo tuần 8; xem lại các nhóm Facebook | "Le nostre guide" số 1 | 03 · ảnh |
-| 9 | 25–31/1 | Hoàn thành kho bài Tết | Mạch trải nghiệm, bài 1 (mục 8.2) | 01 · nhiều ảnh |
-| 10 | 1–7/2 | Tuần Tết: 1–2 bài đã hẹn giờ | Reels chúc Tết bằng tiếng Ý | 01 · Reels |
-| 11 | 8–14/2 | Giá Partenze trên landing đã chuyển sang EUR | Mạch trải nghiệm, bài 2; "Partenze": đoàn tháng 8, nếu đã có ý kiến luật sư | 02 · Reels; 02 · ảnh |
-| 12 | 15–21/2 | Báo cáo tuần 12 | "Lento è meglio": một ngày đi chậm | 02 · ảnh |
-| 13 | 22–28/2 | Xin đồng ý đưa tin của khách đi Partenze tháng 3 | "Diario di sopralluogo" là bài 3 của mạch trải nghiệm | 03 · nhiều ảnh |
-| 14 | 1–7/3 | | "Dicono di noi": lời khách về trải nghiệm này, là bài 4 của mạch; không có thì dùng một đánh giá khác | 04 · bài trích dẫn |
-| 15 | 8–14/3 | Partenze khởi hành 8/3; Story trong chuyến nếu khách đồng ý | Ngày 8/3: đội ngũ chủ yếu là phụ nữ và ý nghĩa chiếc nón lá | 01 · ảnh |
-| 16 | 15–21/3 | Tuần ITB: 1–2 bài; báo cáo cuối | Bài cho agency về ITB Berlin; "Cartoline dai viaggiatori" nếu có đồng ý | agency · ảnh; 04 · nhiều ảnh |
-
-Lịch để trống khoảng 20% cho những tin bất ngờ, chẳng hạn một đánh giá mới hoặc một agency đăng bài về Viet Cone.
+Khi chọn bài cho từng tuần, nhóm có thể kết hợp các chuỗi ở mục 8.2 với ý tưởng ở mục 10.1, giữ cân bằng trụ cột theo mục 8.1. Mỗi khi có bài trọng tâm dạng ảnh, bài thứ hai trong tuần có thể là một bài ngắn từ kho, chẳng hạn "Domande vere" hoặc "Una parola vietnamita".
+Lịch nên để trống khoảng một phần năm cho những tin bất ngờ, chẳng hạn một đánh giá mới hoặc một agency đăng bài về Viet Cone.
 
 ---
 
-## 6. Phân vai và việc cần làm trước
-
-### 6.1 Phân vai
+## 6. Phân vai
 
 | Vai | Việc |
 |---|---|
-| Advisor | Duyệt guideline; duyệt các bài theo mục 19.1; hỏi luật sư về điều 47; chốt người duyệt tiếng Ý và người nói tiếng Ý trước camera; ra quyết định ở mỗi mốc 4 tuần |
-| Trưởng nhóm | Lập lịch và kho bài; soát bảng kiểm sau khi người duyệt tiếng Ý sửa xong; viết báo cáo 4 tuần; làm việc với HDV, sales và agency |
+| Advisor | Duyệt guideline; duyệt các bài theo mục 19.1; chọn người duyệt tiếng Ý; xem báo cáo hằng tháng và quyết định điều chỉnh |
+| Trưởng nhóm | Lập lịch và kho bài; soát bảng kiểm sau khi người duyệt tiếng Ý sửa xong; viết báo cáo hằng tháng; làm việc với HDV, sales và agency |
 | Thực tập sinh nội dung | Lập phiếu bài và bảng dữ kiện; viết nháp với AI theo `02_AI_Style_Guide_IT.md`; hẹn giờ đăng trên Facebook và Instagram; cập nhật bảng quản lý nội dung |
-| Thực tập sinh hình ảnh, video | Quay và dựng Reels, gắn phụ đề tiếng Ý, làm carousel, quản lý kho ảnh theo Brand Guideline 5.7 |
-| Thực tập sinh cộng đồng | Bình luận trên Page agency; tìm câu hỏi trong nhóm Facebook và soạn nháp trả lời; trả lời bình luận, tin nhắn đầu theo mẫu ở mục 20; ghi số liệu hai tuần một lần |
-| Người duyệt tiếng Ý | Duyệt phần chữ, phụ đề và chữ trên ảnh theo lô vào một buổi cố định mỗi tuần; đọc lại các câu trả lời bình luận của tuần; phụ trách nhóm Facebook nếu có thể |
-| Người nói tiếng Ý trước camera | Một người trong đội sales hoặc một HDV; quay "Due parole da Hanoi" và phần lời của Reels |
-| HDV (danh sách đồng ý tham gia) | Mời khách theo dõi Page; gửi ảnh và câu chuyện; nhiều nhất một việc mỗi tuần |
+| Thực tập sinh hình ảnh, video | Chụp và chọn ảnh, làm carousel, quay và dựng Reels khi có kế hoạch, quản lý kho ảnh theo Brand Guideline 5.7 |
+| Thực tập sinh cộng đồng | Bình luận trên Page agency; tìm câu hỏi trong nhóm Facebook và soạn nháp trả lời; trả lời bình luận, tin nhắn đầu theo mục 20; ghi số liệu |
+| Người duyệt tiếng Ý | Duyệt phần chữ, phụ đề và chữ trên ảnh theo lô vào một buổi cố định mỗi tuần; đọc lại các câu trả lời bình luận; phụ trách nhóm Facebook nếu có thể |
+| HDV (danh sách tự nguyện) | Mời khách theo dõi Page; gửi ảnh và câu chuyện; mỗi lần một việc nhỏ, vì HDV bận tour vào mùa cao điểm |
 | Sales B2C, B2B | Nhận cuộc trò chuyện từ Facebook và Instagram, ghi nguồn trong CRM |
 
-Tốc độ duyệt của người duyệt tiếng Ý quyết định số bài đăng được. HDV bận tour đúng vào các tháng cao điểm, nên Advisor cân nhắc một cộng tác viên người Ý có thù lao.
-Người duyệt tiếng Ý không kiêm trưởng nhóm, để mỗi bài luôn có hai người đọc.
+Tốc độ duyệt của người duyệt tiếng Ý quyết định số bài đăng được. Khi HDV bận tour vào các tháng cao điểm, Advisor có thể cân nhắc một cộng tác viên người Ý.
+Người duyệt tiếng Ý không kiêm trưởng nhóm, để mỗi bài có hai người đọc.
 
-### 6.2 Việc cần làm trước 1/12 và trong tháng 12
-
-| Việc | Người làm | Hạn |
-|---|---|---|
-| Duyệt guideline; chốt người duyệt tiếng Ý và người nói tiếng Ý trước camera | Advisor | 30/11 |
-| Kiểm tra số +84 988 550 733 đã dùng WhatsApp | Trưởng nhóm | 1/12 |
-| Quay video thương hiệu ghim trên Page | Trưởng nhóm, thực tập sinh hình ảnh | 5/12 |
-| Gộp Page; đặt tên, phần giới thiệu, nút WhatsApp, trả lời tự động Messenger; sửa Instagram | Trưởng nhóm | 6/12 |
-| Ghi số hiện trạng | Thực tập sinh cộng đồng | 6/12 |
-| Gắn mã UTM cho link; thêm nguồn "Social Media" trong CRM | Thực tập sinh nội dung, sales | 6/12 |
-| Lập danh sách HDV đồng ý tham gia; kiểm tra điều khoản Evaneos về liên hệ ngoài nền tảng | Trưởng nhóm | 10/12 |
-| Lập danh sách nhóm Facebook và Page agency cần theo dõi | Thực tập sinh cộng đồng | 13/12 |
-| Quay sẵn 8–10 đoạn ngắn người nói tiếng Ý cho Reels | Thực tập sinh hình ảnh, người nói tiếng Ý trước camera | 13/12 |
-| Advisor duyệt danh sách tên đã đồng ý và các câu chuẩn dùng trên Page | Trưởng nhóm, Advisor | 13/12 |
-| Soạn và gửi tin nhắn Natale cho khách cũ đã đồng ý nhận tin | Trưởng nhóm, người từng phụ trách chuyến | 20/12 |
-| Kiểm tra link RaiPlay, ghi mốc phút có Viet Cone | Thực tập sinh cộng đồng | 15/12 |
-| Hoàn thành kho bài 4 tuần | Thực tập sinh nội dung, thực tập sinh hình ảnh | 15/12 |
-| Hỏi luật sư Ý về điều 47 | Advisor | 20/12 |
-| Chuẩn bị kit di contenuti quý 1 | Trưởng nhóm, thực tập sinh hình ảnh | 4/1 |
-| Chuyển giá Partenze trên landing sang EUR | Trưởng nhóm, sales | Trước bài Partenze cho khách du lịch |
+Trước khi đăng đều đặn, nên có sẵn: người duyệt tiếng Ý; số WhatsApp đã kiểm tra; Page và Instagram đã dọn (mục 4, bước chuẩn bị); danh sách HDV tự nguyện, nhóm Facebook và Page agency; link RaiPlay đã kiểm tra, kèm mốc phút có Viet Cone; kho bài vài tuần.
 
 ---
 
@@ -423,15 +365,14 @@ Người duyệt tiếng Ý không kiêm trưởng nhóm, để mỗi bài luôn
 
 | Rủi ro | Cách giảm |
 |---|---|
-| Thiếu người duyệt tiếng Ý, nhịp đăng bị gãy | Chốt người duyệt trước 1/12, duyệt theo lô, giữ kho bài 4 tuần |
-| Agency thấy Page cạnh tranh với họ | Ba ưu tiên ở mục 1.3 và bộ kit di contenuti mỗi quý |
-| HDV bận vào mùa cao điểm | Danh sách HDV đồng ý tham gia (mục 6.1), kho ảnh làm từ trước |
-| Bị coi là spam trong nhóm Facebook | Chỉ 2–3 nhóm, đọc luật trước, trả lời hữu ích, nói rõ mình làm ở DMC |
+| Thiếu người duyệt tiếng Ý, nhịp đăng bị gãy | Duyệt theo lô, giữ kho bài vài tuần |
+| Agency thấy Page cạnh tranh với họ | Lời mời liên hệ hai lối ở mục 1.3 và bộ kit di contenuti mỗi quý |
+| HDV bận vào mùa cao điểm | Danh sách HDV tự nguyện, kho ảnh làm từ trước |
+| Nguồn lực làm video có hạn | Giữ nhịp bằng bài ảnh, nhiều ảnh, carousel; làm Reels đơn giản khi có dịp |
+| Bị coi là spam trong nhóm Facebook | Ít nhóm, đọc luật trước, trả lời hữu ích, nói rõ mình làm ở DMC |
 | Không gộp được hai Page | Page cũ ghim bài dẫn về Page chính và ngừng đăng |
-| Link RaiPlay không mở được | Kiểm tra trước 15/12; nếu lỗi, bài RAI dùng câu chuẩn và cảnh hậu trường, không đặt link |
-| Rủi ro theo điều 47 khi bán Partenze trực tiếp | Có ý kiến luật sư trước 20/12; trong lúc chờ, giới thiệu Partenze qua bài dành cho agency |
-| GDPR khi liên hệ khách cũ và lead TTG | Chỉ liên hệ người đã đồng ý nhận tin |
-| Facebook thay đổi tính năng | Kiểm tra ở mỗi mốc 4 tuần và điều chỉnh theo bảng ở bước 5 |
+| Link RaiPlay không mở được | Bài RAI dùng câu chuẩn và cảnh hậu trường, không đặt link |
+| Facebook thay đổi tính năng | Xem lại khi làm báo cáo hằng tháng và điều chỉnh theo bảng ở bước 5 |
 
 ---
 
@@ -454,26 +395,26 @@ Tỷ trọng gợi ý: khoảng 55% cho trụ cột 01 và 02, khoảng 20% cho 
 
 ### 8.2 Chuỗi bài
 
-Chuỗi bài giúp người đọc nhận ra và chờ đợi. Tên chuỗi viết bằng tiếng Ý và nói ngay bài về ai, ở đâu. Danh sách dưới đây là điểm xuất phát; nhóm thêm, bớt theo kết quả ở bước 5.
+Chuỗi bài giúp người đọc nhận ra và chờ đợi. Tên chuỗi viết bằng tiếng Ý và nói ngay bài về ai, ở đâu. Danh sách dưới đây là điểm xuất phát; nhóm thêm, bớt, đổi định dạng theo nguồn lực và kết quả ở bước 5.
 
 | Trụ cột | Chuỗi | Nội dung | Định dạng gợi ý |
 |---|---|---|---|
 | 01 | Perché in Vietnam… | Mỗi bài trả lời một câu hỏi về tập quán: bàn thờ trong nhà, bữa sáng bằng phở, chiếc nón lá | Carousel 4–6 khung |
-| 01 | Una parola vietnamita | Một từ khó dịch và câu chuyện phía sau | Reels có người nói |
+| 01 | Una parola vietnamita | Một từ khó dịch và câu chuyện phía sau | Bài ảnh, hoặc Reels có người nói |
 | 01 | Ponti tra Italia e Vietnam | Một điểm gặp cụ thể giữa hai văn hóa | Bài ảnh hoặc bài chữ |
-| 02 | Una giornata con… | Một buổi với host Immersion | Reels có người kể chuyện |
+| 02 | Una giornata con… | Một buổi với host Immersion | Nhiều ảnh, hoặc Reels có người kể chuyện |
 | 02 | Il Vietnam mese per mese | Tháng này miền nào đẹp, vì sao, và nơi nào nên tránh | Carousel |
 | 02 | Lento è meglio | Một ngày đi chậm theo giờ | Bài ảnh, phần chữ là lịch theo giờ |
 | 02 | Partenze | Vietnam Essenziale: ngày khởi hành, nhóm tối đa 12 người | Bài ảnh kèm link landing |
-| 02 | Vietnam e oltre | Việt Nam kết hợp Lào hoặc Campuchia | Một bài mỗi quý, từ quý 2/2027 |
+| 02 | Vietnam e oltre | Việt Nam kết hợp Lào hoặc Campuchia | Thỉnh thoảng, khi có chất liệu |
 | 03 | Diario di sopralluogo | Đội ngũ đi khảo sát: kiểm tra gì, giữ gì, bỏ gì, vì sao | Nhiều ảnh, Reels hậu trường |
 | 03 | Le nostre guide | Chân dung HDV: tên, vùng phụ trách, điều họ thích kể | Ảnh chân dung kèm trích dẫn |
-| 03 | Due parole da Hanoi | Một người trong đội nói tiếng Ý về một chủ đề mỗi tháng | Reels ngang tầm mắt |
+| 03 | Due parole da Hanoi | Một người trong đội nói tiếng Ý về một chủ đề | Reels ngang tầm mắt, khi có người nói tiếng Ý |
 | 03 | Bài bảo chứng (không đặt tên chuỗi) | Speciale TG1, Travelife Partner, Travelers' Choice, các đối tác cộng đồng có tên | Reels, bài ảnh |
 | 04 | Domande vere | Trả lời thật những câu khách hay hỏi | Bài chữ hoặc carousel |
 | 04 | Dicono di noi | Trích đánh giá thật, có nguồn và ngày | Bài trích dẫn theo Brand Guideline 8.6 |
-| 04 | Cartoline dai viaggiatori | Ảnh, video khách tự quay, có đồng ý | Nhiều ảnh |
-| Agency | Per agenzie e tour operator | Trải nghiệm mới có mô tả sẵn cho catalogue; TTG, ITB | Bài ảnh, 1–2 bài mỗi tháng |
+| 04 | Cartoline dai viaggiatori | Ảnh, video khách tự quay | Nhiều ảnh |
+| Agency | Per agenzie e tour operator | Trải nghiệm mới có mô tả sẵn cho catalogue; TTG, ITB | Bài ảnh, khoảng 1–2 bài mỗi tháng |
 
 Một trải nghiệm có thể được kể qua một mạch 3–4 bài theo thứ tự trụ cột 01, 02, 03, 04, mỗi bài cách nhau 1–2 tuần và xen với bài khác. Ví dụ với một xưởng thủ công cộng đồng: bài 1 kể vì sao nghề này quan trọng với những người làm ra nó, bài 2 kể một buổi sáng khách làm cùng nghệ nhân, bài 3 kể vì sao Viet Cone đưa khách đến xưởng thay vì cửa hàng lưu niệm, bài 4 trích lời một khách thật đã đến. Không có lời khách thật thì bỏ bài 4.
 
@@ -571,7 +512,7 @@ Bảy nét tính cách của Brand Strategy 3.4 thể hiện trên Page như sau
 | 03 | Người trong cuộc kể hậu trường | Lý do, quyết định, điều đã kiểm tra |
 | 04 | Lời của khách hoặc câu trả lời thẳng thắn | Trích dẫn thật; câu trả lời có số liệu |
 
-Bài đăng được khơi gợi cảm xúc, nhưng luôn có ít nhất một chi tiết kiểm chứng được: ai, ở đâu, bao lâu (Brand Strategy 4.4). Giá tour riêng và điều kiện để dành cho tin nhắn; bài Partenze nêu ngày và giá giống trên landing.
+Bài đăng được khơi gợi cảm xúc, nhưng luôn có ít nhất một chi tiết kiểm chứng được: ai, ở đâu, bao lâu (Brand Strategy 4.4).
 
 ### 11.4 Hấp dẫn mà vẫn chuyên nghiệp
 
@@ -630,8 +571,8 @@ Câu trả lời bình luận và tin nhắn ký tên người viết, chẳng h
 | esperienza unica, indimenticabile, da sogno | Điều khách làm và cảm thấy | Không kiểm chứng được |
 | nel cuore di, un mosaico di culture, tra tradizione e modernità | Một chi tiết của nơi đó | Sáo ngữ du lịch quen thuộc |
 | fuori dai sentieri battuti, angolo nascosto | Lý do ít người đến: "dove i pullman non entrano" | Brand Guideline 7.3 |
-| eco, green, sostenibile | Việc làm cụ thể: "paghiamo direttamente la famiglia che vi ospita" | D.Lgs. 30/2026 |
-| offerta, sconto, imperdibile, prezzo speciale | quota, preventivo, posti disponibili | Ngôn ngữ giá trị; tránh cạnh tranh giá với agency |
+| eco, green, sostenibile | Việc làm cụ thể: "paghiamo direttamente la famiglia che vi ospita" | Từ chung chung, không chứng minh được gì |
+| offerta, sconto, imperdibile, prezzo speciale | quota, preventivo, posti disponibili | Ngôn ngữ khuyến mãi, không hợp với thương hiệu |
 | location, staff, tour leader, must-see, host | posto, squadra, accompagnatore, da vedere, chi vi ospita | Từ mượn chưa phổ biến làm người đọc lớn tuổi khó chịu; các từ đã quen như tour, hotel, check-in vẫn dùng bình thường |
 | la gente locale, i locali | gli abitanti di Duong Lam, la famiglia di Lan | Người cụ thể thay cho đám đông |
 | tribù, etnia đứng một mình | la comunità hmong, l'etnia thai | Tránh sắc thái miệt thị; "thai" không nhầm với Thái Lan |
@@ -740,7 +681,7 @@ Tagline "Immerse. Not just observe." đặt ở dòng cuối, dùng cho khoảng
 
 ### 14.5 Reels và Instagram
 
-Reels nên có lời nói tiếng Ý ngay trong 3 giây đầu (Brand Guideline 5.6). Độ dài theo nội dung: 30–60 giây cho cảnh và hậu trường, 60–180 giây khi có người kể chuyện. Phụ đề tiếng Ý do nhóm tự gắn, chữ to, 1–2 dòng, tương phản cao.
+Khi làm Reels, nên có lời nói tiếng Ý ngay trong 3 giây đầu (Brand Guideline 5.6). Độ dài theo nội dung: 30–60 giây cho cảnh và hậu trường, 60–180 giây khi có người kể chuyện. Phụ đề tiếng Ý do nhóm tự gắn, chữ to, 1–2 dòng, tương phản cao.
 Phần chữ của Reels bổ sung điều video chưa nói, không chép lại lời trong video.
 Khi đăng lại sang Instagram, phần chữ rút gọn thành câu mở và 2–4 câu, kèm lời mời liên hệ và tối đa 5 hashtag. Từ khóa tìm kiếm ("Vietnam", tên nơi, tên trải nghiệm) nằm trong phần chữ. Instagram không nhận link trong phần chữ, vì vậy bài dẫn về link ở phần giới thiệu hoặc nút WhatsApp.
 
@@ -752,24 +693,21 @@ Khi đăng lại sang Instagram, phần chữ rút gọn thành câu mở và 2�
 
 Ảnh và video theo Brand Guideline phần 5: ảnh phóng sự, người thật đang làm việc thật, ánh sáng tự nhiên, máy đặt ngang tầm mắt, ảnh cảnh quan có người trong khung.
 Ảnh được ưu tiên là khách ngồi cùng mâm với gia đình đón khách, người thợ đang làm trong xưởng, khách đang trò chuyện. Ảnh mâm cơm không người và ảnh khách tạo dáng trước danh thắng ít được dùng hơn (Brand Guideline 5.5).
-Được phép chỉnh độ sáng, cân bằng trắng, cắt khung và làm thẳng ảnh. Không thêm hoặc xóa người, vật thể, và không dùng ảnh AI giống thật (Brand Guideline 5.4).
-Ảnh và video do AI tạo chỉ dùng cho hình minh họa rõ ràng không phải ảnh thật, như bản đồ vẽ hoặc biểu tượng. Lý do nằm ở mục 16.
+Có thể chỉnh độ sáng, cân bằng trắng, cắt khung và làm thẳng ảnh. Không thêm hoặc xóa người, vật thể, và không dùng ảnh AI giống thật (Brand Guideline 5.4), vì người đọc Ý lớn tuổi rất nhạy với ảnh không thật (mục 2.2).
+Ảnh và video do AI tạo chỉ hợp cho hình minh họa rõ ràng không phải ảnh thật, như bản đồ vẽ hoặc biểu tượng.
 Kích thước: Reels 9:16 (1080 × 1920); bài ảnh và nhiều ảnh 4:5 (1080 × 1350) hoặc 1:1 (1080 × 1080); carousel giữ cùng một tỷ lệ cho mọi khung; Story 1080 × 1920, chừa 250 px phía trên và 340 px phía dưới (Brand Guideline 4.5).
 Chữ trên ảnh ít, to, đặt trên nền phẳng, dùng Source Sans 3 và đạt độ tương phản từ 4,5:1.
-Khung cuối của video thương hiệu có logo và tagline trên nền terracotta đậm trong 2–3 giây (Brand Guideline 5.6). Reels quay tại chỗ có thể kết bằng người hoặc câu nói. Nhạc nền phải có giấy phép thương mại.
-Trích đoạn phóng sự RAI ghi "Fonte: Rai 1" và luôn ghép với cảnh hậu trường do Viet Cone tự quay. Link RaiPlay đặt ở bình luận đầu của Page.
+Khung cuối của video thương hiệu có logo và tagline trên nền terracotta đậm trong 2–3 giây (Brand Guideline 5.6). Reels quay tại chỗ có thể kết bằng người hoặc câu nói.
+Trích đoạn phóng sự RAI ghi "Fonte: Rai 1" và ghép với cảnh hậu trường do Viet Cone tự quay. Link RaiPlay đặt ở bình luận đầu của Page.
 Mỗi ảnh lưu kèm nơi chụp, người trong ảnh và người chụp (Brand Guideline 5.7), và bài đăng gắn nhãn vị trí.
 
-## 16. Đạo đức, tôn trọng và pháp lý
+## 16. Đạo đức và tôn trọng
 
-Đội ngũ xin phép trước khi chụp, quay, và tôn trọng không gian thiêng cùng những giới hạn chủ nhà đã nêu (KEY PRODUCT HANDBOOK).
-Bài nói về người dân như những cá nhân có câu chuyện riêng. Bài không biến cộng đồng thành điều kỳ lạ, không thương hại và không lãng mạn hóa họ. Ảnh trẻ em chỉ đăng khi có người lớn đồng ý.
-Tên host và đối tác cộng đồng chỉ được nêu khi họ đã đồng ý (bối cảnh mục 9).
-Chủ đề chiến tranh và tôn giáo được kể qua con người, bằng giọng điềm tĩnh và tôn trọng. Ký ức của người Ý về chiến tranh Việt Nam phần lớn đến từ phim ảnh, nên bài kể Việt Nam hôm nay qua những người đang sống ở đó và tránh nhận định chính trị.
-Tuyên bố về môi trường theo D.Lgs. 30/2026, áp dụng từ 27/9/2026: không dùng tuyên bố chung chung, không dùng "carbon neutral", trồng cây chỉ gọi là trồng cây (bối cảnh mục 9, 10).
-Lời và ảnh của khách chỉ dùng khi khách đồng ý. Không dựng nhân vật khách để làm bằng chứng.
-Sự đồng ý được xin bằng tin nhắn hoặc email, chụp màn hình lưu vào thư mục đồng ý trên Drive marketing, và link ghi vào phiếu bài. Câu xin đồng ý gợi ý với khách Ý: "Possiamo pubblicare questa foto e i vostri nomi sulla nostra pagina Facebook e su Instagram? Se preferite, la usiamo senza nomi." Với host và đối tác cộng đồng, nhóm hỏi bằng tiếng Việt và nói rõ ảnh sẽ đăng ở đâu.
-Ảnh và video AI giống thật về một địa điểm có thật được Đạo luật AI của EU (Điều 50, áp dụng từ 2/8/2026) coi là deepfake và phải công bố. Meta yêu cầu tự gắn nhãn "AI info" cho video, âm thanh giống thật do AI tạo hoặc chỉnh, và có thể tự gắn nhãn cho ảnh mang siêu dữ liệu AI. Ảnh làm điểm đến đẹp hơn thực tế còn có thể bị coi là quảng cáo gây hiểu lầm theo Codice del Consumo. Đây là lý do Viet Cone chỉ dùng ảnh thật.
+Đội ngũ tôn trọng không gian thiêng và những giới hạn chủ nhà đã nêu (KEY PRODUCT HANDBOOK).
+Bài nói về người dân như những cá nhân có câu chuyện riêng, không biến cộng đồng thành điều kỳ lạ, không thương hại và không lãng mạn hóa họ.
+Chủ đề chiến tranh và tôn giáo hợp nhất khi được kể qua con người, bằng giọng điềm tĩnh và tôn trọng. Ký ức của người Ý về chiến tranh Việt Nam phần lớn đến từ phim ảnh, nên bài kể Việt Nam hôm nay qua những người đang sống ở đó và tránh nhận định chính trị.
+Khi nói về môi trường, bài nói việc cụ thể thay cho tuyên bố chung chung; trồng cây thì gọi là trồng cây (bối cảnh mục 9).
+Lời khách trong bài là lời thật; không dựng nhân vật khách để làm bằng chứng.
 
 ---
 
@@ -790,7 +728,7 @@ Thực tập sinh nội dung điền phiếu bài trước khi viết. Ô nào c
 | Người đọc chính | Paola, Chiara hoặc Marco (mục 2.1) |
 | Nỗi lo hoặc mong muốn bài trả lời | Một dòng ở mục 2.3 |
 | Định dạng | Reels, bài ảnh, nhiều ảnh, carousel, bài trích dẫn, bài chữ hoặc Story |
-| Nhân vật | Tên, vai trò, link bằng chứng đồng ý |
+| Nhân vật | Tên, vai trò |
 | Bối cảnh | Ở đâu, khi nào |
 | Trải nghiệm | Việc cụ thể |
 | Ý nghĩa | Người đọc hiểu thêm điều gì |
@@ -802,7 +740,7 @@ Thực tập sinh nội dung điền phiếu bài trước khi viết. Ô nào c
 
 Bảng dữ kiện liệt kê mỗi dữ kiện trên một dòng, kèm link nguồn ở cột riêng. Dữ kiện do HDV hoặc host kể thì ghi nguồn là tên người cung cấp và ngày. Đây là chất liệu duy nhất để viết bài, kể cả khi viết cùng AI.
 Bảng dữ kiện nên có ít nhất một chi tiết giác quan hoặc một câu nói thật của nhân vật. Thiếu những chi tiết này, bài sẽ khô dù câu chữ đúng.
-Dữ kiện chưa xác minh được thì ghi [DA VERIFICARE]. Bài chỉ được đăng khi mọi ô [DA VERIFICARE] đã được thay bằng dữ kiện thật hoặc đã bị xóa.
+Dữ kiện chưa xác minh được thì ghi [DA VERIFICARE]. Trước khi đăng, các ô này được thay bằng dữ kiện thật hoặc bỏ đi.
 
 ### 17.3 Bảng quản lý nội dung
 
@@ -814,10 +752,9 @@ Trang "Số" của bảng lưu số hiện trạng và các con số ghi hai tu�
 ## 18. Viết cùng AI
 
 Nhóm dùng Claude hoặc ChatGPT để viết nháp, tự soát và chuyển bài từ tiếng Việt sang tiếng Ý. Mọi quy tắc cho công cụ AI, cách thiết lập Project và các câu lệnh mẫu nằm trong `02_AI_Style_Guide_IT.md`.
-Với bài đăng, AI chỉ tham gia bước 2 của quy trình ở mục 19.1: từ phiếu bài và bảng dữ kiện, AI viết các phương án, tự soát rồi đưa ra một bản sửa. Người duyệt tiếng Ý đọc to bản sửa, chỉnh giọng và kiểm từng dữ kiện ở bước 4. Đây là bước kiểm soát biên tập bắt buộc.
+Với bài đăng, AI chỉ tham gia bước 2 của quy trình ở mục 19.1: từ phiếu bài và bảng dữ kiện, AI viết các phương án, tự soát rồi đưa ra một bản sửa. Người duyệt tiếng Ý đọc to bản sửa, chỉnh giọng và kiểm từng dữ kiện ở bước 4. Đây là bước quan trọng nhất để bài đọc tự nhiên và đúng.
 Thực tập sinh cộng đồng có thể dùng AI để soạn nháp câu trả lời bình luận và tin nhắn theo mục 20.
 
-Không dán tên, email, số điện thoại hay ghi chú của khách, cũng như thông tin liên hệ của đối tác, vào công cụ AI ở bất kỳ gói dịch vụ nào.
 AI không bị Facebook phạt chỉ vì được dùng. Facebook hạ thấp nội dung không gốc và nội dung na ná nhau. Bài giữ được tính gốc khi có dữ kiện riêng của Viet Cone, người thật có tên, ảnh tự chụp và giọng của người duyệt.
 
 ---
@@ -832,34 +769,31 @@ AI không bị Facebook phạt chỉ vì được dùng. Facebook hạ thấp n�
 | 2 | Thực tập sinh nội dung | Lập phiếu bài và bảng dữ kiện; viết nháp cùng AI |
 | 3 | Thực tập sinh hình ảnh, video | Chuẩn bị ảnh, Reels, phụ đề |
 | 4 | Người duyệt tiếng Ý | Duyệt phần chữ, phụ đề và chữ trên ảnh theo lô mỗi tuần |
-| 5 | Trưởng nhóm | Soát bảng kiểm 19.2; chuyển Advisor các bài dành cho agency, bài Partenze, bài có giá và bài có tên người chưa nằm trong danh sách đã duyệt |
+| 5 | Trưởng nhóm | Soát bảng kiểm 19.2; chuyển Advisor các bài dành cho agency và bài Partenze |
 | 6 | Thực tập sinh nội dung | Hẹn giờ trên Meta Business Suite cho Facebook và Instagram; gắn nhãn vị trí và mô tả ảnh; cập nhật bảng quản lý |
 | 7 | Thực tập sinh cộng đồng | Trả lời bình luận trong giờ đầu sau khi đăng, theo mục 20 |
 
-Advisor duyệt một lần danh sách tên host, HDV, khách và agency đã đồng ý, cùng các câu chuẩn về RAI và Travelife. Bài chỉ dùng những tên và câu này thì không cần Advisor duyệt lại.
 
 ### 19.2 Bảng kiểm trước khi đăng
 
-Câu 4, 6 và 9 là bắt buộc. Các câu còn lại là phép thử chất lượng: câu nào trả lời "không" thì người viết sửa, hoặc ghi lý do vào phiếu bài khi chọn cách khác có chủ ý.
+Các câu dưới đây là phép thử chất lượng. Câu nào trả lời "không" thì người viết sửa, hoặc ghi lý do vào phiếu bài khi chọn cách khác có chủ ý. Câu 4, 6 và 9 nên luôn đạt.
 1. Bài có người thật, nơi cụ thể và việc cụ thể không?
 2. Bài trả lời một nỗi lo hoặc một mong muốn ở mục 2.3 không?
-3. Mọi dữ kiện đều có nguồn, và mọi tên người đã được đồng ý nêu chưa?
+3. Dữ kiện trong bài có nguồn không?
 4. Câu về RAI, Travelife và năm thành lập có đúng câu chuẩn ở bối cảnh mục 9 không?
-5. Bài có tránh được tuyên bố môi trường chung chung, giá tour riêng và tên agency, tên khách chưa được đồng ý không?
+5. Bài có tránh được tuyên bố môi trường chung chung và lời quảng cáo không?
 6. Người duyệt tiếng Ý đã duyệt phần chữ, phụ đề và chữ trên ảnh chưa?
 7. Ý chính và địa danh có nằm trong khoảng 90 ký tự đầu không?
 8. Bài có tránh được lời mời tương tác kiểu câu kéo và các dấu hiệu ở mục 12.5 không, và khi đọc to có nghe như một người đang kể chuyện không?
-9. Ảnh, video có đúng Brand Guideline không: logo từ file gốc, bản đồ Việt Nam có Hoàng Sa và Trường Sa, chữ Source Sans 3 với độ tương phản từ 4,5:1, Reels có phụ đề tiếng Ý?
+9. Ảnh, video có đúng Brand Guideline không: logo từ file gốc, bản đồ Việt Nam có Hoàng Sa và Trường Sa, chữ Source Sans 3 với độ tương phản từ 4,5:1, Reels (nếu có) có phụ đề tiếng Ý?
 10. Sau khi đọc, người đọc có kể lại được cho người đi cùng một câu cụ thể về Việt Nam hay về cách Viet Cone làm việc không, và có muốn gửi bài cho họ không?
 
 ---
 
 ## 20. Bình luận và tin nhắn
 
-Bình luận và tin nhắn được trả lời bằng tiếng Ý trong ngày làm việc; bình luận dưới bài mới được trả lời trong giờ đầu. Câu trả lời gọi tên người hỏi và, khi có thể, nhắc một chi tiết thật của chuyến đi (Brand Guideline 8.4). Mỗi câu trả lời được viết riêng từ các mẫu dưới đây, không sao chép nguyên văn. Thực tập sinh cộng đồng đăng câu trả lời mà không cần chờ duyệt; người duyệt tiếng Ý đọc lại hằng tuần và ghi các điểm cần sửa vào bảng quản lý.
-Câu hỏi về giá tour riêng không được trả lời bằng con số công khai. Người hỏi được mời nhắn tin riêng.
-Không xin số điện thoại hay email trong bình luận công khai.
-Bình luận tiêu cực được ghi nhận công khai, kèm điều sẽ làm, rồi chuyển sang tin nhắn riêng. Phê bình chính đáng không bị xóa. Bình luận rác hoặc xúc phạm được ẩn.
+Bình luận và tin nhắn được trả lời bằng tiếng Ý trong ngày làm việc; bình luận dưới bài mới được trả lời trong giờ đầu. Câu trả lời gọi tên người hỏi và, khi có thể, nhắc một chi tiết thật của chuyến đi (Brand Guideline 8.4). Mỗi câu trả lời được viết riêng từ các mẫu dưới đây, không sao chép nguyên văn. Thực tập sinh cộng đồng có thể đăng câu trả lời mà không chờ duyệt; người duyệt tiếng Ý đọc lại hằng tuần và ghi các điểm cần sửa vào bảng quản lý.
+Với bình luận tiêu cực, cách tốt là ghi nhận công khai, nói điều sẽ làm, rồi chuyển sang tin nhắn riêng. Phê bình chính đáng nên được giữ lại; bình luận rác hoặc xúc phạm thì ẩn.
 
 | Tình huống | Câu trả lời gợi ý |
 |---|---|
@@ -897,7 +831,7 @@ Trả lời mong muốn hiểu văn hóa qua đời sống hằng ngày.
 >
 > [Domanda sull'esperienza del lettore: "E nella vostra famiglia…?"]
 
-### 21.2 Trụ cột 02 · "Una giornata con…" (Reels có người kể)
+### 21.2 Trụ cột 02 · "Una giornata con…" (nhiều ảnh hoặc Reels)
 
 Trả lời nỗi lo "chỉ thấy điều ai cũng thấy".
 
@@ -963,13 +897,13 @@ Trả lời câu hỏi HDV có thật sự nói tiếng Ý tốt không.
 >
 > [Invito, per esempio: "Se volete viaggiare con [Nome], scriveteci su WhatsApp."]
 
-### 21.7 Trụ cột 03 · Bài bảo chứng RAI (Reels: trích đoạn Rai 1 và hậu trường)
+### 21.7 Trụ cột 03 · Bài bảo chứng RAI (trích đoạn Rai 1 và hậu trường)
 
 Trả lời câu hỏi Viet Cone có đáng tin không. Câu chuẩn RAI giữ nguyên văn; các câu khác tránh lặp lại chữ "troupe" và "RAI".
 
 > [Un momento del dietro le quinte, entro 90 caratteri: luogo, giorno, che cosa succede.]
 >
-> Abbiamo accompagnato la troupe RAI per lo Speciale TG1 "Vietnam: dalle ferite alla luce" (Rai 1, 28/12/2025). [Intorno al 28 dicembre 2026: "È andato in onda un anno fa."]
+> Abbiamo accompagnato la troupe RAI per lo Speciale TG1 "Vietnam: dalle ferite alla luce" (Rai 1, 28/12/2025). [Nei giorni dell'anniversario: "È andato in onda un anno fa."]
 >
 > Nel settembre 2025, per sedici giorni, abbiamo curato l'itinerario e la logistica da Ho Chi Minh City a Hanoi, e con i giornalisti c'era sempre una guida di lingua italiana.
 >
@@ -977,7 +911,7 @@ Trả lời câu hỏi Viet Cone có đáng tin không. Câu chuẩn RAI giữ n
 
 ### 21.8 Bài dành cho agency
 
-Trả lời nhu cầu của agency về sản phẩm mới có mô tả sẵn. Tên host hoặc cộng đồng chỉ nêu khi họ đã đồng ý.
+Trả lời nhu cầu của agency về sản phẩm mới có mô tả sẵn.
 
 > A [luogo] i vostri clienti possono [che cosa fanno, con chi] con [nome esperienza] by Viet Cone, la nostra nuova proposta per agenzie e tour operator.
 >
@@ -1046,13 +980,6 @@ Trả lời nhu cầu của agency về sản phẩm mới có mô tả sẵn. T
 | Từ ngữ sáo mòn trong marketing du lịch | https://serenacamillo.it/paroleabusate-marketingturistico/ |
 | Nhận biết văn ChatGPT (Il Post 2026) | https://www.ilpost.it/2026/03/30/scoprire-chi-scrive-con-chatgpt/ |
 
-### Pháp lý
-
-| Nội dung | Link |
-|---|---|
-| Đạo luật AI của EU | https://eur-lex.europa.eu/eli/reg/2024/1689/oj |
-| D.Lgs. 30/2026, Codice del Turismo, GDPR | Bối cảnh mục 10 |
-
 ### Dữ liệu nội bộ
 
 | Nội dung | Vị trí |
@@ -1061,5 +988,5 @@ Trả lời nhu cầu của agency về sản phẩm mới có mô tả sẵn. T
 | Chân dung khách thực tế | `research/06_khach_muc_tieu.md` |
 | Phản hồi khách và Evaneos | `research/08_tieng_noi_khach_hang.md` (kèm link từng file trên Drive) |
 | Tổng hợp nghiên cứu mạng xã hội, người đọc Ý và AI | `reports/Mạng xã hội, người đọc Ý và AI 2026.md` |
-| Landing Partenze, hạn đăng ký | `research/02_websites.md` mục 4 |
+| Landing Partenze | `research/02_websites.md` mục 4 |
 | Guideline cũ (tham khảo bố cục) | Drive marketing: 03/04 - VCT Content Guideline (FB, IG) |
