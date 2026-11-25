@@ -30,7 +30,7 @@ Bảng kiểm 10 câu ở mục 19.2 giúp soát bài trước khi đăng.
 
 Khi các tài liệu nói khác nhau, thứ tự ưu tiên là `VCT_Marketing_Context.md`, sau đó đến Brand Strategy và Brand Guideline trong thư mục `foundation/`, cuối cùng là tài liệu này.
 Câu chuẩn về RAI, Travelife và năm thành lập luôn lấy nguyên văn từ mục 9 của `VCT_Marketing_Context.md` (sau đây gọi là "bối cảnh"). Đoạn giới thiệu công ty cũng lấy từ mục này; riêng phần giới thiệu ngắn của Page theo mục 4.
-Các quy tắc được viết theo dạng "ưu tiên A hơn B". Người viết có thể chọn cách khác khi có lý do rõ ràng, và ghi lại kết quả để nhóm học hỏi. Các con số về độ dài, giờ đăng, tỷ trọng và tần suất là mốc tham khảo để bắt đầu, không phải giới hạn. Chỉ vài điểm cần giữ đúng: câu chuẩn, tránh kiểu mời tương tác bị Facebook hạ thấp, không dùng ảnh AI giống thật và không dùng gạch dài trong bài tiếng Ý.
+Các quy tắc được viết theo dạng "ưu tiên A hơn B". Người viết có thể chọn cách khác khi có lý do rõ ràng, và ghi lại kết quả để nhóm học hỏi. Các con số về độ dài, giờ đăng, tỷ trọng và tần suất là mốc tham khảo để bắt đầu, không phải giới hạn. Chỉ vài điểm cần giữ đúng: câu chuẩn, tránh kiểu câu tương tác bị Facebook hạ thấp, không dùng ảnh AI giống thật và không dùng gạch dài trong bài tiếng Ý.
 Nguồn dữ liệu nằm ở Phụ lục. Tư liệu nghiên cứu chi tiết nằm ở `research/08_tieng_noi_khach_hang.md` và `reports/Mạng xã hội, người đọc Ý và AI 2026.md`.
 
 ### 0.2 Thuật ngữ
@@ -41,24 +41,24 @@ Nguồn dữ liệu nằm ở Phụ lục. Tư liệu nghiên cứu chi tiết n
 | Bài đăng | Mọi nội dung đăng lên Page |
 | Bài ảnh | Bài có một ảnh |
 | Bài nhiều ảnh | Bài có từ hai ảnh chụp trở lên, hiện thành lưới (album) |
-| Carousel | Chuỗi 4–6 khung thiết kế có chữ, đăng dạng nhiều ảnh trên Facebook và dạng vuốt ngang trên Instagram |
-| Bài chữ | Bài mà phần chữ là nội dung chính, có thể kèm một ảnh |
+| Carousel | Bộ 4–6 khung thiết kế có chữ, đăng dạng nhiều ảnh trên Facebook và dạng vuốt ngang trên Instagram |
+| Bài chữ | Bài mà caption là nội dung chính, có thể kèm một ảnh |
 | Bài trích dẫn | Bài ảnh có lời thật của khách đặt trên khung thiết kế (Brand Guideline 8.6) |
-| Phần chữ | Chữ đi kèm bài đăng (caption) |
+| Caption | Caption đi kèm bài đăng |
 | Reels | Video dọc; trên Facebook, mọi video đăng lên đều là Reels |
 | Video thương hiệu | Video giới thiệu công ty hoặc sản phẩm được dựng hoàn chỉnh, như video giới thiệu đội ngũ; khác với Reels quay tại chỗ |
-| Bài bảo chứng | Bài về bằng chứng bên ngoài: Speciale TG1, Travelife Partner, Travelers' Choice |
-| Trụ cột nội dung | Bốn nhóm nội dung của Brand Strategy 4.8: Giải thích, Tạo mong muốn, Tạo niềm tin, Xác nhận |
-| Chuỗi bài | Các bài cùng một tên, lặp lại theo nhịp để người đọc nhận ra |
-| Mạch trải nghiệm | 3–4 bài liền nhau kể cùng một trải nghiệm theo thứ tự trụ cột (mục 8.2) |
+| Bài chứng minh uy tín | Bài về bằng chứng bên ngoài: Speciale TG1, Travelife Partner, Travelers' Choice |
+| Trụ cột nội dung (content pillar) | Bốn nhóm nội dung của Brand Strategy 4.8: Giải thích, Tạo mong muốn, Tạo niềm tin, Xác nhận |
+| Chuyên mục | Các bài cùng một tên, lặp lại theo nhịp để người đọc nhận ra |
+| Loạt bài trải nghiệm | 3–4 bài liền nhau kể cùng một trải nghiệm theo thứ tự trụ cột (mục 8.2) |
 | Khách du lịch | Người đi tour, dù đặt trực tiếp, qua Evaneos hay qua agency |
 | Khách lẻ | Khách du lịch tự liên hệ Viet Cone hoặc đặt qua Evaneos (B2C) |
 | Agency | Đại lý lữ hành và tour operator Ý mua dịch vụ của Viet Cone (B2B) |
 | Host | Người đón khách trong một trải nghiệm Immersion: chủ nhà, nghệ nhân, nhà sư, người kể chuyện |
 | HDV | Hướng dẫn viên tiếng Ý |
-| Người duyệt tiếng Ý | Người đọc tiếng Ý thành thạo, chịu trách nhiệm phần chữ trước khi đăng |
-| Phiếu bài | Bản mô tả một bài đăng trước khi viết (mục 17.1) |
-| Bảng dữ kiện | Danh sách dữ kiện đã xác minh kèm nguồn, là chất liệu duy nhất để viết một bài (mục 17.2) |
+| Người duyệt tiếng Ý | Người đọc tiếng Ý thành thạo, chịu trách nhiệm caption trước khi đăng |
+| Brief | Bản mô tả một bài đăng trước khi viết (mục 17.1) |
+| Bảng thông tin | Danh sách thông tin đã xác minh kèm nguồn, là chất liệu duy nhất để viết một bài (mục 17.2) |
 | Kho bài | Các bài đã viết, duyệt và hẹn giờ trước |
 | Tín hiệu | Hành vi của người xem mà Facebook dùng để xếp hạng bài: xem lâu, lưu, chia sẻ, bình luận |
 | Chỉ số Người xem | "Account che hanno visualizzato" trong Meta Business Suite, thay cho chỉ số tiếp cận từ 31/10/2026 |
@@ -86,7 +86,7 @@ Cuộc trao đổi để đi đến quyết định thường diễn ra trên Wh
 ### 1.3 Giữ uy tín với agency
 
 Page phục vụ cùng lúc khách du lịch và agency. Để hai nhóm không đi ngược nhau, lời mời liên hệ khi phù hợp mở cả hai lối: "Scriveteci su WhatsApp, oppure chiedete alla vostra agenzia di fiducia".
-Mỗi quý, nhóm có thể gửi agency một bộ ảnh, video và phần chữ tiếng Ý không gắn logo (kit di contenuti) để họ dùng cho khách của họ.
+Mỗi quý, nhóm có thể gửi agency một bộ ảnh, video và caption tiếng Ý không gắn logo (kit di contenuti) để họ dùng cho khách của họ.
 
 ---
 
@@ -103,15 +103,15 @@ Ba chân dung dưới đây được tổng hợp từ dữ liệu khách của 
 | Thói quen | Đọc Facebook trên điện thoại, chuyển bài vào nhóm WhatsApp "Viaggio 2027"; xem TG1 và các chương trình du lịch trên TV; hỏi agency quen | Dùng Instagram nhiều hơn Facebook; xem Reels không bật tiếng; đọc đánh giá trước khi hỏi | Mở Page trước buổi hẹn; xem ngày đăng gần nhất và cách Page trả lời bình luận |
 | Nỗi lo | Nóng, đi bộ nhiều, bậc thang, đồ ăn cay, nhà vệ sinh; HDV có thật sự nói tiếng Ý tốt không; bảo hiểm y tế | Tour đông người, trải nghiệm dàn dựng; thời tiết tháng 8 | DMC biến mất, sự cố tại chỗ không ai nghe máy, tiếng Ý kém làm mất uy tín của anh trước khách |
 | Điều thuyết phục | HDV có tên và khuôn mặt; một ngày mẫu có giờ cụ thể; Speciale TG1; lời của khách cùng lứa tuổi | Trải nghiệm có host thật; video có phụ đề; thông tin rõ ràng | Đội ngũ có tên, hậu trường sopralluogo, cách xử lý một sự cố thật, RAI, Travelife |
-| Điều khiến họ lướt qua | Tên chuỗi, tiêu đề, thông điệp bằng tiếng Anh; "offerta imperdibile", ảnh bóng bẩy như ảnh AI, chữ nhỏ trên nền ảnh | Lịch trình Bắc–Nam chung chung, chữ "autentico" không kèm bằng chứng | Giảm giá công khai cho khách lẻ, lỗi ngữ pháp |
+| Điều khiến họ lướt qua | Tên chuyên mục, tiêu đề, thông điệp bằng tiếng Anh; "offerta imperdibile", ảnh bóng bẩy như ảnh AI, chữ nhỏ trên nền ảnh | Lịch trình Bắc–Nam chung chung, chữ "autentico" không kèm bằng chứng | Giảm giá công khai cho khách lẻ, lỗi ngữ pháp |
 
 ### 2.2 Người đọc dùng mạng xã hội và ra quyết định thế nào
 
 Trong nhóm từ 65 tuổi, 78% dùng WhatsApp, 61% dùng Facebook và 30% dùng Instagram (Censis 2026).
-Truyền hình vẫn là nguồn tin chính của 60% người từ 65 tuổi. Rai là nguồn được tin nhất với 56,5% người trong nhóm này (AGCOM 2026). Vì vậy câu chuẩn RAI là bảo chứng phù hợp nhất với khách Ý lớn tuổi.
+Truyền hình vẫn là nguồn tin chính của 60% người từ 65 tuổi. Rai là nguồn được tin nhất với 56,5% người trong nhóm này (AGCOM 2026). Vì vậy câu chuẩn RAI là bằng chứng uy tín phù hợp nhất với khách Ý lớn tuổi.
 Chỉ 6% người Ý chọn điểm đến theo xu hướng trên mạng xã hội (Omio–YouGov 2026). Nguồn cảm hứng chính là công cụ tìm kiếm, bạn bè và gia đình, Tripadvisor và chương trình du lịch trên TV (Interface Tourism 2024).
 72% người từ 55 tuổi lo không phân biệt được nội dung thật và giả (Politecnico di Milano 2026). 72% khách Ý và Anh ít muốn đặt dịch vụ hơn khi ảnh trông như ảnh AI (Bókun 2026). Với nhóm người đọc này, lỗi chính tả, tiếng Ý dịch máy và ảnh không thật khiến họ nghi ngờ công ty.
-Nhiều người từ 50 tuổi đọc trên điện thoại với chữ phóng to. Phần chữ hiện ra trước nút "Altro" vì thế ngắn hơn, và chữ trên ảnh cần to, ít, tương phản cao.
+Nhiều người từ 50 tuổi đọc trên điện thoại với chữ phóng to. Caption hiện ra trước nút "Altro" vì thế ngắn hơn, và chữ trên ảnh cần to, ít, tương phản cao.
 
 Vì vậy, đường đi thường gặp là: người đọc thấy bài trên Facebook, chuyển bài vào nhóm WhatsApp của cặp đôi hoặc nhóm bạn, rồi bàn bạc trước khi nhắn hỏi. Bài đăng phải đủ rõ để một người khác hiểu được khi chỉ nhận đường link.
 
@@ -169,14 +169,14 @@ Từ 31/10/2026, Meta Business Suite bỏ chỉ số tiếp cận ("Copertura").
 
 ### 3.2 Những cách viết bị hạ thấp
 
-Mời tương tác kiểu câu kéo (engagement bait) bị hạ thấp từng bài. Page lặp lại cách này bị hạ thấp cả Page. Bộ lọc áp dụng cho tiếng Ý từ năm 2018, áp dụng cả với bình luận và với lời nói trong video. Meta chia thành năm kiểu:
+Câu tương tác (engagement bait) bị hạ thấp từng bài. Page lặp lại cách này bị hạ thấp cả Page. Bộ lọc áp dụng cho tiếng Ý từ năm 2018, áp dụng cả với bình luận và với lời nói trong video. Meta chia thành năm kiểu:
 - xin bình chọn bằng cảm xúc hoặc bình luận ("Cuore se preferite il mare, like se preferite la montagna");
 - xin bấm cảm xúc ("Mettete like se…");
 - xin chia sẻ ("Condividete con 10 amici");
 - xin gắn thẻ bạn bè ("Taggate chi verrebbe con voi");
 - xin bình luận một từ hoặc một biểu tượng ("Scrivete SÌ").
 
-Meta nói rõ: bài hỏi xin lời khuyên, kinh nghiệm hoặc gợi ý du lịch không bị coi là câu kéo. Một câu hỏi thật như "Voi che ci siete stati, cosa consigliereste?" là cách mời bình luận an toàn và hiệu quả.
+Meta nói rõ: bài hỏi xin lời khuyên, kinh nghiệm hoặc gợi ý du lịch không bị coi là câu tương tác. Một câu hỏi thật như "Voi che ci siete stati, cosa consigliereste?" là cách mời bình luận an toàn và hiệu quả.
 
 Tiêu đề và câu mở giật gân (clickbait) bị hạ thấp theo hai dạng: cố ý giấu thông tin để buộc người đọc bấm vào, và phóng đại để chuyện nhỏ trông như chuyện lớn. Dấu hiệu thường gặp là "Non crederete a…", chữ in hoa toàn bộ và nhiều dấu chấm than.
 Bình luận sao chép lặp lại, kể cả bình luận trả lời của Page, cũng bị hạ thấp.
@@ -186,7 +186,7 @@ Bình luận sao chép lặp lại, kể cả bình luận trả lời của Pag
 Facebook coi một bài là có giá trị khi người xem dừng ở bài đó lâu hơn hẳn các bài khác trên Feed. Thời gian xem được so với các bài khác, không tính theo số giây tuyệt đối.
 Bình luận có ý nghĩa, tức bình luận gợi thêm câu trả lời từ nhiều người khác nhau, được xếp cao hơn. Bình luận được Page trả lời cũng hiện cao hơn. Page trả lời bình luận thường có thêm khoảng 9,5% lượt cảm xúc (Buffer 2026, số liệu tương quan).
 Theo dữ liệu 38 triệu bài Facebook năm 2026 (Socialinsider):
-- Reels và bài nhiều ảnh có phần chữ 30–60 từ đạt tương tác cao nhất;
+- Reels và bài nhiều ảnh có caption 30–60 từ đạt tương tác cao nhất;
 - bài chữ thuần hiệu quả khi rất ngắn (dưới 30 từ) hoặc đủ dài để thành một câu chuyện;
 - bài có link đạt tương tác thấp nhất.
 
@@ -197,7 +197,7 @@ Facebook tính tần suất đăng của Page khi đo mức độ người dùng
 ### 3.4 Instagram khác Facebook ở đâu
 
 Instagram giới hạn mỗi bài tối đa 5 hashtag từ tháng 12/2025. Instagram cho biết hashtag giúp tìm kiếm, không giúp tăng lượt tiếp cận.
-Instagram tìm kiếm theo chữ trong tên tài khoản, phần giới thiệu, phần chữ, hashtag và địa điểm. Từ khóa nên nằm trong phần chữ, không nằm trong bình luận.
+Instagram tìm kiếm theo chữ trong tên tài khoản, phần giới thiệu, caption, hashtag và địa điểm. Từ khóa nên nằm trong caption, không nằm trong bình luận.
 Ba tín hiệu chính của Instagram là thời gian xem, lượt thích trên số người xem và lượt gửi riêng trên số người xem. Lượt gửi riêng đặc biệt quan trọng khi tiếp cận người chưa theo dõi.
 Instagram đã có dịch, lồng tiếng AI sang tiếng Ý cho Reels từ tháng 7/2026; nhóm vẫn tự làm lời nói và phụ đề tiếng Ý để giữ giọng thương hiệu.
 
@@ -208,7 +208,7 @@ Instagram đã có dịch, lồng tiếng AI sang tiếng Ý cho Reels từ thá
 | Phần lớn người tương tác là người Việt | Bài hợp với người Việt | Bài sau được đưa thêm đến người Việt |
 | Lượt lưu bằng 0, lượt chia sẻ rất thấp | Bài không đủ giá trị để giữ lại hay gửi đi | Bài ít được đề xuất cho người chưa theo dõi |
 | Gần như không có Reels | Page thiếu định dạng được đẩy mạnh nhất cho người chưa theo dõi | Mất con đường chính đến người Ý mới |
-| Thông điệp các chuỗi bài năm 2026 trừu tượng và viết bằng tiếng Anh | Chủ đề không rõ | Khó được ghép với người quan tâm "viaggio in Vietnam" |
+| Thông điệp các chuyên mục năm 2026 trừu tượng và viết bằng tiếng Anh | Chủ đề không rõ | Khó được ghép với người quan tâm "viaggio in Vietnam" |
 | Hai Page cũ và mới cùng tồn tại | Tín hiệu bị chia đôi | Cả hai Page đều yếu |
 
 Với một Page nhỏ, việc thiếu người theo dõi người Ý và thiếu bài đáng lưu, đáng gửi ảnh hưởng đến phân phối nhiều hơn cả. Vì vậy kế hoạch dồn sức vào hai việc: đưa người Ý vào Page và nâng chất lượng nội dung.
@@ -229,7 +229,7 @@ Về Page:
 - Phần giới thiệu ngắn dưới 101 ký tự, chẳng hạn: "DMC di Hanoi: viaggi su misura in Vietnam, Laos e Cambogia per viaggiatori italiani." Phần giới thiệu chi tiết dùng bản ngắn ở bối cảnh mục 9.
 - Ảnh đại diện là biểu tượng rút gọn trên nền xanh rêu, ảnh bìa là một ảnh phóng sự có người (Brand Guideline 8.4).
 - Nút hành động "Invia messaggio WhatsApp" dẫn tới số chung +84 988 550 733, sau khi kiểm tra số này đã dùng WhatsApp. Số dành cho agency +84 37 358 2398 dùng trong bài dành cho agency.
-- Một bài ghim giới thiệu đội ngũ, kèm dòng bảo chứng bằng chữ: câu chuẩn RAI, "Travelife Partner dal 06/2025" và "Tripadvisor Travelers' Choice 2025 e 2026". Một video ngắn có người trong đội nói tiếng Ý là lựa chọn tốt nhất; khi chưa làm được video, một bài nhiều ảnh về đội ngũ cũng đủ. Trên Page, dòng chữ Travelife hợp hơn huy hiệu (bối cảnh mục 9).
+- Một bài ghim giới thiệu đội ngũ, kèm dòng uy tín bằng chữ: câu chuẩn RAI, "Travelife Partner dal 06/2025" và "Tripadvisor Travelers' Choice 2025 e 2026". Một video ngắn có người trong đội nói tiếng Ý là lựa chọn tốt nhất; khi chưa làm được video, một bài nhiều ảnh về đội ngũ cũng đủ. Trên Page, dòng chữ Travelife hợp hơn huy hiệu (bối cảnh mục 9).
 - Trả lời tự động bằng tiếng Ý cho Messenger, nói rõ giờ trả lời theo giờ Ý.
 
 Về Instagram:
@@ -306,7 +306,7 @@ Nội dung và cách viết nằm ở Phần 3 và Phần 4. Bước này gợi 
 | Lưu bài | Bài thực dụng: tháng nào đi đâu, chuẩn bị gì, câu hỏi thật của khách |
 | Chia sẻ, gửi riêng | Bài mà hai người cùng quyết định có thể bàn với nhau: gợi ý cho cặp đôi, nhóm bạn |
 | Nội dung gốc | Ảnh và video do đội ngũ tự làm; trích đoạn RAI đi kèm cảnh hậu trường và lời kể của Viet Cone; hạn chế đăng lại bài của trang khác lên Feed |
-| Chủ đề rõ | Bài xoay quanh Việt Nam, văn hóa, con người và cách đi; tên chuỗi bài bằng tiếng Ý |
+| Chủ đề rõ | Bài xoay quanh Việt Nam, văn hóa, con người và cách đi; tên chuyên mục bằng tiếng Ý |
 | Ít link | Chỉ một vài bài có link mỗi tháng, kể cả link ở bình luận đầu; link landing và RaiPlay hợp đặt ở bình luận đầu; bài vẫn đủ nghĩa khi người đọc không bấm link |
 
 Nhịp đăng: khoảng 2 bài mỗi tuần, đều đặn, có lợi hơn đăng dồn rồi im lặng. Bài thứ ba chỉ cần khi có chất liệu thật. Story hợp cho hậu trường.
@@ -314,7 +314,7 @@ Kho bài: giữ sẵn vài tuần bài đã viết, duyệt và hẹn giờ, nh�
 Định dạng: bài ảnh, nhiều ảnh và carousel đủ để giữ nhịp. Reels là định dạng Facebook đẩy mạnh nhất tới người chưa theo dõi, nên đáng làm khi có người và thời gian; khi nguồn lực có hạn, một Reels đơn giản quay bằng điện thoại vẫn tốt hơn không có.
 Giờ đăng: giờ đăng chủ yếu ảnh hưởng đến giờ đầu sau khi đăng, vì Feed và đề xuất không còn xếp theo thời gian. Khung gợi ý là buổi sáng giữa tuần theo giờ Ý (khoảng 15:30–17:00 giờ Việt Nam vào mùa đông). Khung này trùng khung sáng giữa tuần mà Buffer ghi nhận tương tác cao nhất năm 2026, và là giờ làm việc ở Việt Nam, nên nhóm trả lời được bình luận ngay. Khung trưa giờ Ý (tối giờ Việt Nam) đáng thử khi có người trực bình luận. Buổi tối giờ Ý và cuối tuần nên hạn chế, vì khó trả lời trong giờ đầu và các nghiên cứu đều ghi nhận cuối tuần yếu hơn. Khi Ý chuyển sang giờ mùa hè, giờ Việt Nam tương ứng sớm hơn một tiếng.
 Biểu đồ "người theo dõi online" trong Meta Business Suite, nếu còn, chỉ có ích khi người Ý đã chiếm phần lớn người theo dõi; hiện nay biểu đồ này phản ánh người theo dõi người Việt.
-Instagram đăng lại bài nhiều ảnh và Reels của Facebook cùng giờ, với phần chữ ngắn hơn (mục 14.5). Giai đoạn đầu chưa cần nội dung riêng cho Instagram.
+Instagram đăng lại bài nhiều ảnh và Reels của Facebook cùng giờ, với caption ngắn hơn (mục 14.5). Giai đoạn đầu chưa cần nội dung riêng cho Instagram.
 
 ### Bước 4 · Chuyển người xem thành cuộc trò chuyện
 
@@ -333,7 +333,7 @@ Khoảng mỗi tháng, trưởng nhóm gửi Advisor một báo cáo ngắn gồ
 |---|---|
 | Sau vài tháng, người theo dõi mới vẫn chủ yếu là người Việt | Rà lại quy ước tương tác, đẩy mạnh bước 1, giới hạn "Italia" cho nhiều bài dành cho khách du lịch hơn |
 | Reels có thời gian xem thấp | Đưa người nói và hành động lên đầu, cắt phần thừa, giữ phụ đề |
-| Một chuỗi bài nhiều lần liền không có lượt lưu, chia sẻ | Đổi góc kể hoặc tạm dừng chuỗi |
+| Một chuyên mục nhiều lần liền không có lượt lưu, chia sẻ | Đổi góc kể hoặc tạm dừng chuyên mục |
 | Khung giờ thử cho kết quả tốt hơn rõ rệt | Dùng làm khung chính; chênh lệch nhỏ thì giữ khung dễ trả lời bình luận hơn |
 | Một agency chủ động muốn xuất hiện cùng Viet Cone | Lên ý tưởng bài cộng tác giữa hai Page |
 
@@ -347,10 +347,10 @@ Bảng dưới đây gợi ý trọng tâm theo mùa. Lịch theo tuần do trư
 |---|---|
 | Đầu mùa đông | Dọn Page, lập danh sách nhóm Facebook và Page agency, chuẩn bị kho bài đầu tiên |
 | Natale và cuối năm | Tin nhắn chúc Natale cho khách cũ; Natale ở Hà Nội ("Ponti tra Italia e Vietnam"); kỷ niệm ngày phát sóng Speciale TG1 cuối tháng 12; host Immersion ("Una giornata con…") |
-| Đầu năm và Tết | Khách Ý bắt đầu chọn chuyến mùa hè: "Il Vietnam mese per mese" cho tháng 8, Partenze mùa hè; Tết ("Perché il Tet…"); chân dung HDV; một mạch trải nghiệm (mục 8.2) |
+| Đầu năm và Tết | Khách Ý bắt đầu chọn chuyến mùa hè: "Il Vietnam mese per mese" cho tháng 8, Partenze mùa hè; Tết ("Perché il Tet…"); chân dung HDV; một loạt bài trải nghiệm (mục 8.2) |
 | Cuối đông, đầu xuân | Nhật ký sopralluogo, lời khách, ngày Quốc tế Phụ nữ, ITB Berlin, bài cho agency; gửi agency kit di contenuti |
 
-Khi chọn bài cho từng tuần, nhóm có thể kết hợp các chuỗi ở mục 8.2 với ý tưởng ở mục 10.1, giữ cân bằng trụ cột theo mục 8.1. Mỗi khi có bài trọng tâm dạng ảnh, bài thứ hai trong tuần có thể là một bài ngắn từ kho, chẳng hạn "Domande vere" hoặc "Una parola vietnamita".
+Khi chọn bài cho từng tuần, nhóm có thể kết hợp các chuyên mục ở mục 8.2 với ý tưởng ở mục 10.1, giữ cân bằng trụ cột theo mục 8.1. Mỗi khi có bài trọng tâm dạng ảnh, bài thứ hai trong tuần có thể là một bài ngắn từ kho, chẳng hạn "Domande vere" hoặc "Una parola vietnamita".
 Lịch nên để trống khoảng một phần năm cho những tin bất ngờ, chẳng hạn một đánh giá mới hoặc một agency đăng bài về Viet Cone.
 
 ---
@@ -361,10 +361,10 @@ Lịch nên để trống khoảng một phần năm cho những tin bất ngờ
 |---|---|
 | Advisor | Duyệt guideline; duyệt các bài theo mục 19.1; chọn người duyệt tiếng Ý; xem báo cáo hằng tháng và quyết định điều chỉnh |
 | Trưởng nhóm | Lập lịch và kho bài; soát bảng kiểm sau khi người duyệt tiếng Ý sửa xong; viết báo cáo hằng tháng; làm việc với HDV, sales và agency |
-| Thực tập sinh nội dung | Lập phiếu bài và bảng dữ kiện; viết nháp với AI theo `02_AI_Style_Guide_IT.md`; hẹn giờ đăng trên Facebook và Instagram; cập nhật bảng quản lý nội dung |
+| Thực tập sinh nội dung | Lập brief và bảng thông tin; viết nháp với AI theo `02_AI_Style_Guide_IT.md`; hẹn giờ đăng trên Facebook và Instagram; cập nhật bảng quản lý nội dung |
 | Thực tập sinh hình ảnh, video | Chụp và chọn ảnh, làm carousel, quay và dựng Reels khi có kế hoạch, quản lý kho ảnh theo Brand Guideline 5.7 |
 | Thực tập sinh cộng đồng | Bình luận trên Page agency; tìm câu hỏi trong nhóm Facebook và soạn nháp trả lời; trả lời bình luận, tin nhắn đầu theo mục 20; ghi số liệu |
-| Người duyệt tiếng Ý | Duyệt phần chữ, phụ đề và chữ trên ảnh theo lô vào một buổi cố định mỗi tuần; đọc lại các câu trả lời bình luận; phụ trách nhóm Facebook nếu có thể |
+| Người duyệt tiếng Ý | Duyệt caption, phụ đề và chữ trên ảnh theo lô vào một buổi cố định mỗi tuần; đọc lại các câu trả lời bình luận; phụ trách nhóm Facebook nếu có thể |
 | HDV (danh sách tự nguyện) | Mời khách theo dõi Page; gửi ảnh và câu chuyện; mỗi lần một việc nhỏ, vì HDV bận tour vào mùa cao điểm |
 | Sales B2C, B2B | Nhận cuộc trò chuyện từ Facebook và Instagram, ghi nguồn trong CRM |
 
@@ -392,7 +392,7 @@ Trước khi đăng đều đặn, nên có sẵn: người duyệt tiếng Ý; 
 
 # PHẦN 3 · NỘI DUNG
 
-## 8. Trụ cột và chuỗi bài
+## 8. Trụ cột và chuyên mục
 
 ### 8.1 Bốn trụ cột
 
@@ -407,30 +407,30 @@ Bốn trụ cột theo Brand Strategy 4.8 tương ứng với bốn bước khá
 
 Tỷ trọng gợi ý: khoảng 55% cho trụ cột 01 và 02, khoảng 20% cho trụ cột 03, khoảng 15% cho trụ cột 04 và khoảng 10% cho bài dành cho agency. Brand Strategy 4.8 cho mạng xã hội nghiêng về trụ cột 01 và 02 và giữ trụ cột 03 đều đặn. Trụ cột 03 và 04 chiếm khoảng một phần ba, vì Page còn là nơi agency kiểm chứng Viet Cone.
 
-### 8.2 Chuỗi bài
+### 8.2 Chuyên mục
 
-Chuỗi bài giúp người đọc nhận ra và chờ đợi. Tên chuỗi viết bằng tiếng Ý và nói ngay bài về ai, ở đâu. Danh sách dưới đây là điểm xuất phát; nhóm thêm, bớt, đổi định dạng theo nguồn lực và kết quả ở bước 5.
+Chuyên mục giúp người đọc nhận ra và chờ đợi. Tên chuyên mục viết bằng tiếng Ý và nói ngay bài về ai, ở đâu. Danh sách dưới đây là điểm xuất phát; nhóm thêm, bớt, đổi định dạng theo nguồn lực và kết quả ở bước 5.
 
-| Trụ cột | Chuỗi | Nội dung | Định dạng gợi ý |
+| Trụ cột | Chuyên mục | Nội dung | Định dạng gợi ý |
 |---|---|---|---|
 | 01 | Perché in Vietnam… | Mỗi bài trả lời một câu hỏi về tập quán: bàn thờ trong nhà, bữa sáng bằng phở, chiếc nón lá | Carousel 4–6 khung |
 | 01 | Una parola vietnamita | Một từ khó dịch và câu chuyện phía sau | Bài ảnh, hoặc Reels có người nói |
 | 01 | Ponti tra Italia e Vietnam | Một điểm gặp cụ thể giữa hai văn hóa | Bài ảnh hoặc bài chữ |
 | 02 | Una giornata con… | Một buổi với host Immersion | Nhiều ảnh, hoặc Reels có người kể chuyện |
 | 02 | Il Vietnam mese per mese | Tháng này miền nào đẹp, vì sao, và nơi nào nên tránh | Carousel |
-| 02 | Lento è meglio | Một ngày đi chậm theo giờ | Bài ảnh, phần chữ là lịch theo giờ |
+| 02 | Lento è meglio | Một ngày đi chậm theo giờ | Bài ảnh, caption là lịch theo giờ |
 | 02 | Partenze | Vietnam Essenziale: ngày khởi hành, nhóm tối đa 12 người | Bài ảnh kèm link landing |
 | 02 | Vietnam e oltre | Việt Nam kết hợp Lào hoặc Campuchia | Thỉnh thoảng, khi có chất liệu |
 | 03 | Diario di sopralluogo | Đội ngũ đi khảo sát: kiểm tra gì, giữ gì, bỏ gì, vì sao | Nhiều ảnh, Reels hậu trường |
 | 03 | Le nostre guide | Chân dung HDV: tên, vùng phụ trách, điều họ thích kể | Ảnh chân dung kèm trích dẫn |
 | 03 | Due parole da Hanoi | Một người trong đội nói tiếng Ý về một chủ đề | Reels ngang tầm mắt, khi có người nói tiếng Ý |
-| 03 | Bài bảo chứng (không đặt tên chuỗi) | Speciale TG1, Travelife Partner, Travelers' Choice, các đối tác cộng đồng có tên | Reels, bài ảnh |
+| 03 | Bài chứng minh uy tín (không đặt tên chuyên mục) | Speciale TG1, Travelife Partner, Travelers' Choice, các đối tác cộng đồng có tên | Reels, bài ảnh |
 | 04 | Domande vere | Trả lời thật những câu khách hay hỏi | Bài chữ hoặc carousel |
 | 04 | Dicono di noi | Trích đánh giá thật, có nguồn và ngày | Bài trích dẫn theo Brand Guideline 8.6 |
 | 04 | Cartoline dai viaggiatori | Ảnh, video khách tự quay | Nhiều ảnh |
 | Agency | Per agenzie e tour operator | Trải nghiệm mới có mô tả sẵn cho catalogue; TTG, ITB | Bài ảnh, khoảng 1–2 bài mỗi tháng |
 
-Một trải nghiệm có thể được kể qua một mạch 3–4 bài theo thứ tự trụ cột 01, 02, 03, 04, mỗi bài cách nhau 1–2 tuần và xen với bài khác. Ví dụ với một xưởng thủ công cộng đồng: bài 1 kể vì sao nghề này quan trọng với những người làm ra nó, bài 2 kể một buổi sáng khách làm cùng nghệ nhân, bài 3 kể vì sao Viet Cone đưa khách đến xưởng thay vì cửa hàng lưu niệm, bài 4 trích lời một khách thật đã đến. Không có lời khách thật thì bỏ bài 4.
+Một trải nghiệm có thể được kể qua một loạt 3–4 bài theo thứ tự trụ cột 01, 02, 03, 04, mỗi bài cách nhau 1–2 tuần và xen với bài khác. Ví dụ với một xưởng thủ công cộng đồng: bài 1 kể vì sao nghề này quan trọng với những người làm ra nó, bài 2 kể một buổi sáng khách làm cùng nghệ nhân, bài 3 kể vì sao Viet Cone đưa khách đến xưởng thay vì cửa hàng lưu niệm, bài 4 trích lời một khách thật đã đến. Không có lời khách thật thì bỏ bài 4.
 
 ---
 
@@ -487,8 +487,8 @@ Các ý tưởng dưới đây đều xuất phát từ một nỗi lo hoặc m�
 ### 10.2 Cách thử
 
 Mỗi tháng, nhóm thử ít nhất một ý tưởng hoặc một định dạng mới, và đánh dấu trong bảng quản lý nội dung.
-Bài thử có lượt lưu, chia sẻ hoặc bình luận thật tốt hơn mức thường lệ của Page thì được phát triển thành chuỗi. Bài thử không có kết quả thì đổi góc kể hoặc dừng.
-Ý tưởng hay nhưng chưa có người thật, ảnh thật hoặc dữ kiện đã xác minh thì để dành, chưa viết.
+Bài thử có lượt lưu, chia sẻ hoặc bình luận thật tốt hơn mức thường lệ của Page thì được phát triển thành chuyên mục. Bài thử không có kết quả thì đổi góc kể hoặc dừng.
+Ý tưởng hay nhưng chưa có người thật, ảnh thật hoặc thông tin đã xác minh thì để dành, chưa viết.
 
 ---
 
@@ -536,7 +536,7 @@ Những cách làm bài hấp dẫn:
 - Một cảnh có thật ở câu mở. Lonely Planet Italia nhắc đến "i dieci minuti necessari per attraversare una strada di Hanoi tra la marea di moto": một con số, một hình ảnh và chút hài hước nhẹ, không cần tính từ.
 - Một con số làm người đọc yên tâm. Kel 12 viết: "passeggiata (circa 6 km, 2 ore e mezza di cammino lungo un percorso poco impegnativo e adatto a tutti)". Với người đọc 60 tuổi, một con số như vậy giúp họ tự đánh giá sức mình.
 - Một tên người và một câu họ nói. Lời trích ngắn của host hoặc HDV làm bài sống hơn đoạn mô tả dài.
-- Câu hỏi gợi tò mò bằng dữ kiện thật, và bài trả lời ngay. Câu "Perché in ogni casa c'è un altare?" khiến người đọc muốn biết.
+- Câu hỏi gợi tò mò bằng thông tin thật, và bài trả lời ngay. Câu "Perché in ogni casa c'è un altare?" khiến người đọc muốn biết.
 - Nhịp câu thay đổi: câu ngắn xen câu vừa, nối với nhau bằng "perché", "così", "però", "invece", để đoạn văn đọc như lời kể chứ không như danh sách.
 - Hài hước nhẹ, tự nhiên, từ chính tình huống, chẳng hạn chuyện băng qua đường ở Hà Nội. Không đùa về người dân hay tín ngưỡng.
 - Một điểm tham chiếu Ý khi thật sự đúng. So sánh ở một điểm cụ thể, chẳng hạn "Come il vostro Natale, il Tet è il momento in cui si torna a casa, anche da molto lontano", thay vì đánh đồng hai văn hóa.
@@ -623,14 +623,14 @@ Người đọc Ý ngày càng nhận ra văn do AI viết và văn quảng cáo
 | Cấu trúc đối "non solo… ma…", "non è X, è Y", "più che X, Y" | Non è solo un viaggio, è un'esperienza. | Nói thẳng điều khách làm: "In dieci giorni dormite in tre case di famiglia." |
 | Bộ ba tính từ trừu tượng hoặc ba vế song song kiểu khẩu hiệu | autentico, sostenibile e indimenticabile | Thay cả ba bằng một chi tiết thật; liệt kê ba vật cụ thể vẫn được |
 | Câu mở và câu kết khuôn mẫu | "Oggi vi parliamo di…", "Siete pronti a…?", "Immaginate di…", "In conclusione…" | Mở bằng một cảnh; kết bằng một câu hỏi thật hoặc lời mời |
-| Câu dàn dựng báo trước giọng điệu | "Diciamolo con franchezza:", "Ve lo diciamo con sincerità:" | Nói thẳng dữ kiện: "La Baia di Ha Long può essere molto affollata." |
+| Câu dàn dựng báo trước giọng điệu | "Diciamolo con franchezza:", "Ve lo diciamo con sincerità:" | Nói thẳng sự thật: "La Baia di Ha Long può essere molto affollata." |
 | Mệnh lệnh khoa trương | Lasciatevi conquistare, immergetevi | Động từ mô tả việc làm |
 | Gạch ngang dài hoặc gạch ngắn có khoảng trắng để chen ý | Hoi An — città delle lanterne — vi aspetta | Không dùng; viết lại bằng dấu phẩy, dấu chấm hoặc ngoặc đơn |
 | Ngoặc kép bọc từ thường để nhấn mạnh | un'esperienza "vera", la nostra "famiglia" | Bỏ ngoặc; nếu từ cần ngoặc để có nghĩa, thay bằng một chi tiết cụ thể |
 | Chấm phẩy nối hai câu ngắn | Il villaggio è piccolo; la gente è accogliente. | Tách thành hai câu, hoặc nối bằng "e", "perché", "così" |
 | Nhấn mạnh tầm quan trọng hoặc tính biểu tượng | simbolo di, testimonianza di, riveste un ruolo fondamentale | Nói việc cụ thể đang diễn ra |
 | Từ và câu chuyển quen thuộc của văn AI | cruciale, fondamentale, sfruttare, va notato che, è importante sottolineare, vale la pena menzionare, nel panorama di, in un mondo in cui | Bỏ câu chuyển; dùng động từ thường |
-| Chữ đậm, viết hoa chữ đầu mỗi từ, nhãn kèm dấu hai chấm | **Il programma:**, Le Nostre Guide | Facebook không hiển thị chữ đậm; không dùng ký tự đậm giả; tên chuỗi chỉ viết hoa chữ cái đầu tiên: "Le nostre guide" |
+| Chữ đậm, viết hoa chữ đầu mỗi từ, nhãn kèm dấu hai chấm | **Il programma:**, Le Nostre Guide | Facebook không hiển thị chữ đậm; không dùng ký tự đậm giả; tên chuyên mục chỉ viết hoa chữ cái đầu tiên: "Le nostre guide" |
 | Từ nối trang trọng đầu đoạn | inoltre, dunque, infine, insomma ở mọi đoạn | Từ nối tự nhiên trong câu: perché, così, però, invece, quando |
 | Emoji trang trí ở mọi dòng | ✨🌿🏮💫 | Ít emoji, dùng như ký hiệu |
 | Câu nịnh người đọc | Voi, viaggiatori curiosi e appassionati… | Nói với người đọc như với một người bạn |
@@ -645,13 +645,13 @@ Lược âm: "un'esperienza", "un'isola" có dấu nháy vì là giống cái. "
 Chữ hoa: tháng, thứ và tính từ quốc tịch viết thường: "a marzo", "lunedì", "un gruppo di italiani". Không viết hoa toàn bộ một từ, trừ tên viết tắt như RAI, TG1, UNESCO.
 Dấu câu: không đặt khoảng trắng trước "!", "?", ":", ";". Dấu ba chấm có đúng ba chấm. Dấu chấm than dùng tiết kiệm, thường không quá một lần mỗi bài.
 Gạch dài (—) và gạch ngắn có khoảng trắng ( – ) không dùng trong bài tiếng Ý. Khoảng số viết bằng chữ: "dalle 9 alle 11", "da 2 a 12 persone", "dall'8 al 17 marzo".
-Ngoặc kép dùng " " để thống nhất với câu chuẩn RAI, chủ yếu cho hai việc: lời trích nguyên văn có người nói, và tên chương trình, tác phẩm (Speciale TG1 "Vietnam: dalle ferite alla luce"). Từ tiếng Việt và tên chuỗi bài không cần ngoặc kép.
+Ngoặc kép dùng " " để thống nhất với câu chuẩn RAI, chủ yếu cho hai việc: lời trích nguyên văn có người nói, và tên chương trình, tác phẩm (Speciale TG1 "Vietnam: dalle ferite alla luce"). Từ tiếng Việt và tên chuyên mục không cần ngoặc kép.
 Chấm phẩy gần như không cần trong bài đăng. Ưu tiên dấu chấm; chấm phẩy chỉ dùng để tách các vế dài đã có dấu phẩy bên trong.
 Số: "2.600", "3,5 km", "€1.480", "quota individuale". Ngày viết "28 dicembre 2025" hoặc "28/12/2025". Giờ viết "alle 6", "ore 9" hoặc "8:30", và giữ một kiểu trong mỗi bài.
 Địa danh: Hanoi, Hue, Hoi An, Da Nang, Ho Chi Minh City (dùng Saigon khi nói về lịch sử và văn hóa), Baia di Ha Long, Delta del Mekong, Cambogia, Laos. Trong bài tiếng Ý, địa danh, tên dân tộc và tên lễ hội không dùng dấu tiếng Việt: "il Tet". Tỉnh mới đi kèm tên vùng quen thuộc: "Ha Giang (provincia di Tuyen Quang)" (Brand Guideline 7.2).
-Tên người Việt viết đúng như trong bảng dữ kiện, giữ dấu khi bảng dữ kiện có dấu, chẳng hạn "la signora Hiền" hoặc "Ngọc". Món ăn và từ tiếng Việt được giải thích ở lần xuất hiện đầu nên giữ dấu: "bánh chưng", "phở".
+Tên người Việt viết đúng như trong bảng thông tin, giữ dấu khi bảng thông tin có dấu, chẳng hạn "la signora Hiền" hoặc "Ngọc". Món ăn và từ tiếng Việt được giải thích ở lần xuất hiện đầu nên giữ dấu: "bánh chưng", "phở".
 Emoji: ít, thường không quá hai loại mỗi bài, dùng như ký hiệu (📍 cho nơi chốn, 🗓️ cho ngày). Một ký hiệu có thể lặp ở đầu các dòng liệt kê.
-Hashtag trên Facebook: vài hashtag (Brand Guideline 8.6: 2–4), thường là #VietConeTravel, một hashtag tiếng Ý theo chủ đề như #viaggioinvietnam, và #ImmerseNotJustObserve khi bài dùng tagline. Hashtag gần như không tăng phân phối trên Facebook, nên không cần nhiều. Trên Instagram: tối đa 5 hashtag, đặt trong phần chữ. Hashtag tiếng Ý được ưu tiên hơn hashtag tiếng Anh.
+Hashtag trên Facebook: vài hashtag (Brand Guideline 8.6: 2–4), thường là #VietConeTravel, một hashtag tiếng Ý theo chủ đề như #viaggioinvietnam, và #ImmerseNotJustObserve khi bài dùng tagline. Hashtag gần như không tăng phân phối trên Facebook, nên không cần nhiều. Trên Instagram: tối đa 5 hashtag, đặt trong caption. Hashtag tiếng Ý được ưu tiên hơn hashtag tiếng Anh.
 
 ---
 
@@ -677,10 +677,10 @@ Câu mở không chào hỏi chung chung, không giấu thông tin để câu ng
 
 ### 14.3 Độ dài tham khảo
 
-| Định dạng | Phần chữ |
+| Định dạng | Caption |
 |---|---|
 | Reels, bài ảnh, bài nhiều ảnh | 30–60 từ, tối đa khoảng 80 từ khi cần một lời giải thích |
-| Carousel | 30–60 từ trong phần chữ; nội dung chính nằm trên các khung |
+| Carousel | 30–60 từ trong caption; nội dung chính nằm trên các khung |
 | Bài chữ | Dưới 30 từ cho một ý ngắn, hoặc 120–250 từ cho một câu chuyện có người thật |
 | Bài dành cho agency | 40–80 từ, nêu đủ ai, ở đâu, bao lâu, tối đa bao nhiêu khách |
 
@@ -688,16 +688,16 @@ Câu mở không chào hỏi chung chung, không giấu thông tin để câu ng
 
 ### 14.4 Câu kết, lời mời liên hệ, tagline
 
-Ý nghĩa của bài nằm ở câu mở hoặc câu kết. Phần lớn bài kết bằng một câu hỏi thật, một lời mời liên hệ, hoặc cả hai; bài trụ cột 03 có thể kết bằng một dữ kiện. Khi dùng cả hai, câu hỏi đứng trước, lời mời đứng sau và mở bằng một câu chuyển như "Se state pensando al viaggio, …".
+Ý nghĩa của bài nằm ở câu mở hoặc câu kết. Phần lớn bài kết bằng một câu hỏi thật, một lời mời liên hệ, hoặc cả hai; bài trụ cột 03 có thể kết bằng một thông tin cụ thể. Khi dùng cả hai, câu hỏi đứng trước, lời mời đứng sau và mở bằng một câu chuyển như "Se state pensando al viaggio, …".
 Một câu hỏi thật là câu người đọc có thể trả lời bằng kinh nghiệm của mình và nghe như lời trò chuyện, chẳng hạn "Chi di voi c'è già stato, che cosa consiglia?" hoặc "E nella vostra famiglia c'è un piatto che si prepara solo per le feste?". Câu hỏi kiểu phiếu khảo sát ("Quale piatto, nella vostra famiglia, si prepara…?") ít người trả lời hơn.
 Lời mời liên hệ dùng theo mục 1.3. Thường một lời mời là đủ, và cách diễn đạt thay đổi giữa các bài, chẳng hạn "Scriveteci su WhatsApp: vi rispondiamo in italiano."
-Tagline "Immerse. Not just observe." đặt ở dòng cuối, dùng cho khoảng một phần tư số bài, chủ yếu là bài kể chuyện, bài Immersion và video thương hiệu. Phiếu bài ghi rõ bài có tagline hay không để trưởng nhóm giữ tỷ lệ này. Bài thực dụng, bài dành cho agency và câu trả lời bình luận thường không cần tagline. Mỗi nội dung chỉ có tagline một lần: Reels có khung cuối chứa tagline thì phần chữ không lặp lại.
+Tagline "Immerse. Not just observe." đặt ở dòng cuối, dùng cho khoảng một phần tư số bài, chủ yếu là bài kể chuyện, bài Immersion và video thương hiệu. Brief ghi rõ bài có tagline hay không để trưởng nhóm giữ tỷ lệ này. Bài thực dụng, bài dành cho agency và câu trả lời bình luận thường không cần tagline. Mỗi nội dung chỉ có tagline một lần: Reels có khung cuối chứa tagline thì caption không lặp lại.
 
 ### 14.5 Reels và Instagram
 
 Khi làm Reels, nên có lời nói tiếng Ý ngay trong 3 giây đầu (Brand Guideline 5.6). Độ dài theo nội dung: 30–60 giây cho cảnh và hậu trường, 60–180 giây khi có người kể chuyện. Phụ đề tiếng Ý do nhóm tự gắn, chữ to, 1–2 dòng, tương phản cao.
-Phần chữ của Reels bổ sung điều video chưa nói, không chép lại lời trong video.
-Khi đăng lại sang Instagram, phần chữ rút gọn thành câu mở và 2–4 câu, kèm lời mời liên hệ và tối đa 5 hashtag. Từ khóa tìm kiếm ("Vietnam", tên nơi, tên trải nghiệm) nằm trong phần chữ. Instagram không nhận link trong phần chữ, vì vậy bài dẫn về link ở phần giới thiệu hoặc nút WhatsApp.
+Caption của Reels bổ sung điều video chưa nói, không chép lại lời trong video.
+Khi đăng lại sang Instagram, caption rút gọn thành câu mở và 2–4 câu, kèm lời mời liên hệ và tối đa 5 hashtag. Từ khóa tìm kiếm ("Vietnam", tên nơi, tên trải nghiệm) nằm trong caption. Instagram không nhận link trong caption, vì vậy bài dẫn về link ở phần giới thiệu hoặc nút WhatsApp.
 
 ---
 
@@ -727,17 +727,17 @@ Lời khách trong bài là lời thật; không dựng nhân vật khách để
 
 # PHẦN 6 · QUY TRÌNH
 
-## 17. Phiếu bài và bảng dữ kiện
+## 17. Brief và bảng thông tin
 
-### 17.1 Phiếu bài
+### 17.1 Brief
 
-Thực tập sinh nội dung điền phiếu bài trước khi viết. Ô nào chưa điền được thường là dấu hiệu bài còn thiếu chất liệu.
+Thực tập sinh nội dung điền brief trước khi viết. Ô nào chưa điền được thường là dấu hiệu bài còn thiếu chất liệu.
 
 | Mục | Nội dung |
 |---|---|
 | Mã bài và ngày đăng | Ví dụ VCT-FB-2026-12-01, kèm thứ và ngày |
 | Kênh | Facebook, hoặc Facebook và Instagram |
-| Trụ cột và chuỗi bài | 01–04 hoặc bài dành cho agency; tên chuỗi |
+| Trụ cột và chuyên mục | 01–04 hoặc bài dành cho agency; tên chuyên mục |
 | Giới hạn "Italia" | Có hoặc không (mục 4, bước chuẩn bị) |
 | Người đọc chính | Paola, Chiara hoặc Marco (mục 2.1) |
 | Nỗi lo hoặc mong muốn bài trả lời | Một dòng ở mục 2.3 |
@@ -750,15 +750,15 @@ Thực tập sinh nội dung điền phiếu bài trước khi viết. Ô nào c
 | Lời mời liên hệ | WhatsApp, Messenger hoặc link; nếu là link, ghi số bài có link trong tháng |
 | Tagline | Có hoặc không (mục 14.4); khi dán cho AI, ghi "Motto: sì" hoặc "Motto: no" |
 
-### 17.2 Bảng dữ kiện
+### 17.2 Bảng thông tin
 
-Bảng dữ kiện liệt kê mỗi dữ kiện trên một dòng, kèm link nguồn ở cột riêng. Dữ kiện do HDV hoặc host kể thì ghi nguồn là tên người cung cấp và ngày. Đây là chất liệu duy nhất để viết bài, kể cả khi viết cùng AI.
-Bảng dữ kiện nên có ít nhất một chi tiết giác quan hoặc một câu nói thật của nhân vật. Thiếu những chi tiết này, bài sẽ khô dù câu chữ đúng.
-Dữ kiện chưa xác minh được thì ghi [DA VERIFICARE]. Trước khi đăng, các ô này được thay bằng dữ kiện thật hoặc bỏ đi.
+Bảng thông tin liệt kê mỗi thông tin trên một dòng, kèm link nguồn ở cột riêng. Thông tin do HDV hoặc host kể thì ghi nguồn là tên người cung cấp và ngày. Đây là chất liệu duy nhất để viết bài, kể cả khi viết cùng AI.
+Bảng thông tin nên có ít nhất một chi tiết giác quan hoặc một câu nói thật của nhân vật. Thiếu những chi tiết này, bài sẽ khô dù câu chữ đúng.
+Thông tin chưa xác minh được thì ghi [DA VERIFICARE]. Trước khi đăng, các ô này được thay bằng thông tin thật hoặc bỏ đi.
 
 ### 17.3 Bảng quản lý nội dung
 
-Mỗi bài là một dòng trong bảng: ngày, trụ cột, chuỗi, định dạng, tagline (có/không), link bài, link phiếu bài, người duyệt tiếng Ý, đánh dấu bài thử nghiệm.
+Mỗi bài là một dòng trong bảng: ngày, trụ cột, chuyên mục, định dạng, tagline (có/không), link bài, link brief, người duyệt tiếng Ý, đánh dấu bài thử nghiệm.
 Trang "Số" của bảng lưu số hiện trạng và các con số ghi hai tuần một lần ở bước 5.
 
 ---
@@ -766,10 +766,10 @@ Trang "Số" của bảng lưu số hiện trạng và các con số ghi hai tu�
 ## 18. Viết cùng AI
 
 Nhóm dùng Claude hoặc ChatGPT để viết nháp, tự soát và chuyển bài từ tiếng Việt sang tiếng Ý. Mọi quy tắc cho công cụ AI, cách thiết lập Project và các câu lệnh mẫu nằm trong `02_AI_Style_Guide_IT.md`.
-Với bài đăng, AI chỉ tham gia bước 2 của quy trình ở mục 19.1: từ phiếu bài và bảng dữ kiện, AI viết các phương án, tự soát rồi đưa ra một bản sửa. Người duyệt tiếng Ý đọc to bản sửa, chỉnh giọng và kiểm từng dữ kiện ở bước 4. Đây là bước quan trọng nhất để bài đọc tự nhiên và đúng.
+Với bài đăng, AI chỉ tham gia bước 2 của quy trình ở mục 19.1: từ brief và bảng thông tin, AI viết các phương án, tự soát rồi đưa ra một bản sửa. Người duyệt tiếng Ý đọc to bản sửa, chỉnh giọng và kiểm từng thông tin ở bước 4. Đây là bước quan trọng nhất để bài đọc tự nhiên và đúng.
 Thực tập sinh cộng đồng có thể dùng AI để soạn nháp câu trả lời bình luận và tin nhắn theo mục 20.
 
-AI không bị Facebook phạt chỉ vì được dùng. Facebook hạ thấp nội dung không gốc và nội dung na ná nhau. Bài giữ được tính gốc khi có dữ kiện riêng của Viet Cone, người thật có tên, ảnh tự chụp và giọng của người duyệt.
+AI không bị Facebook phạt chỉ vì được dùng. Facebook hạ thấp nội dung không gốc và nội dung na ná nhau. Bài giữ được tính gốc khi có thông tin riêng của Viet Cone, người thật có tên, ảnh tự chụp và giọng của người duyệt.
 
 ---
 
@@ -779,10 +779,10 @@ AI không bị Facebook phạt chỉ vì được dùng. Facebook hạ thấp n�
 
 | Bước | Người làm | Việc |
 |---|---|---|
-| 1 | Trưởng nhóm | Chọn chủ đề theo lịch (mục 5) và chuỗi bài (mục 8.2) |
-| 2 | Thực tập sinh nội dung | Lập phiếu bài và bảng dữ kiện; viết nháp cùng AI |
+| 1 | Trưởng nhóm | Chọn chủ đề theo lịch (mục 5) và chuyên mục (mục 8.2) |
+| 2 | Thực tập sinh nội dung | Lập brief và bảng thông tin; viết nháp cùng AI |
 | 3 | Thực tập sinh hình ảnh, video | Chuẩn bị ảnh, Reels, phụ đề |
-| 4 | Người duyệt tiếng Ý | Duyệt phần chữ, phụ đề và chữ trên ảnh theo lô mỗi tuần |
+| 4 | Người duyệt tiếng Ý | Duyệt caption, phụ đề và chữ trên ảnh theo lô mỗi tuần |
 | 5 | Trưởng nhóm | Soát bảng kiểm 19.2; chuyển Advisor các bài dành cho agency và bài Partenze |
 | 6 | Thực tập sinh nội dung | Hẹn giờ trên Meta Business Suite cho Facebook và Instagram; gắn nhãn vị trí và mô tả ảnh; cập nhật bảng quản lý |
 | 7 | Thực tập sinh cộng đồng | Trả lời bình luận trong giờ đầu sau khi đăng, theo mục 20 |
@@ -790,15 +790,15 @@ AI không bị Facebook phạt chỉ vì được dùng. Facebook hạ thấp n�
 
 ### 19.2 Bảng kiểm trước khi đăng
 
-Các câu dưới đây là phép thử chất lượng. Câu nào trả lời "không" thì người viết sửa, hoặc ghi lý do vào phiếu bài khi chọn cách khác có chủ ý. Câu 4, 6 và 9 nên luôn đạt.
+Các câu dưới đây là phép thử chất lượng. Câu nào trả lời "không" thì người viết sửa, hoặc ghi lý do vào brief khi chọn cách khác có chủ ý. Câu 4, 6 và 9 nên luôn đạt.
 1. Bài có người thật, nơi cụ thể và việc cụ thể không?
 2. Bài trả lời một nỗi lo hoặc một mong muốn ở mục 2.3 không?
-3. Dữ kiện trong bài có nguồn không?
+3. Thông tin trong bài có nguồn không?
 4. Câu về RAI, Travelife và năm thành lập có đúng câu chuẩn ở bối cảnh mục 9 không?
 5. Bài có tránh được tuyên bố môi trường chung chung và lời quảng cáo không?
-6. Người duyệt tiếng Ý đã duyệt phần chữ, phụ đề và chữ trên ảnh chưa?
+6. Người duyệt tiếng Ý đã duyệt caption, phụ đề và chữ trên ảnh chưa?
 7. Ý chính và địa danh có nằm trong khoảng 90 ký tự đầu không?
-8. Bài có tránh được lời mời tương tác kiểu câu kéo và các dấu hiệu ở mục 12.5 không, và khi đọc to có nghe như một người đang kể chuyện không?
+8. Bài có tránh được câu tương tác và các dấu hiệu ở mục 12.5 không, và khi đọc to có nghe như một người đang kể chuyện không?
 9. Ảnh, video có đúng Brand Guideline không: logo từ file gốc, bản đồ Việt Nam có Hoàng Sa và Trường Sa, chữ Source Sans 3 với độ tương phản từ 4,5:1, Reels (nếu có) có phụ đề tiếng Ý?
 10. Sau khi đọc, người đọc có kể lại được cho người đi cùng một câu cụ thể về Việt Nam hay về cách Viet Cone làm việc không, và có muốn gửi bài cho họ không?
 
@@ -827,7 +827,7 @@ Với người viết "tu", câu trả lời đổi sang "tu": "Ci scrivi in pri
 
 ## 21. Tám khung bài
 
-Các khung dưới đây viết bằng tiếng Ý để người viết thấy giọng và nhịp. Phần trong [ngoặc vuông] là chỗ điền dữ kiện thật. Người viết đổi câu, đổi thứ tự và đổi cách mở tùy chất liệu; khung chỉ giữ cấu trúc và tinh thần. Hashtag được thêm khi đăng theo mục 13.
+Các khung dưới đây viết bằng tiếng Ý để người viết thấy giọng và nhịp. Phần trong [ngoặc vuông] là chỗ điền thông tin thật. Người viết đổi câu, đổi thứ tự và đổi cách mở tùy chất liệu; khung chỉ giữ cấu trúc và tinh thần. Hashtag được thêm khi đăng theo mục 13.
 
 ### 21.1 Trụ cột 01 · "Perché in Vietnam…" (carousel)
 
@@ -869,7 +869,7 @@ Trả lời nỗi lo nơi nổi tiếng quá đông, trải nghiệm dàn dựng
 >
 > Chi di voi c'è già stato, che cosa consiglia?
 
-### 21.4 Trụ cột 02 · "Lento è meglio" (bài ảnh, phần chữ là lịch theo giờ)
+### 21.4 Trụ cột 02 · "Lento è meglio" (bài ảnh, caption là lịch theo giờ)
 
 Trả lời nỗi lo lịch dày.
 
@@ -911,7 +911,7 @@ Trả lời câu hỏi HDV có thật sự nói tiếng Ý tốt không.
 >
 > [Invito, per esempio: "Se volete viaggiare con [Nome], scriveteci su WhatsApp."]
 
-### 21.7 Trụ cột 03 · Bài bảo chứng RAI (trích đoạn Rai 1 và hậu trường)
+### 21.7 Trụ cột 03 · Bài chứng minh uy tín RAI (trích đoạn Rai 1 và hậu trường)
 
 Trả lời câu hỏi Viet Cone có đáng tin không. Câu chuẩn RAI giữ nguyên văn; các câu khác tránh lặp lại chữ "troupe" và "RAI".
 
@@ -959,7 +959,7 @@ Trả lời nhu cầu của agency về sản phẩm mới có mô tả sẵn.
 | Thay đổi chỉ số năm 2026 | https://support.iconosquare.com/facebook-reach-metrics-changes-june-2026 |
 | Dịch và lồng tiếng AI của Meta | https://about.fb.com/news/2025/10/discover-reels-around-world-meta-ai-translation/ |
 | Giới hạn đối tượng bài của Page | https://developers.facebook.com/docs/pages-api/posts |
-| Độ dài phần chữ (Socialinsider 2026) | https://www.socialinsider.io/blog/social-media-caption-length-best-practices/ |
+| Độ dài caption (Socialinsider 2026) | https://www.socialinsider.io/blog/social-media-caption-length-best-practices/ |
 | Độ dài video (Socialinsider 2026) | https://www.socialinsider.io/social-media-benchmarks/social-media-video-statistics |
 | Lời nói trong 3 giây đầu (Emplifi 2026) | https://emplifi.io/resources/facebook-reels-data/ |
 | Trả lời bình luận (Buffer 2026) | https://buffer.com/resources/replying-to-your-comments-on-facebook-boosts-engagement/ |

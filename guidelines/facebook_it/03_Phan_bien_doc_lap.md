@@ -17,8 +17,8 @@ Bên dưới mỗi nhận xét là phản hồi: bản hiện tại của `01_Fa
 
 1. Chẩn đoán trung thực: tách điều Meta công bố với điều suy luận, và kiểm chứng bằng số liệu ở bước chuẩn bị.
 2. Ưu tiên giữ uy tín với đối tác và lời mời liên hệ hai lối bảo vệ kênh B2B, tức khoảng một nửa doanh thu.
-3. Chuỗi "Domande vere", "Le nostre guide", "Diario di sopralluogo" đúng tâm lý khách Ý 60+: tin người dám nói thật, nhớ HDV bằng tên.
-4. Quy trình AI chặt: AI chỉ viết từ bảng dữ kiện và luôn có người duyệt tiếng Ý.
+3. Các chuyên mục "Domande vere", "Le nostre guide", "Diario di sopralluogo" đúng tâm lý khách Ý 60+: tin người dám nói thật, nhớ HDV bằng tên.
+4. Quy trình AI chặt: AI chỉ viết từ bảng thông tin và luôn có người duyệt tiếng Ý.
 5. Bảng quyết định ở bước 5 cho phép bỏ chiến thuật yếu mà không cần KPI.
 
 ## 3. Điểm yếu, rủi ro và phản hồi
@@ -33,7 +33,7 @@ Bên dưới mỗi nhận xét là phản hồi: bản hiện tại của `01_Fa
 | 6 | Hiện diện trong nhóm Facebook khó làm với thực tập sinh không nói tiếng Ý; nhiều nhóm cấm nhà cung cấp | Ít nhóm; một người nói tiếng Ý tốt phụ trách; thực tập sinh soạn nháp; đổi nhóm sau khoảng một tháng nếu không có trao đổi thật (mục 4 bước 2) | Đã sửa |
 | 7 | Collab Reels với đối tác có thể đi ngược mong muốn giữ kín DMC của nhiều tour operator | Chỉ làm khi đối tác chủ động muốn đồng thương hiệu; không gắn lời mời liên hệ của Viet Cone (mục 4 bước 2) | Đã sửa |
 | 8 | Lời mời liên hệ qua WhatsApp và điều 47 chưa nhất quán; Partenze có giá công khai đã là bán gói trực tiếp | Vấn đề pháp lý nằm ngoài guideline Facebook; Advisor xử lý riêng (bối cảnh mục 10) | Ngoài phạm vi |
-| 9 | Thiếu Instagram, LinkedIn, email; bình luận buổi tối giờ Ý bị bỏ trống tới sáng | Instagram: đăng lại Reels và bài nhiều ảnh, phần chữ ngắn, tối đa 5 hashtag (mục 4 bước 3, mục 14.5). Khung gợi ý là buổi sáng giữa tuần giờ Ý (chiều giờ Việt Nam) để đội trả lời trong giờ đầu, trong giờ làm việc; khung trưa giờ Ý đáng thử khi có người trực. LinkedIn, email: ngoài phạm vi | Sửa một phần |
+| 9 | Thiếu Instagram, LinkedIn, email; bình luận buổi tối giờ Ý bị bỏ trống tới sáng | Instagram: đăng lại Reels và bài nhiều ảnh, caption ngắn, tối đa 5 hashtag (mục 4 bước 3, mục 14.5). Khung gợi ý là buổi sáng giữa tuần giờ Ý (chiều giờ Việt Nam) để đội trả lời trong giờ đầu, trong giờ làm việc; khung trưa giờ Ý đáng thử khi có người trực. LinkedIn, email: ngoài phạm vi | Sửa một phần |
 | 10 | Tài liệu quá dài cho thực tập sinh | Gộp kế hoạch và guideline vào file 01, tách riêng hướng dẫn cho AI ở file 02; thêm phần Tóm tắt và bảng kiểm 10 câu (mục 19.2) | Đã sửa |
 
 ## 4. Những gì người phản biện đề nghị bỏ hoặc làm nhẹ
@@ -78,9 +78,9 @@ Một lượt soát độc lập khác đối chiếu bản nháp với `VCT_Mar
 - Thứ tự duyệt thống nhất: người duyệt tiếng Ý trước, trưởng nhóm soát bảng kiểm sau; Advisor duyệt bài dành cho agency và bài Partenze (mục 19.1).
 - Bảng kiểm thêm điểm cố định của Brand Guideline 0.3: logo từ file gốc, bản đồ có Hoàng Sa, Trường Sa, font Source Sans 3, tương phản từ 4,5:1 (mục 19.2).
 - "Domande vere" chuyển sang trụ cột 04, theo Brand Strategy 4.8 ("câu hỏi khách thường đặt ra").
-- Lịch cân lại về trụ cột 01, 02; chuỗi "Vietnam e oltre" (Combinati) đăng khi có chất liệu.
-- Tagline một lần mỗi nội dung: Reels có khung cuối tagline thì phần chữ không lặp.
-- Bỏ lời mời gắn thẻ bạn bè (dễ bị coi là mời tương tác kiểu câu kéo); link RaiPlay, landing đặt ở bình luận đầu.
+- Lịch cân lại về trụ cột 01, 02; chuyên mục "Vietnam e oltre" (Combinati) đăng khi có chất liệu.
+- Tagline một lần mỗi nội dung: Reels có khung cuối tagline thì caption không lặp.
+- Bỏ lời mời gắn thẻ bạn bè (dễ bị coi là câu tương tác); link RaiPlay, landing đặt ở bình luận đầu.
 - Số WhatsApp theo vai trò: số chung cho khách du lịch, số dành cho agency trong bài dành cho agency.
 - Câu chuẩn RAI và câu an tâm dùng nguyên văn bối cảnh mục 9; ưu tiên dòng chữ Travelife trên Page.
 - Tiếng Ý: câu trả lời bình luận theo "Lei"/"tu", mặc định "Lei"; địa danh, tên dân tộc và tên lễ hội không dấu trong bài tiếng Ý.
@@ -90,6 +90,6 @@ Một lượt soát độc lập khác đối chiếu bản nháp với `VCT_Mar
 ## 8. Thử nghiệm bài do AI viết
 
 Bốn bài được AI viết theo file 02, sau đó một biên tập viên tiếng Ý độc lập chấm theo ba tiêu chí: tự nhiên như người bản ngữ, hấp dẫn mà chuyên nghiệp, không có dấu hiệu AI. Điểm đạt 6–7/10 ở cả ba tiêu chí.
-Các bài đúng dữ kiện và không có sáo ngữ, nhưng đọc như phiếu thông tin. Nguyên nhân là bộ quy tắc ban đầu đẩy AI về văn cứng: câu cụt, dấu hai chấm dùng như nhãn, thiếu mạo từ và từ nối, và câu dàn dựng kiểu "Diciamolo con franchezza".
-Cách xử lý đã đưa vào file 01 (mục 9.3, 11.1, 12.1, 12.5, 14.3, 14.4, 17.2, 19.2) và file 02 (mục B2, B4.1, B5.2, B6, B9): đoạn 2–3 câu nối bằng từ nối tự nhiên; hạn chế dấu hai chấm dùng như nhãn; câu đủ mạo từ và động từ; sự thẳng thắn thể hiện qua dữ kiện; giải thích từ tiếng Việt ở lần đầu; câu hỏi cuối như lời trò chuyện; người viết đứng ở vị trí người Việt nói với người Ý; bước đọc to trước khi đăng.
-Điểm mà quy tắc không sửa được: bài thiếu chi tiết thật thì khô. Bảng dữ kiện cần có ít nhất một chi tiết giác quan hoặc một câu nói thật của nhân vật (file 01, mục 17.2).
+Các bài đúng thông tin và không có sáo ngữ, nhưng đọc như phiếu thông tin. Nguyên nhân là bộ quy tắc ban đầu đẩy AI về văn cứng: câu cụt, dấu hai chấm dùng như nhãn, thiếu mạo từ và từ nối, và câu dàn dựng kiểu "Diciamolo con franchezza".
+Cách xử lý đã đưa vào file 01 (mục 9.3, 11.1, 12.1, 12.5, 14.3, 14.4, 17.2, 19.2) và file 02 (mục B2, B4.1, B5.2, B6, B9): đoạn 2–3 câu nối bằng từ nối tự nhiên; hạn chế dấu hai chấm dùng như nhãn; câu đủ mạo từ và động từ; sự thẳng thắn thể hiện qua thông tin; giải thích từ tiếng Việt ở lần đầu; câu hỏi cuối như lời trò chuyện; người viết đứng ở vị trí người Việt nói với người Ý; bước đọc to trước khi đăng.
+Điểm mà quy tắc không sửa được: bài thiếu chi tiết thật thì khô. Bảng thông tin cần có ít nhất một chi tiết giác quan hoặc một câu nói thật của nhân vật (file 01, mục 17.2).

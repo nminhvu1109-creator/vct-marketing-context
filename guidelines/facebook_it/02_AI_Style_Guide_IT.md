@@ -3,7 +3,7 @@
 Viet Cone Travel · Bản 1.0 · 25/11/2026 · Tài liệu nội bộ
 
 Tài liệu gồm hai phần. Phần A, viết bằng tiếng Việt, hướng dẫn nhóm thiết lập và dùng công cụ AI. Phần B, viết bằng tiếng Ý, là hướng dẫn văn phong để nạp vào công cụ AI. Phần B được viết bằng tiếng Ý vì công cụ AI viết đầu ra gần với ngôn ngữ và giọng của chỉ dẫn mà nó nhận được.
-Phần B là bản tiếng Ý, tự đủ cho công cụ AI, của các quy tắc trong `01_Facebook_Guideline_IT.md`: mục 1.3 (giữ uy tín với agency), 2.1 và 2.3 (người đọc), 3.2 (cách viết bị hạ thấp), 9.3 (chứng minh khác biệt), Phần 4 (văn phong), 17.2 (bảng dữ kiện) và 20 (bình luận, tin nhắn). Khi hai tài liệu khác nhau, file 01 được ưu tiên. Mỗi lần sửa các mục này ở file 01, trưởng nhóm cập nhật Phần B cùng lúc.
+Phần B là bản tiếng Ý, tự đủ cho công cụ AI, của các quy tắc trong `01_Facebook_Guideline_IT.md`: mục 1.3 (giữ uy tín với agency), 2.1 và 2.3 (người đọc), 3.2 (cách viết bị hạ thấp), 9.3 (chứng minh khác biệt), Phần 4 (văn phong), 17.2 (bảng thông tin) và 20 (bình luận, tin nhắn). Khi hai tài liệu khác nhau, file 01 được ưu tiên. Mỗi lần sửa các mục này ở file 01, trưởng nhóm cập nhật Phần B cùng lúc.
 
 ---
 
@@ -30,14 +30,14 @@ Công cụ AI thay đổi nhanh, nên trưởng nhóm thỉnh thoảng kiểm tr
 ## A2. Dùng AI trong quy trình
 
 Với bài đăng, AI chỉ tham gia bước 2 của quy trình duyệt ở file 01, mục 19.1.
-1. Thực tập sinh nội dung dán phiếu bài và bảng dữ kiện (file 01, mục 17) vào Project theo mẫu câu lệnh ở mục A3. Ô tagline ghi "Motto: sì" hoặc "Motto: no".
+1. Thực tập sinh nội dung dán brief và bảng thông tin (file 01, mục 17) vào Project theo mẫu câu lệnh ở mục A3. Ô tagline ghi "Motto: sì" hoặc "Motto: no".
 2. AI trả về các phương án, bảng tự soát và một bản sửa theo mục B9.
-3. Thực tập sinh bỏ các phương án không dùng, giữ bản sửa và danh sách [DA VERIFICARE], rồi chuyển cho người duyệt tiếng Ý. Câu lệnh đã dùng có thể dán vào phiếu bài để lần sau dùng lại.
+3. Thực tập sinh bỏ các phương án không dùng, giữ bản sửa và danh sách [DA VERIFICARE], rồi chuyển cho người duyệt tiếng Ý. Câu lệnh đã dùng có thể dán vào brief để lần sau dùng lại.
 
-Người duyệt tiếng Ý đọc to bản sửa, sửa giọng và kiểm từng dữ kiện. Đây là bước quan trọng nhất để bài đọc tự nhiên và đúng.
+Người duyệt tiếng Ý đọc to bản sửa, sửa giọng và kiểm từng thông tin. Đây là bước quan trọng nhất để bài đọc tự nhiên và đúng.
 Thực tập sinh cộng đồng dùng hai câu lệnh cuối ở mục A3 để soạn nháp câu trả lời bình luận và tin nhắn; câu trả lời được đăng theo file 01, mục 20.
 Nhóm không dùng AI để tạo ảnh hoặc video giống thật về nơi thật, người thật (file 01, mục 15).
-Bài AI viết khô thường do bảng dữ kiện thiếu chi tiết. Khi đó, nhóm bổ sung chi tiết thật từ HDV hoặc host, thay vì yêu cầu AI viết "ấm hơn".
+Bài AI viết khô thường do bảng thông tin thiếu chi tiết. Khi đó, nhóm bổ sung chi tiết thật từ HDV hoặc host, thay vì yêu cầu AI viết "ấm hơn".
 
 ## A3. Câu lệnh mẫu
 
@@ -45,11 +45,11 @@ Viết bài mới:
 
 ```
 <scheda>
-[dán phiếu bài]
+[dán brief]
 </scheda>
 
 <fatti>
-[dán bảng dữ kiện, mỗi dòng một dữ kiện]
+[dán bảng thông tin, mỗi dòng một thông tin]
 </fatti>
 
 Scrivi il post seguendo la guida di stile. Se la scheda non è chiara, fammi prima al massimo tre domande.
@@ -75,7 +75,7 @@ Soát một bản nháp đã có:
 </bozza>
 
 <fatti>
-[bảng dữ kiện]
+[bảng thông tin]
 </fatti>
 
 Controlla la bozza con la tabella di controllo della sezione B9. Restituisci la tabella dei problemi e poi la versione corretta.
