@@ -153,6 +153,34 @@ Một số trang chính thức (Meta Transparency Center, Censis, AGCOM, OpenAI,
 - [XM] Nhãn AI làm giảm tương tác, nhất là với nội dung cảm xúc (CBS).
 - [XM] Người đọc chỉ đoán đúng văn AI khoảng một nửa số lần (Focus.it).
 
+## 6. Bổ sung 27/11/2026
+
+### 6.1 Facebook và Instagram
+
+- [XM] System card Feed (cập nhật 6/10/2026): tín hiệu gồm thời gian dừng trên bài, số bình luận, độ dài trung bình của bình luận, mức bình luận liên quan chủ đề bài, quan hệ giữa người xem và tác giả.
+- [XM] System card đề xuất (24/6/2026): với người chưa theo dõi, hệ thống dự đoán thời gian xem, chia sẻ, chia sẻ riêng tư, like, bấm xem thêm, chụp màn hình, bấm ẩn.
+- [XM] Widely Viewed Content Report quý 1/2026 (Mỹ): 39,0% lượt xem Feed là nội dung đề xuất từ nguồn chưa kết nối; bạn bè 19,1%; nguồn đã theo dõi 14,7%; nhóm 14,3%; 98,7% lượt xem là bài không có link ngoài.
+- [XM] Danh sách nội dung bị hạ phân phối (cập nhật 2/7/2025) còn 4 loại: link clickbait, engagement bait, thông tin sai đã kiểm chứng, nội dung có khả năng vi phạm tiêu chuẩn cộng đồng.
+- [XM] Socialinsider (cập nhật 4/11/2026), Page 1.000–5.000 người theo dõi, trung bình mỗi bài năm 2025: album 85 lượt xem, bài chữ 60, ảnh 60, link 20, Reels 10.
+- [XM] Socialinsider (38 triệu bài, 1–9/2026): bài chữ tốt nhất dưới 30 từ; album 30–60 từ; trên 90 từ yếu nhất với ảnh, album, link.
+- [XM] Buffer (3/2026): tương tác theo định dạng trên Facebook chênh nhau ít (ảnh 5,20%, video 4,84%, chữ 4,76%, link 4,43%, tính trên lượt tiếp cận).
+- [XM] Buffer (1/2025): tài khoản đăng đều ít nhất hằng tuần có tương tác mỗi bài cao hơn rõ so với tài khoản đăng thất thường.
+- [XM] System card Feed Instagram (29/6/2026): carousel có dự đoán riêng về việc vuốt hết các khung; tín hiệu chung gồm like, bình luận, gửi qua tin nhắn, vào xem hồ sơ.
+- [XM] Instagram hỗ trợ ảnh 3:4 từ 5/2025; 4:5 vẫn hợp lệ.
+- [THIẾU] Chưa có văn bản Meta xác nhận link ở bình luận đầu được phân phối tốt hơn link trong caption.
+- [THIẾU] Chưa xác nhận tính năng giới hạn bài theo quốc gia còn trong trình soạn bài.
+
+### 6.2 Người Ý và chuyến đi đường dài
+
+- [XM] Censis 2026, nhóm 45–64 tuổi: Facebook 73,3%, WhatsApp 88,3%; 21,1% từng tham gia cộng đồng trực tuyến, cao nhất các nhóm tuổi.
+- [XM] ASTOI (12/2025): hơn 70% đơn mùa đông đặt trước 60–90 ngày. ASTOI (7/2026): hè 2026 đặt sát ngày hơn do bất định.
+- [XM] YouGov (3/2026): người chọn tour có tổ chức muốn lịch trình sẵn 46%, hướng dẫn viên giỏi 38%, an toàn 34%.
+- [XM] Lịch 2027: Pasqua 28/3; 25/4 Chủ nhật; 1/5 thứ Bảy; 2/6 thứ Tư; Ferragosto Chủ nhật; Ognissanti thứ Hai; Immacolata thứ Tư.
+- [XM] Ý đứng đầu EU về lúa, hơn một nửa sản lượng; Pavia, Vercelli, Novara chiếm khoảng 90% diện tích cả nước.
+- [XM] Piaggio có nhà máy tại Việt Nam từ 2009, sản xuất Vespa.
+- [XM] Gambero Rosso so cà phê trứng Hà Nội với zabaione.
+- [XM] Ngày 8/12 là ngày phổ biến nhất để dựng cây thông ở Ý; dịp 1–2/11 người Ý viếng mộ.
+
 ## Hàm ý cho Viet Cone
 
 - Page là nơi kiểm chứng và nơi khách cũ tìm bài để gửi người quen; WhatsApp là nơi chốt.
@@ -163,6 +191,32 @@ Một số trang chính thức (Meta Transparency Center, Censis, AGCOM, OpenAI,
 - Chỉ dùng ảnh thật; AI chỉ hỗ trợ viết, có người duyệt tiếng Ý chịu trách nhiệm.
 
 ## Nguồn
+
+### Bổ sung 27/11/2026
+
+| Nội dung | Link |
+|---|---|
+| System card Feed | https://transparency.meta.com/features/explaining-ranking/fb-feed/ |
+| System card đề xuất | https://transparency.meta.com/features/explaining-ranking/fb-feed-recommendations/ |
+| Widely Viewed Content Report | https://transparency.meta.com/reports/widely-viewed-content-report/ |
+| Nội dung bị hạ phân phối | https://transparency.meta.com/features/approach-to-ranking/types-of-content-we-demote/ |
+| Socialinsider, benchmark Facebook | https://www.socialinsider.io/social-media-benchmarks/facebook |
+| Socialinsider, độ dài caption | https://www.socialinsider.io/blog/social-media-caption-length-best-practices/ |
+| Buffer, tương tác 2026 | https://buffer.com/resources/state-of-social-media-engagement-2026/ |
+| Buffer, đăng đều | https://buffer.com/resources/consistent-posting-study/ |
+| System card Feed Instagram | https://transparency.meta.com/features/explaining-ranking/ig-feed/ |
+| Instagram 3:4 | https://petapixel.com/2025/05/29/instagram-finally-adds-support-for-34-aspect-ratio-photos |
+| Link ở bình luận | https://www.socialmediatoday.com/news/facebook-advice-suggests-adding-links-in-comments-not-post-caption/750754/ |
+| Censis 2026 | https://www.censis.it/wp-content/uploads/2026/04/Sintesi-Rap-Com-2026.pdf |
+| ASTOI mùa đông 2025/26 | https://www.italpress.com/?p=618974 |
+| ASTOI hè 2026 | https://www.qualitytravel.it/vacanze-estate-2026-gli-italiani-tornano-a-prenotare-ma-sempre-piu-last-minute-ecco-dove/190919 |
+| YouGov, tour nhóm | https://yougov.com/it-it/articoli/54442-viaggi-di-gruppo-in-italia-un-mercato-in-crescita |
+| Lịch nghỉ 2027 | https://quifinanza.it/lavoro/ponti-festivita-calendario-ferie-2027/1023603/ |
+| Lúa Ý | https://en.ilsole24ore.com/art/rice-harvest-starts-italy-is-the-largest-rice-field-in-europe-increase-cultivated-land-AHHNigjC |
+| Piaggio Việt Nam | https://vir.com.vn/piaggio-vietnam-celebrates-milestone-of-two-million-vehicles-produced-at-phu-tho-factory-142475.html |
+| Cà phê trứng và zabaione | https://www.gamberorosso.it/notizie/rubriche/storie/egg-coffee-cappuccino-vietnamita-zabaione/ |
+| Cây thông 8/12 | https://tg24.sky.it/lifestyle/2025/11/29/albero-di-natale-quando-si-fa |
+| Ngày 2/11 | https://www.avvenire.it/famiglia/mazzolini-di-ricordi_114640 |
 
 ### Facebook, Instagram
 

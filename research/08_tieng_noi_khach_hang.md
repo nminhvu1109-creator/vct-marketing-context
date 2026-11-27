@@ -3,7 +3,7 @@
 Tổng hợp 25/11/2026 từ 24 file trên Drive công ty và Drive marketing: phản hồi sau chuyến, đánh giá Evaneos, tài liệu đào tạo sales, kịch bản tư vấn, các buổi rà soát lịch trình với Evaneos.
 Không ghi tên, email, số điện thoại của khách; trích dẫn giữ nguyên tiếng Ý.
 Mức xuất hiện: ●●● từ 4 nguồn trở lên · ●● 2–3 nguồn · ● 1 nguồn.
-Cách dùng cho nội dung: `guidelines/facebook_it/01_Facebook_Guideline_IT.md` mục 2.3.
+Cách dùng cho nội dung: `guidelines/facebook_it/01_Facebook_Guideline_IT.md` mục 3.3.
 
 ## 1. Nỗi lo trước khi đặt
 

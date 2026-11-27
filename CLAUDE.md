@@ -8,7 +8,7 @@
   - `assets/`: logo SVG, favicon, fonts, `brand-tokens.css`, Travelife badge; see `assets/README.md`.
   - `research/`: internal evidence (02 websites, 03 company Drive, 04 marketing Drive, 05 TTG 2026, 06 target customers, 07 RAI 1, 08 voice of customer, 09 Italian Facebook groups).
   - `reports/`: Italian market and travellers, competitors, English/French markets, social media/Italian readers/AI 2026, sources.
-  - `guidelines/facebook_it/`: Italian Facebook/Instagram plan and writing guide (01), AI style guide (02), independent critique (03); `guidelines/README.md` indexes channels and naming.
+  - `guidelines/facebook_it/`: Italian Facebook/Instagram guideline (01; HTML and DOCX built from it with `scripts/build_guideline.py`), AI style guide (02), independent critique (03); `guidelines/README.md` indexes channels and naming.
   - `scripts/export_logo_assets.py`: logo PNG/PDF export; outputs gitignored.
 - Write rules as priorities ("ưu tiên X hơn Y"), not bans; keep content flexible.
 - Context stays lean: customer/market data yes; minimal internal company figures.

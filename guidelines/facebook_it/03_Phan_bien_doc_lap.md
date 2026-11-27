@@ -2,7 +2,7 @@
 
 Viet Cone Travel · 25/11/2026 · Tài liệu nội bộ
 Người phản biện: chuyên gia marketing du lịch thị trường Ý (vai độc lập, không tham gia soạn guideline), đọc bản nháp đầu tiên của guideline.
-Bên dưới mỗi nhận xét là phản hồi: bản hiện tại của `01_Facebook_Guideline_IT.md` (gọi tắt là file 01) và `02_AI_Style_Guide_IT.md` (file 02) xử lý thế nào. Số mục dẫn theo bản hiện tại. Bản hiện tại là tài liệu hướng dẫn cách làm, không đặt hạn và ngày cụ thể; các vấn đề pháp lý, giá và sự đồng ý nằm ngoài guideline này.
+Bên dưới mỗi nhận xét là phản hồi: bản 2.0 (25/11/2026) của `01_Facebook_Guideline_IT.md` (gọi tắt là file 01) và `02_AI_Style_Guide_IT.md` (file 02) xử lý thế nào. Số mục ở các mục 1–8 dẫn theo bản 2.0. Bản 3.0 (27/11/2026) đã sắp xếp lại số mục; lần rà soát đó được ghi ở mục 9.
 
 ---
 
@@ -93,3 +93,26 @@ Bốn bài được AI viết theo file 02, sau đó một biên tập viên ti�
 Các bài đúng thông tin và không có sáo ngữ, nhưng đọc như phiếu thông tin. Nguyên nhân là bộ quy tắc ban đầu đẩy AI về văn cứng: câu cụt, dấu hai chấm dùng như nhãn, thiếu mạo từ và từ nối, và câu dàn dựng kiểu "Diciamolo con franchezza".
 Cách xử lý đã đưa vào file 01 (mục 9.3, 11.1, 12.1, 12.5, 14.3, 14.4, 17.2, 19.2) và file 02 (mục B2, B4.1, B5.2, B6, B9): đoạn 2–3 câu nối bằng từ nối tự nhiên; hạn chế dấu hai chấm dùng như nhãn; câu đủ mạo từ và động từ; sự thẳng thắn thể hiện qua thông tin; giải thích từ tiếng Việt ở lần đầu; câu hỏi cuối như lời trò chuyện; người viết đứng ở vị trí người Việt nói với người Ý; bước đọc to trước khi đăng.
 Điểm mà quy tắc không sửa được: bài thiếu chi tiết thật thì khô. Bảng thông tin cần có ít nhất một chi tiết giác quan hoặc một câu nói thật của nhân vật (file 01, mục 17.2).
+
+## 9. Rà soát bản 3.0 (27/11/2026)
+
+Lượt rà soát từ góc nhìn người làm marketing du lịch tại Ý, theo yêu cầu: tài liệu dành cho bộ phận marketing, ưu tiên bài viết, dùng lâu dài, không KPI, không nội dung pháp lý, không chép lại nghiên cứu.
+
+| Nhận xét về bản 2.0 | Cách bản 3.0 xử lý |
+|---|---|
+| Dài, lẫn số liệu nghiên cứu và phụ lục nguồn vào hướng dẫn | Rút còn khoảng một nửa; chỉ giữ kết luận; số liệu và nguồn ở `research/`, `reports/` |
+| Gắn với giai đoạn 12/2026–3/2027 và các mốc ngày của Facebook | Bỏ giai đoạn; mục 4.1 nêu năm nguyên tắc ít thay đổi, mục 4.4 liệt kê điểm cần kiểm tra định kỳ; lịch năm theo nhịp của người Ý (mục 7.3) |
+| Coi Reels là lối chính đến người Ý mới | Số liệu 2026 cho Page 1.000–5.000 người theo dõi: album được xem nhiều nhất, Reels ít nhất. Album, carousel, bài ảnh, bài chữ ngắn là chính; Reels khi làm được (mục 8) |
+| Bài chữ 120–250 từ | Caption trên 90 từ là nhóm yếu nhất; bài chữ dưới 30 từ, chuyện dài chuyển thành carousel hoặc album (mục 11.3) |
+| Người đọc dồn vào nhóm từ 60 tuổi | Mở xuống khoảng 40 tuổi: chân dung Chiara 45 tuổi đi cùng chồng và con, chuyên mục "In famiglia", ý tưởng viaggi di nozze, Instagram được chỉnh riêng (mục 3.1, 5.2, 7.1, 8.4) |
+| Bốn con số ghi hai tuần một lần, báo cáo tháng | Thay bằng buổi nhìn lại hằng tháng với sáu câu hỏi, không chỉ tiêu (mục 17) |
+| Phân vai theo Advisor, trưởng nhóm, ba thực tập sinh | Quy trình bảy bước theo vai việc; một người có thể giữ nhiều vai, trừ viết và duyệt tiếng Ý (mục 16) |
+| Brief 14 ô, mã bài, tỷ lệ tagline một phần tư, tỷ trọng trụ cột theo phần trăm | Brief 9 ô; tagline dùng khi hợp; trụ cột cân theo tháng, không theo phần trăm |
+| Giới hạn bài theo vị trí "Italia" | Bỏ, vì chưa xác nhận được tính năng còn trong trình soạn bài |
+| Nói thật về điểm đông khách có thể làm khó agency đang bán điểm đó | Bài đưa ra cách đi tốt hơn thay vì khuyên bỏ điểm đến (mục 2, khung 18.9) |
+| Thuật ngữ dịch chưa quen với người làm nghề | Dùng hook, CTA, checklist, album; giữ tiếng Việt cho hành vi người dùng (bình luận, lượt lưu, người theo dõi); bảng thuật ngữ ở mục 1.3 |
+
+Giới hạn còn lại:
+- Organic không quảng cáo có trần thấp khi tiếp cận người Ý chưa biết Viet Cone. Bản 3.0 giữ định vị Page là nơi kiểm chứng; tiếp cận người mới dựa vào khách cũ, agency và nhóm Facebook (mục 14).
+- Chưa quan sát trực tiếp được bài đăng của đối thủ và đối tác, vì Facebook chặn truy cập không đăng nhập. Nên có một người đăng nhập xem khoảng 10 bài gần nhất của Kel 12, Viaggi Solidali, Asiatica Travel Italiano và Asia Viva Travel Italiano, rồi ghi vào `research/09_nhom_facebook_y.md`.
+- Người duyệt tiếng Ý vẫn là điều kiện để đăng đều.

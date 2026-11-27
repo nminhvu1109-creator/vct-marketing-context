@@ -1,9 +1,9 @@
 # AI Style Guide · Facebook tiếng Ý
 
-Viet Cone Travel · Bản 1.0 · 25/11/2026 · Tài liệu nội bộ
+Viet Cone Travel · Bản 1.1 · 27/11/2026 · Tài liệu nội bộ
 
 Tài liệu gồm hai phần. Phần A, viết bằng tiếng Việt, hướng dẫn nhóm thiết lập và dùng công cụ AI. Phần B, viết bằng tiếng Ý, là hướng dẫn văn phong để nạp vào công cụ AI. Phần B được viết bằng tiếng Ý vì công cụ AI viết đầu ra gần với ngôn ngữ và giọng của chỉ dẫn mà nó nhận được.
-Phần B là bản tiếng Ý, tự đủ cho công cụ AI, của các quy tắc trong `01_Facebook_Guideline_IT.md`: mục 1.3 (giữ uy tín với agency), 2.1 và 2.3 (người đọc), 3.2 (cách viết bị hạ thấp), 9.3 (chứng minh khác biệt), Phần 4 (văn phong), 17.2 (bảng thông tin) và 20 (bình luận, tin nhắn). Khi hai tài liệu khác nhau, file 01 được ưu tiên. Mỗi lần sửa các mục này ở file 01, trưởng nhóm cập nhật Phần B cùng lúc.
+Phần B là bản tiếng Ý, tự đủ cho công cụ AI, của các quy tắc trong `01_Facebook_Guideline_IT.md`: mục 2 (giữ uy tín với agency), 3.1 và 3.3 (người đọc), 4.2 (điều nên làm và cần tránh), 6 (chứng minh khác biệt), Phần 3 (cách viết), 16.2 (bảng thông tin) và 15 (bình luận, tin nhắn). Khi hai tài liệu khác nhau, file 01 được ưu tiên. Mỗi lần sửa các mục này ở file 01, người phụ trách nội dung cập nhật Phần B cùng lúc.
 
 ---
 
@@ -14,7 +14,7 @@ Phần B là bản tiếng Ý, tự đủ cho công cụ AI, của các quy tắ
 Nhóm tạo một Project tên "VCT – Facebook IT" trên Claude (Projects) hoặc ChatGPT (Projects).
 Tài liệu nạp vào Project gồm toàn bộ Phần B của file này và danh sách sản phẩm ở mục 5 của `VCT_Marketing_Context.md`, bỏ các dòng giá.
 Phần B đã có đủ câu chuẩn, nên không nạp thêm các mục khác của bối cảnh.
-Bài mẫu: đến khi có 3 bài đã đăng đạt kết quả tốt và được người duyệt tiếng Ý chấp nhận, AI dùng các ví dụ ở mục B10, và thực tập sinh dán khung bài tương ứng ở file 01, mục 21, vào câu lệnh. Sau đó, nạp thêm 3–5 bài đạt vào Project.
+Bài mẫu: đến khi có 3 bài đã đăng đạt kết quả tốt và được người duyệt tiếng Ý chấp nhận, AI dùng các ví dụ ở mục B10, và người viết dán khung bài tương ứng ở file 01, mục 18, vào câu lệnh. Sau đó, nạp thêm 3–5 bài đạt vào Project.
 Phần chỉ dẫn (instructions) của Project dán nguyên đoạn sau:
 
 ```
@@ -25,18 +25,18 @@ Per i post nuovi usa il formato della sezione B9. Per revisioni, traduzioni e ri
 
 Trên Claude, nhóm có thể tạo thêm một Style từ các bài mẫu để giữ giọng ổn định. Với gói Team hoặc Enterprise, Project được chia sẻ cho cả nhóm.
 Trên ChatGPT, phần chỉ dẫn của Project ghi đè chỉ dẫn chung của tài khoản. Custom GPT ngừng hoạt động từ 11/12/2026, vì vậy nhóm không xây quy trình trên GPT.
-Công cụ AI thay đổi nhanh, nên trưởng nhóm thỉnh thoảng kiểm tra lại các tính năng này.
+Công cụ AI thay đổi nhanh, nên người phụ trách nội dung thỉnh thoảng kiểm tra lại các tính năng này.
 
 ## A2. Dùng AI trong quy trình
 
-Với bài đăng, AI chỉ tham gia bước 2 của quy trình duyệt ở file 01, mục 19.1.
-1. Thực tập sinh nội dung dán brief và bảng thông tin (file 01, mục 17) vào Project theo mẫu câu lệnh ở mục A3. Ô tagline ghi "Motto: sì" hoặc "Motto: no".
+Với bài đăng, AI chỉ tham gia bước viết nháp (bước 3) của quy trình ở file 01, mục 16.
+1. Người viết dán brief và bảng thông tin (file 01, mục 16.1 và 16.2) vào Project theo mẫu câu lệnh ở mục A3. Ô tagline ghi "Motto: sì" hoặc "Motto: no".
 2. AI trả về các phương án, bảng tự soát và một bản sửa theo mục B9.
-3. Thực tập sinh bỏ các phương án không dùng, giữ bản sửa và danh sách [DA VERIFICARE], rồi chuyển cho người duyệt tiếng Ý. Câu lệnh đã dùng có thể dán vào brief để lần sau dùng lại.
+3. Người viết bỏ các phương án không dùng, giữ bản sửa và danh sách [DA VERIFICARE], rồi chuyển cho người duyệt tiếng Ý. Câu lệnh đã dùng có thể dán vào brief để lần sau dùng lại.
 
 Người duyệt tiếng Ý đọc to bản sửa, sửa giọng và kiểm từng thông tin. Đây là bước quan trọng nhất để bài đọc tự nhiên và đúng.
-Thực tập sinh cộng đồng dùng hai câu lệnh cuối ở mục A3 để soạn nháp câu trả lời bình luận và tin nhắn; câu trả lời được đăng theo file 01, mục 20.
-Nhóm không dùng AI để tạo ảnh hoặc video giống thật về nơi thật, người thật (file 01, mục 15).
+Người trả lời bình luận dùng hai câu lệnh cuối ở mục A3 để soạn nháp câu trả lời bình luận và tin nhắn; câu trả lời được đăng theo file 01, mục 15.
+Nhóm không dùng AI để tạo ảnh hoặc video giống thật về nơi thật, người thật (file 01, mục 13).
 Bài AI viết khô thường do bảng thông tin thiếu chi tiết. Khi đó, nhóm bổ sung chi tiết thật từ HDV hoặc host, thay vì yêu cầu AI viết "ấm hơn".
 
 ## A3. Câu lệnh mẫu
@@ -112,11 +112,11 @@ Scrivi i post della pagina Facebook in italiano e, a partire dagli stessi post, 
 Scrivi da vietnamita che parla a italiani: "il vostro Natale", non "il nostro Natale".
 
 Scrivi per tre lettori.
-- Paola, 64 anni, di Bologna. Viaggia con il marito e un'altra coppia, spesso tramite un'agenzia di fiducia. Legge Facebook sul telefono con i caratteri ingranditi e gira i post nel gruppo WhatsApp del viaggio. Guarda il TG1 e si fida della Rai. Teme il caldo, le scale, il cibo piccante, i bagni nei villaggi e una guida che non parla bene l'italiano. La convincono i nomi, gli orari e le persone vere. Scorre oltre davanti ai titoli e ai messaggi in inglese, alle offerte e alle foto troppo patinate.
-- Chiara, 41 anni, di Milano. Viaggia in coppia o con amici, guarda i Reels senza audio, legge le recensioni. Teme i tour affollati, le esperienze costruite per i turisti e il caldo di agosto. La convincono le persone vere che ospitano, i video con i sottotitoli e le informazioni chiare. Non si fida della parola "autentico" senza una prova.
+- Paola, 63 anni, di Bologna. Viaggia con il marito e un'altra coppia, spesso tramite un'agenzia di fiducia. Legge Facebook sul telefono con i caratteri ingranditi e gira i post nel gruppo WhatsApp del viaggio. Guarda il TG1 e si fida della Rai. Teme il caldo, le scale, il cibo piccante, i bagni nei villaggi e una guida che non parla bene l'italiano. La convincono i nomi, gli orari e le persone vere. Scorre oltre davanti ai titoli e ai messaggi in inglese, alle offerte e alle foto troppo patinate.
+- Chiara, 45 anni, di Milano. Viaggia con il marito, a volte anche con la figlia di 14 anni, oppure con un gruppo di amici. Parte ad agosto, a Natale o a Pasqua, quando ha le ferie. Usa Instagram più di Facebook, guarda i video senza audio e legge le recensioni prima di scrivere. Teme i tour affollati, le esperienze costruite per i turisti, il clima di agosto e che la figlia si annoi. La convincono le persone vere che ospitano, le cose concrete che la famiglia può fare insieme e le informazioni chiare sul periodo e sul ritmo del viaggio. Non si fida della parola "autentico" senza una prova.
 - Marco, 57 anni, titolare di una piccola agenzia a Perugia. Apre la pagina prima di affidarci i suoi clienti. Controlla la data dell'ultimo post, come rispondiamo ai commenti e se il nostro italiano è all'altezza. Lo convincono una squadra con nomi e volti, il dietro le quinte dei sopralluoghi e il modo in cui risolviamo un problema reale. Un errore di grammatica o uno sconto pubblico lo allontanano.
 
-Ogni post risponde a una preoccupazione o a un desiderio reale di questi lettori. Le preoccupazioni più frequenti, che ci hanno raccontato i nostri viaggiatori, sono: tappe troppo serrate; luoghi famosi troppo affollati (Ha Long "sembrava più un parco divertimenti"); esperienze costruite e troppi mercati e negozi; la guida di lingua italiana; il rapporto tra prezzo e valore; il periodo giusto e il clima; sicurezza, salute e quanto si cammina; voli e tempi morti; dettagli pratici come mance, contanti e abbigliamento nei templi. Ciò che i viaggiatori ricordano di più sono le persone, le guide, il ritmo lento, le case di famiglia e il sentirsi seguiti per tutto il viaggio.
+Ogni post risponde a una preoccupazione o a un desiderio reale di questi lettori. Le preoccupazioni più frequenti, che ci hanno raccontato i nostri viaggiatori, sono: tappe troppo serrate; luoghi famosi troppo affollati (Ha Long "sembrava più un parco divertimenti"); esperienze costruite e troppi mercati e negozi; la guida di lingua italiana; il rapporto tra prezzo e valore; il periodo giusto e il clima; sicurezza, salute e quanto si cammina; il viaggio con i figli; voli e tempi morti; dettagli pratici come mance, contanti e abbigliamento nei templi. Ciò che i viaggiatori ricordano di più sono le persone, le guide, il ritmo lento, le case di famiglia e il sentirsi seguiti per tutto il viaggio.
 
 ## B2. La voce di Viet Cone
 
@@ -276,19 +276,19 @@ Di solito i paragrafi hanno due o tre frasi, separati da una riga vuota. L'apert
 
 | Formato | Testo del post |
 |---|---|
-| Reels, foto, album | 30–60 parole; fino a circa 80 se serve una spiegazione |
+| Album, foto, Reels | 30–60 parole; fino a circa 90 se serve una spiegazione |
 | Carosello | 30–60 parole; il contenuto principale sta nelle slide |
-| Post di solo testo | Meno di 30 parole per un'idea breve, oppure 120–250 parole per una storia con una persona vera |
+| Post di solo testo | Meno di 30 parole |
 | Post per agenzie | 40–80 parole, con chi, dove, quanto dura, quante persone al massimo |
 | Instagram | Prima riga e 2–4 frasi |
 
-Una buona storia può superare queste misure. Nel testo di un Reel aggiungi ciò che il video non dice. Non ripetere le parole del video.
+I testi lunghi vengono letti meno: una storia che richiede più parole diventa un carosello, oppure un album con una didascalia per ogni foto. Una storia davvero buona può comunque superare queste misure. Nel testo di un Reel aggiungi ciò che il video non dice. Non ripetere le parole del video.
 Nella versione per Instagram metti nel testo le parole che le persone cercano (Vietnam, il nome del luogo, il nome dell'esperienza). Instagram non rende cliccabili i link nel testo: l'invito rimanda al link nella bio o a WhatsApp.
 
 ### B6.4 Chiusura
 
 Il significato del post sta nell'apertura o nella chiusura.
-Chiudi con una domanda vera, con un invito, o con entrambi. Se usi entrambi, la domanda viene prima e l'invito dopo, introdotto da un passaggio come "Se state pensando al viaggio, …".
+Chiudi con una domanda vera, con un invito, o con entrambi. Non tutti i post hanno bisogno di un invito: un post del pilastro 01 o 03 può chiudersi con un'informazione concreta o con una domanda. Se usi entrambi, la domanda viene prima e l'invito dopo, introdotto da un passaggio come "Se state pensando al viaggio, …".
 La domanda è una conversazione, non un sondaggio: "E nella vostra famiglia c'è un piatto che si prepara solo per le feste?" invece di "Quale piatto, nella vostra famiglia, si prepara per le feste?".
 Di solito basta un invito per post; varia la formula. Per i viaggiatori, per esempio:
 - "Scriveteci su WhatsApp, oppure chiedete alla vostra agenzia di fiducia."
