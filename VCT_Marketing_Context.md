@@ -1,6 +1,6 @@
 # Viet Cone Travel – Bối cảnh marketing
 
-Cập nhật 25/11/2026. Tài liệu nội bộ: có dữ liệu đối tác, không gửi nguyên văn ra ngoài.
+Cập nhật 27/11/2026. Tài liệu nội bộ: có dữ liệu đối tác, không gửi nguyên văn ra ngoài.
 
 ## 0. Cách dùng
 
@@ -68,8 +68,12 @@ Cập nhật 25/11/2026. Tài liệu nội bộ: có dữ liệu đối tác, kh
 - **Ưu tiên chính:** người Ý trưởng thành, từ khoảng 50 tuổi, đi để hiểu văn hóa.
   - Cặp đôi, nhóm bạn, hoặc đoàn qua agency.
   - Cần HDV tiếng Ý, nhịp vừa phải, sự an tâm.
-- **Ưu tiên phụ:** người lớn khoảng 30–50 tuổi đi tour riêng tìm trải nghiệm mới (cặp đôi, nhóm bạn, trăng mật).
-- **Phục vụ, chưa đầu tư riêng:** gia đình có con, khách đi một mình, khách ngân sách thấp, khách ghép đoàn. Dòng Classici vẫn phục vụ khách phổ thông và khách lần đầu.
+- **Ưu tiên mở rộng:** người Ý khoảng 40–50 tuổi đi tour riêng, cũng đi để hiểu văn hóa.
+  - Cặp đôi, nhóm bạn, gia đình có con tuổi mới lớn; đi theo lịch nghỉ cố định (tháng 8, Natale, Pasqua).
+  - Đến chủ yếu qua Evaneos và kênh trực tiếp; dùng Instagram nhiều hơn Facebook.
+  - Nhóm này đang tăng ở kênh khách lẻ, nên nội dung Facebook, Instagram viết cho cả nhóm này.
+- **Ưu tiên phụ:** cặp đôi khoảng 30–40 tuổi đi tour riêng tìm trải nghiệm mới, gồm trăng mật.
+- **Phục vụ, chưa đầu tư riêng:** gia đình có con nhỏ, khách đi một mình, khách ngân sách thấp, khách ghép đoàn. Dòng Classici vẫn phục vụ khách phổ thông và khách lần đầu.
 - **Mức chi:** hiện tầm trung đến tầm trung khá. Định hướng là nâng dần một phần khách lên cận cao cấp. Khi nói về giá trị, ưu tiên "chiều sâu, chăm sóc kín đáo" hơn "luxury".
 - **Ngôn ngữ:** tiếng Ý là chủ đạo. Mở rộng sang khách nói tiếng Anh, rồi tiếng Pháp (mục 7).
 
